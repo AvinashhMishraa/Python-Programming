@@ -1,14 +1,12 @@
-# pip install loguru
-#from loguru import logger  
-#logger.info("This is a debug message") 
+# file_path = 'C:\Users\user\Python_Programming\example.txt'
+
+# with open(file_path, 'r') as file:
+#     content = file.read()
+#     print(content)
 
 
+file = open('example.txt', 'r')
+content = file.read()
+print(content)
+file.close()
 
-
-
-import logging 
-#logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(lineno)d - %(message)s')
-logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(filename)s - %(lineno)d - %(message)s')
-#logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(filename)s:%(lineno)d - %(message)s')
-#logging.debug("This is a debug message")
-logging.info("This is a debug message")
