@@ -1,0 +1,427 @@
+1. MySQL Optimization - https://dev.mysql.com/doc/refman/8.0/en/optimization.html 
+2. MySQL Backup and Recovery - https://dev.mysql.com/doc/refman/8.0/en/backup-and-recovery.html
+3. Udemy - https://www.udemy.com/home/my-courses/learning/
+3. SQL PERFORMANCE 
+	- PlanetScale (https://www.youtube.com/playlist?list=PLQiYtJSQdSEDH7TCBxm6tgdTc8rbKoX6K)   VERY IMPORTANT
+	- PlanetScale (https://www.youtube.com/@PlanetScale/videos)   VERY IMPORTANT
+	- https://go.oracle.com/LP=113883
+	- https://www.youtube.com/watch?v=bV8SmHo9B3w (The five-step guide to SQL tuning)
+	- https://www.youtube.com/watch?v=_jM4BDlfZ1Q
+	- https://www.youtube.com/watch?v=RQfJkNqmHB4
+	- https://www.youtube.com/watch?v=qe91yVqMEbQ
+	- https://cloud.google.com/bigquery/docs/best-practices-performance-compute
+	- https://aws.amazon.com/blogs/big-data/top-10-performance-tuning-techniques-for-amazon-redshift/
+	- https://www.percona.com/blog/mysql-101-parameters-to-tune-for-mysql-performance/
+	- https://www.youtube.com/watch?v=MS70fZbOuqo   and   https://www.youtube.com/watch?v=kv3jC0P4gOc    (TechnoTrax youtube)
+	- https://www.youtube.com/watch?v=BIlFTFrEFOI
+	- https://www.youtube.com/watch?v=ZzlyFfX-eHY 
+	- https://www.analytics.today/blog/top-3-snowflake-performance-tuning-tactics
+	- https://www.youtube.com/watch?v=eU8B95FWR-g (Discover the secrets of Oracle database performance Tuning Optimizer and optimize your DB)
+	- https://www.digitalocean.com/community/tutorials/how-to-use-indexes-in-mysql
+	- https://blogs.oracle.com/mysql/post/mysql-performance-tuning-top-10-easy-tips
+	- https://www.analyticsvidhya.com/blog/2021/10/a-detailed-guide-on-sql-query-optimization/
+	-https://coderpad.io/blog/development/optimize-query-performance-mysql/#:~:text=The%20query%20is%20parsed%2C%20preprocessed,in%20your%20query%20before%20execution.
+	- https://www.youtube.com/playlist?list=PLyqxZbUeJJJrVl-Ja0LoEYZXy-QkTHgcw (Performance Tuning SQL- Pandey Guruji)
+	- https://www.youtube.com/watch?v=EEklkdkuSfM (How to Analyze and Tune MySQL Queries for Better Performance)
+	- https://www.youtube.com/watch?v=d37_2tFPstU  (MySQL Server Configuration for High Performance)
+	- https://www.youtube.com/playlist?list=PLdQruVCKu10kbFYrPLpQOmp4DnJDQz_yg  (Confident Queries and Stronger SQL)
+	- https://www.youtube.com/watch?v=LZTXuR0xS40
+	- https://www.youtube.com/watch?v=ZH03kXN5-Ok
+	- https://www.youtube.com/playlist?list=PLe4Ha_-FN11abqAh3k6Fx5INGPyuIFTPn
+	- https://www.youtube.com/playlist?list=PLf-39075ydszFgJWvnESuz_u_pemT9eie
+	- https://www.datacamp.com/tutorial/sql-tutorial-query
+	- https://www.thoughtspot.com/data-trends/data-modeling/optimizing-sql-queries
+	- https://www.kdnuggets.com/2023/03/sql-query-optimization-techniques.html
+	- https://www.thoughtspot.com/data-trends/data-modeling/how-to-solve-sql-data-modeling-issues
+	- https://www.youtube.com/watch?v=yldnb3aovUY (Performance Tuning Of SQL Queries)
+	- https://www.sqlshack.com/query-optimization-techniques-in-sql-server-tips-and-tricks/
+	- https://www.youtube.com/playlist?list=PLBrWqg4Ny6vXQZqsJ8qRLGRH9osEa45sw (MySQL Performance Tuning)
+	- https://www.youtube.com/watch?v=zvWKqUiovAM (Top 7 Ways to 10x Your API Performance)
+	- https://www.site24x7.com/learn/optimize-slow-sql-queries-for-large-dataset.html
+	- https://www.red-gate.com/simple-talk/databases/sql-server/database-administration-sql-server/sql-server-performance-tuning-nine-best-practices/
+	- https://www.youtube.com/watch?v=ilI5jNlzl1Q (Oracle Youtube channel)
+	- https://www.youtube.com/watch?v=LpPo7R8siXA    (Coding Glitz)
+	- https://www.youtube.com/watch?v=2OJazrXmKXA (12 Ways To Rewrite SQL Queries for Better Performance)
+	- https://www.youtube.com/watch?v=WydFJDLT0Qk (DataBISQL)
+	- https://www.youtube.com/playlist?list=PLf-39075ydszFgJWvnESuz_u_pemT9eie (techsapphire youtube playlist)
+	- https://www.youtube.com/watch?v=FoTMJFZ4wwg 
+	- https://www.youtube.com/watch?v=eNDe6nSbEgw&list=PLBSTSOIw8lk1BldsophqSub7jkI1iMm3P 
+	- https://www.youtube.com/watch?v=xYg_aycpp2Q 	(learn by doing it - youtube channel)
+        - MYSQL PERFORMANCE TUNING - https://go.oracle.com/LP=113883
+        - https://www.thoughtspot.com/data-trends/data-modeling/optimizing-sql-queries
+        - https://www.thoughtspot.com/data-trends/data-modeling/data-modeling-best-practices-for-analytics-and-data-engineers
+        - https://blog.devart.com/how-to-optimize-sql-query.html#sql-query-optimization-basics
+	- https://www.analyticsvidhya.com/blog/2021/10/a-detailed-guide-on-sql-query-optimization/
+        - https://www.syncfusion.com/blogs/post/top-10-sql-query-optimization-techniques.aspx
+        - https://www.kdnuggets.com/2023/03/sql-query-optimization-techniques.html
+        - https://www.mantralabsglobal.com/blog/sql-query-optimization-tips/
+        - https://blogs.halodoc.io/learning-query-optimization-techniques/
+	- https://www.youtube.com/watch?v=BHwzDmr6d7s
+	- https://www.youtube.com/watch?v=m8ogrogKjXo
+	- https://www.youtube.com/watch?v=GA8SaXDLdsY
+	- https://www.youtube.com/watch?v=V-4_PAMBSjY
+	- https://www.youtube.com/watch?v=asCQj1ybnds
+	- https://www.youtube.com/watch?v=w24opVzmEKc
+	- https://www.youtube.com/playlist?list=PL866liXsbAwHCLUExQEY_rwUOpaEFwB9-
+	- https://bertwagner.com/posts/12-ways-to-rewrite-sql-queries-for-better-performance/
+
+
+4. SQL Interview Questions 
+	=> https://www.youtube.com/playlist?list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX
+	=> https://www.stratascratch.com/blog/sql-cheat-sheet-technical-concepts-for-the-job-interview/
+
+	=> https://www.youtube.com/playlist?list=PLudtFFYa8QihMGefu3WNyTP1Qotn8HIlS (Nitya CloudTech)
+
+	=> Jovian youtube channel
+		---> https://www.youtube.com/playlist?list=PLyMom0n-MBrq-sa-kCYftEJulyrjczx70
+		---> https://www.youtube.com/watch?v=zav2es5Am50  (FAANG Interview Questions Solved)
+	   	---> https://www.youtube.com/watch?v=cwKdbAAIvE0
+
+	=> https://www.youtube.com/@DEwithDhairy/playlists (DEwithDhairy - DSA, SQL, Pandas, PySPARK for Data Engineers)
+
+	=> https://www.geeksengine.com/database/problem-solving/
+
+	=> (Sumit Mittal) 
+		--> https://www.youtube.com/watch?v=qlkS-e5ym1w
+		--> https://github.com/bigdatabysumitm/NotesOfYouTubeSQLSeries/tree/main
+		--> (SQL Internals) https://www.youtube.com/watch?v=gZu2ZldwrK4&list=PLtgiThe4j67osrX6iUEpo7J4Gkh_G25Y_ 
+
+	=> techTFQ 
+		--> (Top 25 SQL Interview Questions and Answers) https://www.youtube.com/watch?v=AK7_m-aThfw 
+		--> (Materialised View) - https://www.youtube.com/watch?v=WzkBZ0byoYE&list=PLavw5C92dz9GbmgiW4TWVnxhjMFOIf0Q7&index=11
+		--> (Procedure) - https://www.youtube.com/watch?v=yLR1w4tZ36I&list=PLavw5C92dz9GbmgiW4TWVnxhjMFOIf0Q7&index=5
+		--> https://www.youtube.com/watch?v=ZML_EJrBhnY (Top 10 SQL Interview Queries)
+		--> https://www.youtube.com/playlist?list=PLavw5C92dz9Fahr7taauUx5RnTfuGyL--
+		--> https://www.youtube.com/playlist?list=PLavw5C92dz9EIYmNXJ8ZtQ1bmLIpt0SpV
+		--> https://www.youtube.com/watch?v=AZ29DXaJ1Ts&t=1546s
+	
+
+	=> Ankit Bansal 
+		--> (Complex SQL Questions for Interview Preparation) https://www.youtube.com/playlist?list=PLBTZqjSKn0IeKBQDjLmzisazhqQy4iGkb
+		--> (SQL Medium Complex Interview Problems) https://www.youtube.com/playlist?list=PLBTZqjSKn0IfuIqbMIqzS-waofsPHMS0E
+		--> (LeetCode SQL Hard Problems) https://www.youtube.com/playlist?list=PLBTZqjSKn0IfULLRo9Tm4lESxYMAG7fUQ
+		--> (SQL Tips and Tricks) https://www.youtube.com/playlist?list=PLBTZqjSKn0IcR6DhoLUibOG8frnWbZdSH
+
+	=> Praveen Kumar Bommisetty - 
+		(SQL Interview Questions) => https://www.youtube.com/playlist?list=PLM68C8Cb4yoNTMyZVe-tFQvDkPAdRfqpG 
+		(SQL Real Time Scenarios) => https://www.youtube.com/playlist?list=PLM68C8Cb4yoMDXE_Dj7Ru32BFYz2veBGZ 
+
+	=> (DataBISQL) - https://www.youtube.com/playlist?list=PL-zHTrqzKdQJf0NptyA1CIWLaDD32BFaT
+
+	=> DATA LEMUR -	https://datalemur.com/questions
+
+	=> (Data Sculptor) - https://www.youtube.com/playlist?list=PLNlYnu7poveKW915P7Yafz3mNqnIefh3e
+
+	=> (Data Prodigy) - https://www.youtube.com/playlist?list=PL2bSwoICMApHgJOEJy65h6Ct977CfiY8E 
+
+	=> Saikat Dey (Data Engineering Interview Questions) - https://www.youtube.com/playlist?
+list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
+
+	=> (Vipul Gupta) https://www.youtube.com/playlist?list=PLdaaUtDIdDocCX5sSLRez5BnlVFw7ioa7
+
+	=> (Data k Daku) https://www.youtube.com/@DATAKEDAKU-singh 
+
+	=> https://datalemur.com/questions?category=SQL
+	=> https://leetcode.com/problemset/database/?page=1&listId=rhce6mid
+	=> https://leetcode.com/studyplan/top-sql-50/
+	=> Top 100 leetCODE SQL questions PDF
+	=> https://leetcode.com/problemset/database/?page=1&listId=5htp6xyg
+	=> https://platform.stratascratch.com/coding?code_type=3
+	=> https://platform.stratascratch.com/data-projects?categories=1&categories=4&categories=5
+	=> https://www.stratascratch.com/blog/sql-cheat-sheet-technical-concepts-for-the-job-interview/
+	=> https://www.stratascratch.com/blog/database-interview-questions/
+	=> https://www.stratascratch.com/blog/clustered-vs-non-clustered-indexes-in-sql/
+	=> https://www.stratascratch.com/blog/the-ultimate-guide-to-sorting-in-sql/
+	=> (Rishabh Mishra) https://www.youtube.com/watch?v=AZzTHWF7tEc
+	=> https://www.youtube.com/watch?v=VAOpMH_iXMA
+
+5. Data Modeling 
+	=> https://www.youtube.com/playlist?list=PLZDOU071E4v6epq3GS0IqZicZc3xwwBN_ (Database Design  -- Database Star youtube)
+	=> https://www.thoughtspot.com/data-trends/data-modeling/dimensional-data-modeling
+	=> https://www.thoughtspot.com/data-trends/data-modeling/data-modeling-best-practices-for-analytics-and-data-engineers
+	=> https://www.thoughtspot.com/data-trends/data-modeling/how-to-solve-sql-data-modeling-issues
+	=> https://www.thoughtspot.com/data-trends/data-modeling/star-schema-vs-snowflake-schema
+	=> https://www.youtube.com/watch?v=M4qZ5i1LL2o (Video Rental Company)
+	=> https://www.youtube.com/watch?v=tvVwCILH2XE (University Registrar's Office)
+	=> https://github.com/tutorials24x7/blog-database-mysql
+	=> https://mysql.tutorials24x7.com/blog/guide-to-design-a-database-for-blog-management-in-mysql
+	=> https://vertabelo.com/blog/a-database-model-to-manage-appointments-and-organize-schedules/
+
+5. Data Engineering Mock Interview (The Big Data Show)
+	=> https://www.youtube.com/watch?v=YHszFdZw4tY
+	=> https://www.youtube.com/playlist?list=PLO_OQn62S1TeueYw-VKLOpiS_LI1y9LfV
+	=> https://www.youtube.com/playlist?list=PLiDUHlGx0KN8e7yU8tS0yP-zc3sNIPKdG
+	=> https://www.youtube.com/watch?v=f7v_1UmkAoM&t=42s
+
+5. Blogs to read on SQL optmization and indexing
+	=> https://www.youtube.com/playlist?list=PLCRMIe5FDPsdnSszazqVIQFh99t1ExH19
+	=> https://builtin.com/data-science/b-tree-index
+	=> https://workat.tech/core-cs/tutorial/b-tree-and-b-plus-trees-in-dbms-gzzjplg15e4q
+	=> https://www.stratascratch.com/blog/clustered-vs-non-clustered-indexes-in-sql/
+	=> https://coderpad.io/blog/development/an-introduction-to-stored-procedures-in-mysql/
+	=> https://coderpad.io/blog/development/how-to-use-indexes-to-increase-mysql-database-performance/
+	=> https://coderpad.io/blog/development/optimize-query-performance-mysql/
+	=> https://coderpad.io/blog/development/optimize-mysql-database-schema/
+	=> https://levelup.gitconnected.com/advanced-profiling-and-tracing-mysql-queries-c0c95dc7db24
+	=> https://www.burnison.ca/notes/fun-mysql-fact-of-the-day-got-it-covered
+	=> https://vladmihalcea.com/mysql-query-profiling-performance-schema/
+	=> https://dzone.com/articles/10-database-optimization-best-practices-for-web-de
+	=> https://dev.mysql.com/doc/refman/8.0/en/comparison-operators.html#operator_equal-to
+	=> https://www.moesif.com/blog/technical/api-design/REST-API-Design-Filtering-Sorting-and-Pagination/
+	=> https://www.geeksforgeeks.org/difference-between-anti-join-and-semi-join/
+	=> https://www.stratascratch.com/blog/postgres-vs-mysql-which-is-better-for-analytics/
+
+
+6. Data Structures and Algorithms in Python
+	=> https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/?no-filter=true
+	=> https://www.youtube.com/watch?v=hRacqGUEYd0
+	=> https://www.youtube.com/watch?v=pkYVOmU3MgA&list=PLyMom0n-MBrpr1Q3OQC5Od1o1zczHEO0u&index=3 (DSA in Python - freeCodeCamp)
+	=> https://www.youtube.com/playlist?list=PLyMom0n-MBrpVcMqVV9kbA-hq2ygir0uW  (Star Patterns in Python)
+	=> https://www.youtube.com/playlist?list=PLyMom0n-MBrqFwguQhbCu0Anlxoel08dr (DSA in Python)
+	=> https://www.youtube.com/playlist?list=PLyMom0n-MBrodIRp839OaY2eLKddUJMzf (Leetcode in Python)
+
+
+6. Projects Must to do
+	=> https://www.youtube.com/playlist?list=PLba2xJ7yxHB6W0XT7gxeY1HbJ39FMWoUF (End To End DE Project Using Snowflake | Real Cricket Analytics Use Case)
+	=> => (Satadru Mukherjee) 
+		--> https://doc.clickup.com/37466271/d/h/13qc4z-104/d4346819bd8d510
+	=> https://www.youtube.com/watch?v=Qs-F3p08TGs (Big Data Analytics with Large Language Models - OpenAI ChatGPT)
+	=> https://www.youtube.com/watch?v=52CWagk3-jw&list=PLBTZqjSKn0Ie0FvR3_ass_iTIqYV_CAth (Ankit Bansal - Superstore Data Analysis | End to End AWS Data Engineering Project for Beginners)
+	=> https://www.youtube.com/watch?v=YQjuWiyeu-A
+
+7. PySpark
+	=> https://www.youtube.com/playlist?list=PLudtFFYa8QihFgwsG8UQpZ3tuzqJUx9lE
+	=> https://www.youtube.com/watch?v=EkGLTj3uBdQ&list=PLudtFFYa8QiiJNiJe2_iEOF8xl3nOb-ZS (Pyspark Real Time Scenarios|Pyspark Interview Questions)
+	=> https://www.youtube.com/playlist?list=PL2IsFZBGM_IHCl9zhRVC1EXTomkEp_1zm (Zero to Hero - Ease With Data Youtube channel)
+	=> https://www.youtube.com/watch?v=aHRy8mTzxNs
+	=> https://www.youtube.com/@DEwithDhairy/playlists (DEwithDhairy - DSA, SQL, Pandas, PySPARK for Data Engineers)
+
+8. Snowflake 
+	=> (Satadru Mukherjee) 
+		--> https://doc.clickup.com/37466271/d/h/13qc4z-104/d4346819bd8d510
+
+	=> (Data Engineering Simplified) https://www.youtube.com/@DataEngineering/playlists
+
+	=> Praveen Kumar Bommisetty
+		--> (Snowflake Concepts) ==> https://www.youtube.com/playlist?list=PLM68C8Cb4yoPdSi4UCGwd4YsVB8BNEBZA 
+		--> (Snowflake SQL Interview Questions) ==> https://www.youtube.com/playlist?list=PLM68C8Cb4yoNofocbEgtvy-3Zy2ltlq23 
+
+9. AWS 
+	=> (DataEng Uncomplicated) https://www.youtube.com/@DataEngUncomplicated/playlists
+
+9. Data Analytics
+	=> https://www.youtube.com/watch?v=fRVXW_oCTj0 (EDA on Real Life Banking Data using Python)
+	=> https://www.youtube.com/playlist?list=PLkWRCY_kK0GhypGoj3Tj42M-B7VQa_G5e
+	=> https://www.youtube.com/watch?v=0tw-oAc5GDg
+	=> Chandoo channel on YouTube for Excel and DAGs
+	=> https://www.youtube.com/watch?v=GPVsHOlRBBI&list=PLyMom0n-MBrpr1Q3OQC5Od1o1zczHEO0u (Data Analysis with Python Course - Numpy, Pandas, Data Visualization)
+	=> https://www.youtube.com/watch?v=kLDTbavcmd0&list=PLyMom0n-MBrpr1Q3OQC5Od1o1zczHEO0u&index=5
+	=> https://www.youtube.com/watch?v=m2J7s-r_4Rs (PowerBI)
+	=> https://www.youtube.com/watch?v=0ICD9zMMzZ4
+
+
+
+6. CERTIFICATIONS 
+	=> https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst?irclickid=1Rcx4YTTaxyPUzWyXvzdxTg2UkH16vWVq3zIxY0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=5196378&utm_content=b2c
+	=> https://www.coursera.org/specializations/excel?=&irclickid=1Rcx4YTTaxyPUzWyXvzdxTg2UkH16vT1q3zIxY0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=5196378&utm_content=b2c
+
+
+
+
+7. https://anywhere.epam.com/en/technical-interview-questions-guide 
+	A. https://anywhere.epam.com/en/blog/data-engineer-interview-questions 
+    	B. https://anywhere.epam.com/en/blog/big-data-interview-questions 
+    	C. https://anywhere.epam.com/en/blog/google-cloud-interview-questions
+    	D. https://anywhere.epam.com/en/blog/python-interview-questions
+    	E. https://anywhere.epam.com/en/blog/power-bi-developer-interview-questions
+    	F. https://anywhere.epam.com/en/blog/azure-interview-questions
+    	G. https://anywhere.epam.com/en/blog/sql-interview-questions
+    	H. https://anywhere.epam.com/en/blog/senior-data-engineer-interview-questions
+    	I. https://anywhere.epam.com/en/blog/senior-python-developer-interview-questions
+    	J. https://anywhere.epam.com/en/blog/epam-anywhere-interview-questions-answers
+    	K. https://anywhere.epam.com/en/blog/aws-cloud-engineer-interview-questions
+    	L. https://anywhere.epam.com/en/blog/data-analyst-interview-questions
+    	M. https://www.ambitionbox.com/interviews/epam-systems-interview-questions
+    	N. https://www.mysql.com/why-mysql/migration/
+
+
+8. Python Interview Questions 
+	=> https://www.youtube.com/watch?v=YeupGcOW-3k
+	=> https://datalemur.com/questions?category=Python
+	=> https://www.interviewquery.com/p/data-engineer-python-questions
+	=> https://realpython.com/data-engineer-interview-questions-python/
+	=> https://www.springboard.com/blog/data-science/python-interview-questions/
+	=> https://www.projectpro.io/article/data-engineer-interview-questions-and-answers/456
+	=> https://360digitmg.com/blog/data-engineer-python-interview-questions
+	=> https://www.stratascratch.com/blog/python-data-engineer-interview-questions/
+	=> https://medium.com/@sounder.rahul/python-data-engineers-coding-interview-questions-part-1-4e2f6b22c22d
+
+
+9. System Design
+	=> https://github.com/donnemartin/system-design-primer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***************************************************************************************************************************/
+
+Optimizing SQL query performance is crucial for ensuring efficient data retrieval and manipulation in database systems. Here are several ways to optimize SQL queries:
+
+1. Use Indexes Wisely:
+
+	=> Indexes help in faster data retrieval by providing quick access to rows in a table. Proper indexing of columns involved in 		   search conditions (WHERE clauses), JOIN conditions, and ORDER BY clauses can significantly enhance query performance.
+
+	=> However, over-indexing can lead to increased storage requirements and slower write operations, so indexes should be used 		   judiciously.
+
+2. Optimize Queries:
+
+	=> Simplify queries by eliminating unnecessary joins, conditions, and columns.
+
+	=> Rewrite complex queries to use efficient techniques like EXISTS, IN, and JOINs rather than subqueries.
+
+3. Avoid SELECT * and Use Specific Columns:
+
+	=> Fetching only the required columns instead of using SELECT * can reduce the amount of data transmitted between the database 	   server and the client, resulting in faster query execution.
+
+4. Use Proper JOINs:
+
+	=> Choose the appropriate type of JOIN (e.g., INNER JOIN, LEFT JOIN, RIGHT JOIN) based on the relationship between the tables 	   and the desired result set.
+
+	=> Use INNER JOIN when only matching rows from both tables are needed.
+
+5. Limit Data Retrieval:
+
+	=> Use the LIMIT keyword to restrict the number of rows returned by the query, especially for queries that return large result 	   sets.
+	=> Employ pagination techniques to retrieve data in smaller chunks.
+
+6. Optimize Subqueries:
+
+	=> Replace correlated subqueries with JOINs or derived tables whenever possible, as correlated subqueries can be performance-	   intensive.
+
+7. Avoid Using Cursors:
+
+	=> Cursors should be avoided whenever possible, as they operate row by row, leading to slower performance compared to set-	   based operations.
+
+8. Optimize WHERE Clause:
+
+	=> Ensure that WHERE clauses are sargable (Search ARGument ABLE). Sargable queries can use indexes effectively, whereas non-	  	   sargable queries may require full table scans.
+
+	=> Avoid using functions on indexed columns in WHERE clauses, as it prevents the use of indexes.
+
+9. Monitor Query Performance:
+
+	=> Use database monitoring tools to analyze query execution plans and identify performance bottlenecks.
+
+	=> Monitor and optimize long-running queries to improve overall system performance.
+
+10. Use Stored Procedures:
+
+	=> Stored procedures can improve performance by reducing network traffic and pre-compiling SQL statements.
+
+	=> They can also be optimized and cached by the database engine for faster execution.
+
+11. Consider Denormalization:
+
+	=> In some cases, denormalizing the database by adding redundant data can improve query performance by reducing the need for 	   complex joins.
+
+	=> However, denormalization should be approached cautiously to maintain data integrity and consistency.
+
+12. Database Optimization:
+
+	=> Regularly perform database maintenance tasks such as index rebuilding, updating statistics, and defragmenting data files to 	   ensure optimal performance.
+
+	=> By implementing these optimization techniques, you can significantly enhance the performance of your SQL queries and 	   improve the overall efficiency of your database system.
+
+/********************************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
