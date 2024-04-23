@@ -246,6 +246,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 8. Python Interview Questions 
+	=> https://medium.com/@yaduvanshineelam09/ultimate-python-cheat-sheet-practical-python-for-everyday-tasks-8a33abc0892f
 	=> https://www.youtube.com/watch?v=YeupGcOW-3k
 	=> https://datalemur.com/questions?category=Python
 	=> https://www.interviewquery.com/p/data-engineer-python-questions
