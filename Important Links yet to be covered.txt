@@ -1,12 +1,7 @@
-STUDY PLAN - https://www.youtube.com/watch?v=GIi1t2hPqJI
-COMPLETE ROADMAP ===>   https://www.youtube.com/watch?v=Vb1v6s5x6Ow
-
-
 1. MySQL Optimization - https://dev.mysql.com/doc/refman/8.0/en/optimization.html 
 2. MySQL Backup and Recovery - https://dev.mysql.com/doc/refman/8.0/en/backup-and-recovery.html
 3. Udemy - https://www.udemy.com/home/my-courses/learning/
 3. SQL PERFORMANCE 
-	- https://www.youtube.com/watch?v=xYg_aycpp2Q&list=PLOlK8ytA0Mgj4YDvzevQir35PieOswsFX&index=5
 	- PlanetScale (https://www.youtube.com/playlist?list=PLQiYtJSQdSEDH7TCBxm6tgdTc8rbKoX6K)   VERY IMPORTANT
 	- PlanetScale (https://www.youtube.com/@PlanetScale/videos)   VERY IMPORTANT
 	- https://go.oracle.com/LP=113883
@@ -251,7 +246,6 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 8. Python Interview Questions 
-	=> https://medium.com/@yaduvanshineelam09/ultimate-python-cheat-sheet-practical-python-for-everyday-tasks-8a33abc0892f
 	=> https://www.youtube.com/watch?v=YeupGcOW-3k
 	=> https://datalemur.com/questions?category=Python
 	=> https://www.interviewquery.com/p/data-engineer-python-questions
@@ -261,21 +255,14 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://360digitmg.com/blog/data-engineer-python-interview-questions
 	=> https://www.stratascratch.com/blog/python-data-engineer-interview-questions/
 	=> https://medium.com/@sounder.rahul/python-data-engineers-coding-interview-questions-part-1-4e2f6b22c22d
-	=> https://www.youtube.com/watch?v=1m2x9gZOwzI
 
 
 9. System Design
 	=> https://github.com/donnemartin/system-design-primer
-	=> https://www.youtube.com/playlist?list=PLVcEZG2JPVhdfw2nh1qTuwqsQrJ8L3mIc
-	=> https://www.youtube.com/watch?v=1m2x9gZOwzI
 
 
 
-10.Guesstiates/Business Case Studies
-	=> https://www.youtube.com/@technomanagers/playlists
 
-11. Data Migration
-	=> https://www.youtube.com/watch?v=3v3Q7WVbsT4
 
 
 
@@ -429,222 +416,7 @@ Optimizing SQL query performance is crucial for ensuring efficient data retrieva
 
 
 
-Here are 5 Data Warehousing & Data Modeling related questions that were asked during my interviews with various product-based companies 👇 (Save & Share for future)
 
-1️⃣ Ride Booking Application - Asked in Google: The focus here was on the importance of geospatial data in an Uber-like app. Designing a Data Warehouse that efficiently stores, processes, and queries Lat-Long data to provide insights into ride patterns, optimal routing, and driver allocation was a deep dive into spatial data complexities. 
-
-2️⃣ The IPL Tournament - Asked in Flipkart: Design a data model to capture the vibrancy and complexity of an IPL tournament. The task was to craft a schema that could offer insights into team performances, player stats, match outcomes, and more, all while being efficient and scalable. 
-
-3️⃣ Meeting Management System - Asked in Uber : Ever thought about the intricacies behind booking meeting rooms? This question required designing a data model that not only keeps track of room availability and bookings but also dynamically updates slots based on actual usage, a real test of flexibility and real-time data handling. 
-
-4️⃣ Food Delivery Application - Asked in Grab : This scenario explored designing a warehouse capable of analyzing order delivery times, customer preferences, restaurant performance, and more, for a food delivery platform. A delicious mix of consumer behavior analysis and logistical optimization!
-
-5️⃣ Vehicle Rental Service like Zoomcar - Asked in Atlassian : The question was to design a data warehouse that tracks vehicle rentals, usage patterns, maintenance schedules, and customer feedback. It was an exciting exercise in balancing asset management with customer satisfaction. 
-
-P.S: Small note based on my experience, no one looks for 100% accurate answer so approach the questions accordingly 🙂
-
-
-
-
-
-
-
-
-
-
-
-
-
-Amazon Business Analyst Assignment Questions ➖
-
-Question 1 - Scenario: You are a data analyst at an online bookstore. The `Product_Orders` table logs each order made, uniquely identified by an `order_id`, along with the associated `product_id`, `unit_price`, and `order_timestamp`. The `Order_Status` table tracks changes in status for each order with a corresponding status `timestamp`.
-
-Status Definitions:
-- PLACED: The order has been made by the customer.
-- SHIPPED: The order has been dispatched from the warehouse.
-- DELIVERED: The order has been received by the customer.
-- REFUSED: The customer refused the order at delivery.
-- RETURNED: The order was returned by the customer after accepting it.
-
-Objective: Calculate the Total Sales Value Difference month-on-month.
-
-Formula:
-- Total Sales Value Difference = Sum(unit price of DELIVERED orders) - Sum(unit price of REFUSED orders) - Sum(unit price of RETURNED orders), calculated monthly.
-
-Data Samples:
-
-`Product_Orders` Table:
-
-| order_id | order_timestamp  | product_id | unit_price |
-|----------|------------------|------------|------------|
-| 1001     | 2023-01-15 10:00 | 501        | 25         |
-| 1002     | 2023-01-18 15:00 | 502        | 45         |
-| 1003     | 2023-02-10 09:00 | 503        | 30         |
-| 1004     | 2023-02-12 14:00 | 504        | 50         |
-| 1005     | 2023-02-28 20:00 | 505        | 20         |
-| 1006     | 2023-03-03 12:00 | 506        | 55         |
-| 1007     | 2023-03-05 11:00 | 507        | 40         |
-
-`Order_Status` Table:
-
-| order_id | timestamp        | status     |
-|----------|------------------|------------|
-| 1001     | 2023-01-16 14:00 | SHIPPED    |
-| 1001     | 2023-01-17 12:00 | DELIVERED  |
-| 1002     | 2023-01-19 16:00 | REFUSED    |
-| 1003     | 2023-02-11 10:00 | DELIVERED  |
-| 1004     | 2023-02-13 16:00 | RETURNED   |
-| 1005     | 2023-02-28 21:00 | DELIVERED  |
-| 1006     | 2023-03-04 13:00 | DELIVERED  |
-| 1007     | 2023-03-06 10:00 | RETURNED   |
-
-
-Questions - 2
-
-
-
-
-Here are the graphs for the hypothetical scenario comparing two email marketing strategies: Design Tips and Sales Events. Based on these graphs, you can analyze the effectiveness of each campaign.
-Questions Based on the Graphs:
-Overall Performance Analysis
-Which email campaign had a higher total number of emails delivered?
-Which campaign achieved a higher overall click-through rate?
-Segmented Performance Analysis
-Compare the click-through rates of the Design Tips and Sales Events campaigns among occasional buyers. Which strategy was more effective with this group?
-Analyze the click-through rates among frequent buyers. Which strategy seems more appealing to this segment?
-Strategic Insights
-Based on the click-through rates shown in the graphs, which strategy seems to better resonate with the target audience? Why might that be the case?
-Considering the different responses between occasional and frequent buyers, how might the company tailor future campaigns to these distinct groups?
-
-
-2nd round Business Analyst Interview Questions -
-
-A. SQL:
-
-1. You have two tables: Product and Supplier.
-- Product Table Columns: Product_id, Product_Name, Supplier_id, Price
-- Supplier Table Columns: Supplier_id, Supplier_Name, Country
-
-Write an SQL query to find the name of the product with the highest price in each country.
-
-2. You have two tables: Customer and Transaction.
-- Customer Table Columns: Customer_id, Customer_Name, Registration_Date
-- Transaction Table Columns: Transaction_id, Customer_id, Transaction_Date, Amount
-
-Write an SQL query to calculate the total transaction amount for each customer for the current year. The output should contain Customer_Name and the total amount.
-
-B. Python:
-
-1. Basic oral questions on pandas (like: groupby, loc/iloc, merge & join, etc.)
-
-2. Write the code in pandas that replicates the functionality of your answer to the second SQL question.
-
-C. Leadership or Situational Questions:
-
-(Based on the leadership principle of Disagree and Commit)
-- Tell us about a time when you had to support a decision you disagreed with. How did you handle it, and what was the result?
-
-(Based on the leadership principle of Earn Trust)
-- Describe an instance where you went above and beyond to build or regain trust with a colleague or client. What was the situation, and what were the outcomes?
-
-(Based on the leadership principle of Invent and Simplify)
-- Can you share an example of when you had to find an innovative solution to a complex problem? How did you simplify the process or solution for everyone involved?
-
-D. Excel:
-
-Questions on formulas like: SUMIFS, COUNTIFS, LOOKUPS, INDEX & MATCH, AVERAGEIFS. Plus, some basic questions on pivot tables, conditional formatting, data validation, and charts.
-
-
-Senior Analyst Technical interview questions -
-
-### A. SQL:
-1. Advanced Joins and Aggregations:
-   - You have two tables: Employee and Department.
-     - Employee Table Columns: Employee_id, Employee_Name, Department_id, Salary, Date_Joined
-     - Department Table Columns: Department_id, Department_Name, Location
-   - Write an SQL query to find the name and salary of the highest-paid employee in each department who joined in the last three years, along with their department name and location.
-
-2. Complex Data Manipulation:
-   - You have two tables: Orders and Customers.
-     - Orders Table Columns: Order_id, Customer_id, Order_Date, Amount, Status
-     - Customers Table Columns: Customer_id, Customer_Name, Join_Date
-   - Write an SQL query to calculate the total order amount for each customer who joined in the current year and has made at least three orders. The output should include Customer_Name and the total amount, sorted by the total amount in descending order.
-
-3. Subqueries and Conditional Logic:
-   - You have a single table: Transactions.
-     - Transactions Table Columns: Transaction_id, Account_id, Transaction_Date, Amount, Type (‘credit’ or ‘debit’)
-   - Write an SQL query to find the account balance for all accounts as of today, assuming that the balance starts at zero and only transactions up to today are considered.
-
-4. Window Functions:
-   - You have the following table: Sales.
-     - Sales Table Columns: Sale_id, Product_id, Sale_Date, Revenue
-   - Write an SQL query using window functions to rank the products by revenue in each quarter of the year. Include year, quarter, product_id, revenue, and rank.
-
-### B. Python (Pandas & NumPy):
-
-1. Complex Data Frame Manipulation:
-   - Given a DataFrame 'df_sales' with columns [‘Product_id’, ‘Sale_Date’, ‘Revenue’], write a pandas code snippet to calculate the cumulative revenue for each product up to the current date and display the last 10 entries.
-
-2. NumPy Array Operations:
-   - Write a NumPy script to create a 2D array of shape (10,10) where each element is equal to the sum of its row index and column index. Then, extract and print a 4x4 subarray starting from the second row and second column of the original array.
-
-3. Data Merging and Analysis:
-   - Assume you have two DataFrames, 'df_customers' with columns [‘Customer_id’, ‘Customer_Name’] and 'df_orders' with columns [‘Order_id’, ‘Customer_id’, ‘Order_Date’, ‘Amount’]. Write a pandas code snippet to merge these DataFrames on 'Customer_id' and calculate the average order amount for each customer. Sort the results by the average order amount in descending order.
-
-4. Time Series and Data Aggregation:
-   - Using the 'df_sales' DataFrame, demonstrate how to resample the data to get monthly total revenue. Then, plot this monthly revenue trend using Matplotlib, ensuring to label the axes and provide a title to the graph.
-
-
-
-Amazon's leadership principles & FAQs based on that -
-
-1. Customer Obsession: Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust.  
-   - FAQ: Can you describe a time when you went above and beyond for a customer?
-
-2. Ownership: Leaders act on behalf of the entire company, beyond just their own team. They never say "that's not my job."  
-   - FAQ: How have you demonstrated ownership in your previous roles?
-
-3. Invent and Simplify: Leaders expect and require innovation and invention from their teams and always find ways to simplify.  
-   - FAQ: Tell me about a time when you invented something or significantly simplified a process.
-
-4. Are Right, A Lot: Leaders are right a lot. They have strong judgment and good instincts.  
-   - FAQ: Can you provide an example of a decision you made that was a success and why you think it was the right decision?
-
-5. Learn and Be Curious: Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.  
-   - FAQ: What are you currently learning and why is it important to you?
-
-6. Hire and Develop the Best: Leaders raise the performance bar with every hire and promotion. They recognize exceptional talent, and willingly move them throughout the organization.  
-   - FAQ: How do you mentor others? Give an example of how you helped someone succeed professionally.
-
-7. Insist on the Highest Standards: Leaders have relentlessly high standards—many people may think these standards are unreasonably high.  
-   - FAQ: How do you maintain high standards for yourself and your team?
-
-8. Think Big: Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results.  
-   - FAQ: Describe a time when you had to think big and what led you to it.
-
-9. Bias for Action: Speed matters in business. Many decisions and actions are reversible and do not need extensive study.  
-   - FAQ: Can you describe a situation where you had to make a quick decision with limited information?
-
-10. Frugality: Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention.  
-    - FAQ: Tell me about a time when you had to achieve something significant with very few resources.
-
-11. Earn Trust: Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing.  
-    - FAQ: How do you earn trust among your team and stakeholders?
-
-12. Dive Deep: Leaders operate at all levels, stay connected to the details, and audit frequently. No task is beneath them.  
-    - FAQ: Describe a time when you had to "dive deep" into the details of a project.
-
-13. Have Backbone; Disagree and Commit: Leaders respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting.  
-    - FAQ: Have you ever disagreed with a senior decision-maker? How did you handle the situation?
-
-14. Deliver Results: Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion.  
-    - FAQ: Can you talk about a time when you overcame a significant challenge to deliver results?
-
-15. Strive to be Earth’s Best Employer: Leaders work every day to create a safer, more productive, higher performing, more diverse, and more just work environment.  
-    - FAQ: How do you contribute to creating a positive and inclusive workplace culture?
-
-16. Success and Scale Bring Broad Responsibility: Leaders must consider the broader societal impacts of their actions.  
-    - FAQ: How have you balanced company success with social responsibility?
 
 
 
