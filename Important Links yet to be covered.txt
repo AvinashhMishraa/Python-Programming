@@ -190,6 +190,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/watch?v=YQjuWiyeu-A
 
 7. PySpark
+	=> https://www.youtube.com/playlist?list=PLXbXe9HkcbmlxDjQLMGpANsKyp7H-xOBd
 	=> https://www.youtube.com/playlist?list=PLudtFFYa8QihFgwsG8UQpZ3tuzqJUx9lE
 	=> https://www.youtube.com/watch?v=EkGLTj3uBdQ&list=PLudtFFYa8QiiJNiJe2_iEOF8xl3nOb-ZS (Pyspark Real Time Scenarios|Pyspark Interview Questions)
 	=> https://www.youtube.com/playlist?list=PL2IsFZBGM_IHCl9zhRVC1EXTomkEp_1zm (Zero to Hero - Ease With Data Youtube channel)
