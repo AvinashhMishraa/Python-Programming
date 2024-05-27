@@ -1,3 +1,21 @@
+https://docs.google.com/document/d/1Gowj-JWoIYM7hGBy5wfIV5oFLRlPpAlgce_9agJ3Jjw/edit
+
+
+
+
+
+AUTOMATIC DATABASE PERFORMANCE MONITORITNG  ====>   https://www.eversql.com/
+https://doc.clickup.com/37466271/d/h/13qc4z-104/d4346819bd8d510
+https://clickhouse.com/docs/knowledgebase
+https://clickhouse.com/docs/en/sql-reference
+https://clickhouse.com/docs/en/cloud/bestpractices/bulk-inserts
+https://www.youtube.com/watch?v=oXRIiz1Wb_4&t=685s   (This project you must do)
+
+https://www.youtube.com/watch?v=Mrwgkra33Ko   (Real time stock maket dashboarding through streamlit from live google sheets api)
+
+
+0. https://www.cockroachlabs.com/docs/v24.1/make-queries-fast
+https://www.youtube.com/watch?v=Z5qfhPacQOg   (Amazon ElastiCache | Boost performance of MySQL using Redis)
 1. MySQL Optimization - https://dev.mysql.com/doc/refman/8.0/en/optimization.html 
 2. MySQL Backup and Recovery - https://dev.mysql.com/doc/refman/8.0/en/backup-and-recovery.html
 3. Udemy - https://www.udemy.com/home/my-courses/learning/
@@ -67,6 +85,9 @@
 
 
 4. SQL Interview Questions 
+	=> https://www.youtube.com/watch?v=e8QPqRedxBE
+	=> https://clickhouse.com/docs/en/tutorial
+	=> https://clickhouse.com/docs/en/sql-reference/statements
 	=> https://www.youtube.com/playlist?list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX
 	=> https://www.stratascratch.com/blog/sql-cheat-sheet-technical-concepts-for-the-job-interview/
 
@@ -134,8 +155,11 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.stratascratch.com/blog/the-ultimate-guide-to-sorting-in-sql/
 	=> (Rishabh Mishra) https://www.youtube.com/watch?v=AZzTHWF7tEc
 	=> https://www.youtube.com/watch?v=VAOpMH_iXMA
+	=> https://www.youtube.com/watch?v=NnEZ11gobCs
 
 5. Data Modeling 
+	=> https://www.oracletutorial.com/getting-started/oracle-sample-database/
+	=> https://www.striim.com/blog/5-key-principles-of-effective-data-modeling-for-ai/
 	=> https://www.youtube.com/playlist?list=PLZDOU071E4v6epq3GS0IqZicZc3xwwBN_ (Database Design  -- Database Star youtube)
 	=> https://www.thoughtspot.com/data-trends/data-modeling/dimensional-data-modeling
 	=> https://www.thoughtspot.com/data-trends/data-modeling/data-modeling-best-practices-for-analytics-and-data-engineers
@@ -152,6 +176,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/playlist?list=PLO_OQn62S1TeueYw-VKLOpiS_LI1y9LfV
 	=> https://www.youtube.com/playlist?list=PLiDUHlGx0KN8e7yU8tS0yP-zc3sNIPKdG
 	=> https://www.youtube.com/watch?v=f7v_1UmkAoM&t=42s
+	=> https://www.projectpro.io/article/netflix-data-engineer-interview/966
 
 5. Blogs to read on SQL optmization and indexing
 	=> https://www.youtube.com/playlist?list=PLCRMIe5FDPsdnSszazqVIQFh99t1ExH19
@@ -188,6 +213,9 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/watch?v=Qs-F3p08TGs (Big Data Analytics with Large Language Models - OpenAI ChatGPT)
 	=> https://www.youtube.com/watch?v=52CWagk3-jw&list=PLBTZqjSKn0Ie0FvR3_ass_iTIqYV_CAth (Ankit Bansal - Superstore Data Analysis | End to End AWS Data Engineering Project for Beginners)
 	=> https://www.youtube.com/watch?v=YQjuWiyeu-A
+	=> https://www.youtube.com/watch?v=ZnQwO6V7pec
+	=> https://www.youtube.com/watch?v=3I8wd1AShXs
+
 
 7. PySpark
 	=> https://www.youtube.com/playlist?list=PLXbXe9HkcbmlxDjQLMGpANsKyp7H-xOBd
@@ -196,6 +224,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/playlist?list=PL2IsFZBGM_IHCl9zhRVC1EXTomkEp_1zm (Zero to Hero - Ease With Data Youtube channel)
 	=> https://www.youtube.com/watch?v=aHRy8mTzxNs
 	=> https://www.youtube.com/@DEwithDhairy/playlists (DEwithDhairy - DSA, SQL, Pandas, PySPARK for Data Engineers)
+	=> https://www.youtube.com/watch?v=0QfQ2Jn6DW0
 
 8. Snowflake 
 	=> (Satadru Mukherjee) 
@@ -206,6 +235,9 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> Praveen Kumar Bommisetty
 		--> (Snowflake Concepts) ==> https://www.youtube.com/playlist?list=PLM68C8Cb4yoPdSi4UCGwd4YsVB8BNEBZA 
 		--> (Snowflake SQL Interview Questions) ==> https://www.youtube.com/playlist?list=PLM68C8Cb4yoNofocbEgtvy-3Zy2ltlq23 
+
+	=> https://www.snowflake.com/wp-content/uploads/2021/10/Moving-from-On-Premises-ETL-to-Cloud-Driven-ELT.pdf?utm_cta=website-be-guides-etl-elt-ebk
+
 
 9. AWS 
 	=> (DataEng Uncomplicated) https://www.youtube.com/@DataEngUncomplicated/playlists
@@ -219,6 +251,12 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/watch?v=kLDTbavcmd0&list=PLyMom0n-MBrpr1Q3OQC5Od1o1zczHEO0u&index=5
 	=> https://www.youtube.com/watch?v=m2J7s-r_4Rs (PowerBI)
 	=> https://www.youtube.com/watch?v=0ICD9zMMzZ4
+
+
+
+10. Azure Databricks
+	=> https://learn.microsoft.com/en-us/azure/databricks/migration/etl
+	=> https://learn.microsoft.com/en-us/azure/databricks/optimizations/
 
 
 
@@ -266,7 +304,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 
-
+10. PowerBI
+	=> https://www.youtube.com/playlist?list=PLjfRmoYoxpNq4igHdl68N42_rRcoAPist
 
 
 
@@ -416,6 +455,145 @@ Optimizing SQL query performance is crucial for ensuring efficient data retrieva
 /********************************************************************************************************************/
 
 
+mock interview system project:
+https://aws.amazon.com/blogs/database/a-generative-ai-use-case-using-amazon-rds-for-sql-server-as-a-vector-data-store/
+https://www.youtube.com/watch?v=YhEHnA323rU
+
+https://www.youtube.com/watch?v=YYWEYvuvdAs&t=1768s  (Improving Large Language Model by Systematically Improving its Data)
+
+###################################### DATA PIPELINE ############################################################
+
+https://medium.com/towards-data-engineering/mastering-big-data-pipelines-harnessing-pyspark-in-google-cloud-platform-c42d6b02ff18
+https://medium.com/analytics-vidhya/load-mysql-databases-to-bigquery-using-pandas-d77d3ad76a0e
+https://towardsdatascience.com/creating-a-data-pipeline-with-spark-google-cloud-storage-and-big-query-a72ede294f4c
+https://cloud.google.com/data-fusion/docs/tutorials/replicating-data/mysql-to-bigquery
+
+
+############################ DATABASE MIGRATION ############################################################
+
+https://www.youtube.com/watch?v=B72EEa-EfRI    (End to End Data Migration ETL Framework with Azure Data Factory & T SQL)
+https://www.youtube.com/watch?v=UL0b4G7jtmc&t=1427s    (ETL |Data Engineering |Load Data |Azure SQL Database to Azure Synapse Analytics | Synapse Pipeline)
+https://www.youtube.com/watch?v=TN6QGfOFa90&t=630s    (How to Migrate Data from MongoDB to a MySql Database with Airflow!)
+https://docs.databricks.com/en/migration/etl.html
+
+
+https://whatagraph.com/blog/articles/etl-data-migration
+https://medium.com/@chinnadurai.v/a-framework-for-data-migration-32b1b973c496
+Data migration and reconciliation report and then query performance monitoring
+https://www.youtube.com/watch?v=H_25R8my7-4&t=1033s
+https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/migrate-an-on-premises-mysql-database-to-amazon-rds-for-mysql.html
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_PerfInsights.API.html#USER_PerfInsights.API.Examples.DBLoadAverage
+https://docs.aws.amazon.com/documentdb/latest/developerguide/performance-insights-metrics.html
+https://www.youtube.com/watch?v=cHKuVH7YGBE
+https://www.youtube.com/watch?v=pZqirqehT1k
+https://www.youtube.com/watch?v=6j7lE83V12o  ( How To Migrate An On-Prem Database | AWS RDS | Migration )
+https://aws.amazon.com/blogs/database/migration-options-for-mysql-to-amazon-rds-for-mysql-or-amazon-aurora-mysql/
+https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/migrate-an-on-premises-mysql-database-to-amazon-rds-for-mysql.html
+https://www.youtube.com/watch?v=NcPXAzc3z30&list=PLt8Y3NwVSVfZ6yutMQbSJKdmKgHcYls0l&index=46
+https://www.youtube.com/watch?v=KWFwKDWePxM&list=PLt8Y3NwVSVfZ6yutMQbSJKdmKgHcYls0l&index=47
+https://www.youtube.com/watch?v=3v3Q7WVbsT4
+https://github.blog/2020-02-14-automating-mysql-schema-migrations-with-github-actions-and-more/
+https://docs.aws.amazon.com/dms/latest/sbs/dms-sbs-welcome.html
+
+https://aws.amazon.com/tr/tutorials/move-to-managed/migrate-my-sql-to-amazon-rds/
+https://aws.amazon.com/tutorials/move-to-managed/migrate-my-sql-to-amazon-rds/
+https://cmakkaya.medium.com/database-migration-1-the-database-migration-strategies-terms-solutions-and-aws-database-9cc1b75dd694
+https://cmakkaya.medium.com/database-migration-2-migrating-mysql-database-to-amazon-rds-by-using-aws-database-migration-22a7dddd767d
+https://planetscale.com/docs/imports/aws-rds-migration-guide
+https://moosakhalid.medium.com/from-mysql-to-mysql-rds-using-aws-dms-to-migrate-your-databases-to-aws-via-terraform-44fe2fea3e47
+https://www.cockroachlabs.com/docs/stable/migrate-from-mysql
+https://www.cockroachlabs.com/docs/cockroachcloud/migrations-page
+https://www.cockroachlabs.com/docs/v24.1/import-performance-best-practices
+https://cloud.google.com/spanner?hl=en
+https://www.geeksforgeeks.org/how-to-configure-cloud-spanner-in-gcp/
+https://medium.com/@dipan.saha/hands-on-tutorial-on-google-cloud-spanner-a-globally-distributed-relational-database-af48f82e4bb7
+https://www.cloudskillsboost.google/focuses/54356?parent=catalog
+
+
+https://www.cockroachlabs.com/docs/v24.1/build-a-python-app-with-cockroachdb-sqlalchemy
+
+
+https://blogs.oracle.com/mysql/post/applying-database-migrations-in-mysql-heatwave-with-github-actions
+https://dev.to/chetan07/automating-database-migrations-with-flyway-and-github-actions-550p
+https://github.com/chetanppatil/flyway-migrator/tree/main
+https://www.youtube.com/watch?v=A1Z3vAJpmsw    (Executing GitHub Actions jobs or steps only when specific files change)
+
+
+https://medium.com/@kanchan.tewary/creating-data-migration-strategy-and-beyond-bb669af42dfe
+
+https://www.premier-international.com/articles/7-reasons-data-migrations-fail?source=post_page-----bb669af42dfe--------------------------------
+
+https://medium.com/codex/7-ways-to-speed-up-your-data-reconciliation-process-784006d16664
+
+
+****************************************//////////////////////////////////////////////////////////////
+https://www.cloudskillsboost.google/course_templates/629   --- EARN THE BADGE
+
+https://bluexp.netapp.com/blog/gcp-cvo-blg-google-cloud-database-the-right-service-for-your-workloads
+
+https://www.youtube.com/watch?v=bxI_-W21LHE  (Migrate a MySQL Database to Google Cloud SQL)
+https://github.com/atulguptag/Google-Cloud-Challenge-Labs-Soluitons/blob/main/Migrate%20a%20MySQL%20Database%20to%20Google%20Cloud%20SQL%20Challenge%20Lab.md
+***************************************///////////////////////////////////////////////////////////////
+
+
+https://cloud.google.com/architecture/database-migration-concepts-principles-part-1
+https://cloud.google.com/architecture/database-migration-concepts-principles-part-2
+https://cloud.google.com/architecture/migrate-oracle-to-cloudsql-for-postgresql-using-striim
+https://cloud.google.com/architecture/hadoop/hadoop-gcp-migration-data
+https://cloud.google.com/architecture/hadoop/validating-data-transfers
+https://www.youtube.com/watch?v=qikmB9ZjMno&t=342s   (https://www.youtube.com/watch?v=qikmB9ZjMno&t=342s)
+https://www.youtube.com/watch?v=eqEY2O-NCik   (Manage PostgreSQL Databases on Cloud SQL: Challenge Lab with Explanation| GSP355)
+
+https://www.youtube.com/watch?v=r3Tqzw1sGFg  (Migrating On-Prem MySQL to Google Cloud SQL | Google Cloud Migration | GCP Database Migration)  *****
+
+https://docs.pingcap.com/tidbcloud/migrate-incremental-data-from-mysql-using-data-migration
+https://planetscale.com/docs/imports/gcp-cloudsql-migration-guide
+https://www.youtube.com/watch?v=qPO6xFWpbDU&t=295s  (Migrate a MySQL Database to Google Cloud SQL)
+https://www.youtube.com/watch?v=sY3RHI6nvQ4&t=71s   (Migrate a MySQL Database to Google Cloud SQL  ---  Quick Lab)  
+https://www.youtube.com/watch?v=iFYaeRqSuRk&t=400s  (Migrate a MySQL Database to Google Cloud SQL)
+https://www.youtube.com/watch?v=r8aTVOR5jKQ      (Migrating On-premises MySQL Using a Continuous Database Migration Service Job)
+https://www.cloudskillsboost.google/focuses/17695?parent=catalog
+https://www.youtube.com/watch?v=ILH-RH6gR7M
+
+https://www.coursera.org/projects/googlecloud-migrating-on-premises-mysql-using-a-continuous-database-migrat-hy9uq?action=enroll
+
+https://www.coursera.org/projects/googlecloud-migrating-on-premises-mysql-using-a-continuous-database-migrat-hy9uq?irclickid=wxu24DXHYxyPUOby9kXFOxSfUkHVgWTVq3zIyM0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c
+
+https://www.udemy.com/course/data-migration/?couponCode=LEADERSALE24A
+
+https://aiven.io/developer/migrate-a-mysql-database-to-a-new-cloud-provider
+
+https://hevodata.com/learn/postgresql-on-google-cloud-sql-to-mysql/
+
+https://www.geeksforgeeks.org/google-cloud-platform-overview-of-data-migration-service/
+
+https://www.fiverr.com/noelliverton/migrate-mysql-database-to-google-cloud-big-query
+
+
+
+
+
+
+######################################   project - Virat Kohli career analysis ############################
+
+https://www.novypro.com/project/virat-kohli-odi-centuries-analysis-power-bi#:~:text=Insights%20and%20Analysis%20Findings,fantastic%20compared%20to%20other%20batsmen.
+
+https://docs.google.com/document/d/1ax9LICwsD_OX92re26_qpCF_YArhu29iI_qUoq2RwZY/edit#heading=h.xlfxrw3h3nzh
+
+https://www.novypro.com/project/virat-kohli-career-analysis
+
+https://www.kaggle.com/code/hashimali179/virat-kohli-performance-analysis
+
+https://github.com/KalyanM45/Virat-Kohli-Score-Analytics
+
+https://www.researchgate.net/publication/377472019_Cricketing_Algorithms_Python_Insights_into_Virat_Kohli's_Batting_Artistry
+
+
+It will generate real time analytics on a Dashboard highlighting Virat Kohli's statistics 
+
+
+############################################################################################################
+AWS Zero to Hero - AWS Simplified  ----   https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze
 
 
 
@@ -426,3 +604,36 @@ Optimizing SQL query performance is crucial for ensuring efficient data retrieva
 
 
 
+################################
+1)Advertisement Impact Analysis
+-------------------------------------------------------
+If you are running marketing campaign then one of the major aspect is analyzing how the campaign is impacting for example, what's the message/email open rate , what's the link click rate (if link is attached in message body)
+
+Let's build that Real Time Campaign Analysis Pipeline which can help the Marketing Team to evaluate the performance 
+https://youtu.be/ifw4NGiLOYs
+
+2)Nearest ATM/McDonald Finder
+------------------------------------------------------------
+Have you tried any bank website to look for nearest ATM from your current location?
+Or may be nearest McDonald Location?
+
+If yes , let's explore how that works and help in location based search with AWS Services
+https://youtu.be/y_R7SljUUT4
+
+
+################################
+
+
+https://www.kai-waehner.de/blog/tag/big-data/
+
+
+
+Chatgpt prompt ----- Assume yourself to be a Data Engineer. Now telle me the full detailed process of migrating Database from MYSQL to SNOWFLAKE
+
+Now give me a detailed step by step process of migrating data from MySQL to AWS S3
+
+
+########################   google api  #########################################
+https://cloud.google.com/vision/docs/reference/rest/   ====> Image labeling, clip cutting
+
+https://developers.google.com/gmail/api/reference/rest
