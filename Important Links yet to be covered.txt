@@ -1,6 +1,10 @@
 https://docs.google.com/document/d/1Gowj-JWoIYM7hGBy5wfIV5oFLRlPpAlgce_9agJ3Jjw/edit
 
 
+25-30GB on daily basis
+Depends what kind of pipeline you are building ..
+	if realtime then it be coming from streaming source like Kafka or CDC events
+	if batch then data might be coming from S3 or HDFS or Data Warehouse or Some NOSQL anything
 
 
 
