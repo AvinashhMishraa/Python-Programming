@@ -18,6 +18,7 @@ https://www.youtube.com/watch?v=oXRIiz1Wb_4&t=685s   (This project you must do)
 https://www.youtube.com/watch?v=Mrwgkra33Ko   (Real time stock maket dashboarding through streamlit from live google sheets api)
 
 
+-1. SQL performance ( https://www.youtube.com/watch?v=iP1Sqt_Vwbg&list=PLZDOU071E4v6h9yF2PcyYFh0L-DHaGYAu )
 0. https://www.cockroachlabs.com/docs/v24.1/make-queries-fast
 https://www.youtube.com/watch?v=Z5qfhPacQOg   (Amazon ElastiCache | Boost performance of MySQL using Redis)
 1. MySQL Optimization - https://dev.mysql.com/doc/refman/8.0/en/optimization.html 
@@ -89,6 +90,7 @@ https://www.youtube.com/watch?v=Z5qfhPacQOg   (Amazon ElastiCache | Boost perfor
 
 
 4. SQL Interview Questions 
+	=> https://www.youtube.com/watch?v=p3BE09Vhh-g
 	=> https://www.youtube.com/watch?v=e8QPqRedxBE
 	=> https://clickhouse.com/docs/en/tutorial
 	=> https://clickhouse.com/docs/en/sql-reference/statements
