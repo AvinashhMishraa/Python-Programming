@@ -19,12 +19,14 @@ https://www.youtube.com/watch?v=Mrwgkra33Ko   (Real time stock maket dashboardin
 
 
 -1. SQL performance ( https://www.youtube.com/watch?v=iP1Sqt_Vwbg&list=PLZDOU071E4v6h9yF2PcyYFh0L-DHaGYAu )
+-1. https://www.youtube.com/watch?v=o-DcV6YkSuc
 0. https://www.cockroachlabs.com/docs/v24.1/make-queries-fast
 https://www.youtube.com/watch?v=Z5qfhPacQOg   (Amazon ElastiCache | Boost performance of MySQL using Redis)
 1. MySQL Optimization - https://dev.mysql.com/doc/refman/8.0/en/optimization.html 
 2. MySQL Backup and Recovery - https://dev.mysql.com/doc/refman/8.0/en/backup-and-recovery.html
 3. Udemy - https://www.udemy.com/home/my-courses/learning/
 3. SQL PERFORMANCE 
+	- https://www.youtube.com/watch?v=ejeGJHeKn-o
 	- PlanetScale (https://www.youtube.com/playlist?list=PLQiYtJSQdSEDH7TCBxm6tgdTc8rbKoX6K)   VERY IMPORTANT
 	- PlanetScale (https://www.youtube.com/@PlanetScale/videos)   VERY IMPORTANT
 	- https://go.oracle.com/LP=113883
@@ -90,6 +92,7 @@ https://www.youtube.com/watch?v=Z5qfhPacQOg   (Amazon ElastiCache | Boost perfor
 
 
 4. SQL Interview Questions 
+	=> https://www.youtube.com/playlist?list=PLBmFdvH9PNJ91IUzYrO9_WpdlEX33lXw_
 	=> https://www.youtube.com/watch?v=p3BE09Vhh-g
 	=> https://www.youtube.com/watch?v=e8QPqRedxBE
 	=> https://clickhouse.com/docs/en/tutorial
@@ -176,6 +179,11 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://github.com/tutorials24x7/blog-database-mysql
 	=> https://mysql.tutorials24x7.com/blog/guide-to-design-a-database-for-blog-management-in-mysql
 	=> https://vertabelo.com/blog/a-database-model-to-manage-appointments-and-organize-schedules/
+	=> https://www.youtube.com/watch?v=XoBerCyoq_c
+	=> https://www.youtube.com/watch?v=8HlNG8bdlM0
+	=> https://www.youtube.com/watch?v=gVTyg6RqYq8
+	=> https://www.youtube.com/watch?v=7JbCVXmJ1bs (important)
+
 
 5. Data Engineering Mock Interview (The Big Data Show)
 	=> https://www.youtube.com/watch?v=YHszFdZw4tY
@@ -231,6 +239,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/watch?v=aHRy8mTzxNs
 	=> https://www.youtube.com/@DEwithDhairy/playlists (DEwithDhairy - DSA, SQL, Pandas, PySPARK for Data Engineers)
 	=> https://www.youtube.com/watch?v=0QfQ2Jn6DW0
+	=> https://www.youtube.com/watch?v=hFFP2OYFlTA
 
 8. Snowflake 
 	=> (Satadru Mukherjee) 
@@ -249,6 +258,11 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> (DataEng Uncomplicated) https://www.youtube.com/@DataEngUncomplicated/playlists
 
 9. Data Analytics
+	=> https://www.youtube.com/watch?v=k7SQ40YWvEw
+	=> https://www.youtube.com/playlist?list=PLBmFdvH9PNJ--E1eJboRtQddMQs2yOlfN
+	=> https://www.youtube.com/playlist?list=PLBmFdvH9PNJ_ysQ62ufLRaLMN3umHZQ5I
+	=> https://www.youtube.com/watch?v=Hfx1X9WSGYQ
+	=> https://www.youtube.com/watch?v=7sLT_AVvLFk (scenario based powerBI   -   https://www.youtube.com/playlist?list=PLeBLWEII-zzjf9jASzcr-niYpHLvQ1szE)
 	=> https://www.youtube.com/watch?v=fRVXW_oCTj0 (EDA on Real Life Banking Data using Python)
 	=> https://www.youtube.com/playlist?list=PLkWRCY_kK0GhypGoj3Tj42M-B7VQa_G5e
 	=> https://www.youtube.com/watch?v=0tw-oAc5GDg
@@ -257,6 +271,10 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/watch?v=kLDTbavcmd0&list=PLyMom0n-MBrpr1Q3OQC5Od1o1zczHEO0u&index=5
 	=> https://www.youtube.com/watch?v=m2J7s-r_4Rs (PowerBI)
 	=> https://www.youtube.com/watch?v=0ICD9zMMzZ4
+	=> https://www.youtube.com/watch?v=ZUeWXNK-9yA
+	=> https://www.youtube.com/watch?v=wP8NWRR0Fdg
+	=> https://www.youtube.com/watch?v=RnRKE-_WHd0
+	=> https://www.youtube.com/watch?v=GoNfXqwB21g
 
 
 
