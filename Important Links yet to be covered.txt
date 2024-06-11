@@ -67,6 +67,7 @@
 
 
 4. SQL Interview Questions 
+	=> https://www.youtube.com/watch?v=HTLd5EwA2fs
 	=> https://www.youtube.com/playlist?list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX
 	=> https://www.stratascratch.com/blog/sql-cheat-sheet-technical-concepts-for-the-job-interview/
 
@@ -146,6 +147,11 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://github.com/tutorials24x7/blog-database-mysql
 	=> https://mysql.tutorials24x7.com/blog/guide-to-design-a-database-for-blog-management-in-mysql
 	=> https://vertabelo.com/blog/a-database-model-to-manage-appointments-and-organize-schedules/
+	=> https://www.youtube.com/watch?v=T8WZGfwmD7s
+	=> https://www.youtube.com/watch?v=1P5m8vKOsZI
+	=> https://www.youtube.com/watch?v=tm7rT1uvwNc
+
+
 
 5. Data Engineering Mock Interview (The Big Data Show)
 	=> https://www.youtube.com/watch?v=YHszFdZw4tY
@@ -259,6 +265,11 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 9. System Design
 	=> https://github.com/donnemartin/system-design-primer
+	=> https://www.youtube.com/watch?v=_K-eupuDVEc
+	=> https://www.youtube.com/watch?v=NHqdG-aZxOk
+	=> https://www.youtube.com/watch?v=zFXUxjlOCoo
+	=> https://www.youtube.com/watch?v=SQDFE-Bc8E0
+	=> https://www.youtube.com/watch?v=hqa2sfoGRlI
 
 
 
