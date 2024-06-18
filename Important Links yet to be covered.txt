@@ -70,6 +70,7 @@
 	=> https://www.youtube.com/watch?v=HTLd5EwA2fs
 	=> https://www.youtube.com/playlist?list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX
 	=> https://www.stratascratch.com/blog/sql-cheat-sheet-technical-concepts-for-the-job-interview/
+	=> https://www.youtube.com/@rajanikanthgaja2916/videos
 
 	=> https://www.youtube.com/playlist?list=PLudtFFYa8QihMGefu3WNyTP1Qotn8HIlS (Nitya CloudTech)
 
@@ -225,6 +226,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/watch?v=kLDTbavcmd0&list=PLyMom0n-MBrpr1Q3OQC5Od1o1zczHEO0u&index=5
 	=> https://www.youtube.com/watch?v=m2J7s-r_4Rs (PowerBI)
 	=> https://www.youtube.com/watch?v=0ICD9zMMzZ4
+	=> https://www.youtube.com/watch?v=XSfvT7zvluo (Pandas)
 
 
 
