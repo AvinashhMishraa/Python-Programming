@@ -2,6 +2,7 @@
 2. MySQL Backup and Recovery - https://dev.mysql.com/doc/refman/8.0/en/backup-and-recovery.html
 3. Udemy - https://www.udemy.com/home/my-courses/learning/
 3. SQL PERFORMANCE 
+	- https://www.youtube.com/watch?v=sOEVAXskgno
 	- PlanetScale (https://www.youtube.com/playlist?list=PLQiYtJSQdSEDH7TCBxm6tgdTc8rbKoX6K)   VERY IMPORTANT
 	- PlanetScale (https://www.youtube.com/@PlanetScale/videos)   VERY IMPORTANT
 	- https://go.oracle.com/LP=113883
@@ -67,6 +68,9 @@
 
 
 4. SQL Interview Questions 
+	=> https://www.youtube.com/watch?v=DRXYOfbksGE&list=PLKnIA16_RmvYiCaWzsT242jVdp_aAdDjb
+	=> https://www.youtube.com/playlist?list=PLKnIA16_RmvbENTxx8TqPQtLxWj7B9Ins
+	=> https://www.youtube.com/watch?v=GH35oP9KsQk
 	=> https://www.youtube.com/watch?v=HTLd5EwA2fs
 	=> https://www.youtube.com/playlist?list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX
 	=> https://www.stratascratch.com/blog/sql-cheat-sheet-technical-concepts-for-the-job-interview/
@@ -196,6 +200,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/watch?v=52CWagk3-jw&list=PLBTZqjSKn0Ie0FvR3_ass_iTIqYV_CAth (Ankit Bansal - Superstore Data Analysis | End to End AWS Data Engineering Project for Beginners)
 	=> https://www.youtube.com/watch?v=YQjuWiyeu-A
 
+
 7. PySpark
 	=> https://www.youtube.com/watch?v=SwV7ljrzJ4g
 	=> https://www.youtube.com/playlist?list=PLudtFFYa8QihFgwsG8UQpZ3tuzqJUx9lE
@@ -203,6 +208,9 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/playlist?list=PL2IsFZBGM_IHCl9zhRVC1EXTomkEp_1zm (Zero to Hero - Ease With Data Youtube channel)
 	=> https://www.youtube.com/watch?v=aHRy8mTzxNs
 	=> https://www.youtube.com/@DEwithDhairy/playlists (DEwithDhairy - DSA, SQL, Pandas, PySPARK for Data Engineers)
+	=> https://www.youtube.com/watch?v=uZeWBxaGBT8   (How I Optimized Spark Jobs| Sharing My 6 Years Learning)
+
+
 
 8. Snowflake 
 	=> (Satadru Mukherjee) 
@@ -218,6 +226,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> (DataEng Uncomplicated) https://www.youtube.com/@DataEngUncomplicated/playlists
 
 9. Data Analytics
+	=> https://www.youtube.com/watch?v=GsjCixoyOnE
 	=> https://www.youtube.com/watch?v=fRVXW_oCTj0 (EDA on Real Life Banking Data using Python)
 	=> https://www.youtube.com/playlist?list=PLkWRCY_kK0GhypGoj3Tj42M-B7VQa_G5e
 	=> https://www.youtube.com/watch?v=0tw-oAc5GDg
@@ -227,6 +236,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/watch?v=m2J7s-r_4Rs (PowerBI)
 	=> https://www.youtube.com/watch?v=0ICD9zMMzZ4
 	=> https://www.youtube.com/watch?v=XSfvT7zvluo (Pandas)
+	=> https://www.youtube.com/watch?v=V4XE-G1sODU
 
 
 
@@ -273,6 +283,14 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/watch?v=zFXUxjlOCoo
 	=> https://www.youtube.com/watch?v=SQDFE-Bc8E0
 	=> https://www.youtube.com/watch?v=hqa2sfoGRlI
+
+
+10. Maths in Machine Learning
+	=> https://www.youtube.com/watch?v=2GV_ouHBw30&list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST
+
+
+11. MLOps
+	=> https://www.youtube.com/playlist?list=PLKnIA16_RmvaKHYjy5v0dJh8edeaEWb-b
 
 
 
