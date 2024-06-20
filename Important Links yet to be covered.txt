@@ -285,7 +285,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/watch?v=hqa2sfoGRlI
 
 
-10. Maths in Machine Learning
+10. Maths and Statistics in Machine Learning
+	=> https://www.youtube.com/watch?v=IYVEI1EYfPg
 	=> https://www.youtube.com/watch?v=2GV_ouHBw30&list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST
 
 
