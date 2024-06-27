@@ -1,7 +1,41 @@
+
+dataveda
+bharatai
+datase
+dataspeaks
+datafunction
+datahole
+dataskills
+datathread
+datagravy
+datamasala
+dataghost
+datadosa
+datafree
+dataonly
+
+
+
+
+PROJECT :
+https://www.youtube.com/watch?v=5Pc18ge9ohI   (Writing My Own Database From Scratch)
+https://github.com/antoniosarosi/mkdb
+
+
+
+
+
+
+
+
+
+
+
 1. MySQL Optimization - https://dev.mysql.com/doc/refman/8.0/en/optimization.html 
 2. MySQL Backup and Recovery - https://dev.mysql.com/doc/refman/8.0/en/backup-and-recovery.html
 3. Udemy - https://www.udemy.com/home/my-courses/learning/
 3. SQL PERFORMANCE 
+	- https://www.youtube.com/watch?v=F9XmmS8rL4c ( When RAM isn't Enough: Sorting Tables on Disk )
 	- https://www.youtube.com/watch?v=sOEVAXskgno
 	- PlanetScale (https://www.youtube.com/playlist?list=PLQiYtJSQdSEDH7TCBxm6tgdTc8rbKoX6K)   VERY IMPORTANT
 	- PlanetScale (https://www.youtube.com/@PlanetScale/videos)   VERY IMPORTANT
@@ -68,6 +102,7 @@
 
 
 4. SQL Interview Questions 
+	=> https://www.youtube.com/watch?v=EZrWqAghZuo
 	=> https://www.youtube.com/watch?v=DRXYOfbksGE&list=PLKnIA16_RmvYiCaWzsT242jVdp_aAdDjb
 	=> https://www.youtube.com/playlist?list=PLKnIA16_RmvbENTxx8TqPQtLxWj7B9Ins
 	=> https://www.youtube.com/watch?v=GH35oP9KsQk
@@ -202,6 +237,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 7. PySpark
+	=> https://www.youtube.com/playlist?list=PLWAuYt0wgRcLCtWzUxNg4BjnYlCZNEVth  ( Apache Spark Performance Tuning )
+	=> https://www.youtube.com/watch?v=mA96gUESVZc  ( Apache Spark Executor Tuning | Executor Cores & Memory )
 	=> https://www.youtube.com/watch?v=SwV7ljrzJ4g
 	=> https://www.youtube.com/playlist?list=PLudtFFYa8QihFgwsG8UQpZ3tuzqJUx9lE
 	=> https://www.youtube.com/watch?v=EkGLTj3uBdQ&list=PLudtFFYa8QiiJNiJe2_iEOF8xl3nOb-ZS (Pyspark Real Time Scenarios|Pyspark Interview Questions)
@@ -209,6 +246,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/watch?v=aHRy8mTzxNs
 	=> https://www.youtube.com/@DEwithDhairy/playlists (DEwithDhairy - DSA, SQL, Pandas, PySPARK for Data Engineers)
 	=> https://www.youtube.com/watch?v=uZeWBxaGBT8   (How I Optimized Spark Jobs| Sharing My 6 Years Learning)
+	=> https://www.youtube.com/watch?v=U4aWQKW6ImI
 
 
 
@@ -237,6 +275,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/watch?v=0ICD9zMMzZ4
 	=> https://www.youtube.com/watch?v=XSfvT7zvluo (Pandas)
 	=> https://www.youtube.com/watch?v=V4XE-G1sODU
+	=> https://www.youtube.com/watch?v=VptWh28Jmx4 (100 times fast Pandas)
 
 
 
@@ -447,10 +486,28 @@ Optimizing SQL query performance is crucial for ensuring efficient data retrieva
 
 /********************************************************************************************************************/
 
+dynamodb, hbase, 
+
+real-time data analysis
+real-tyme recommendation system
+kafka
+orchestration tools
+etl tools
+cloud - (onpremise to oncloud)
 
 
 
-
+DE - Company :
+1) zeta
+2) JP Morgan
+3) Meesho
+4) Walmart
+5) Myntra
+6) ZS Associates
+7) Google
+8) CRED
+9) Microsoft
+10) Amazon
 
 
 
