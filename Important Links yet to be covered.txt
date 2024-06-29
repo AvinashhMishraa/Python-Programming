@@ -19,6 +19,7 @@ dataonly
 
 PROJECT :
 https://www.youtube.com/watch?v=5Pc18ge9ohI   (Writing My Own Database From Scratch)
+https://www.youtube.com/watch?v=vi-qMzxxtYs
 https://github.com/antoniosarosi/mkdb
 
 
@@ -99,6 +100,7 @@ https://github.com/antoniosarosi/mkdb
 	- https://www.youtube.com/watch?v=w24opVzmEKc
 	- https://www.youtube.com/playlist?list=PL866liXsbAwHCLUExQEY_rwUOpaEFwB9-
 	- https://bertwagner.com/posts/12-ways-to-rewrite-sql-queries-for-better-performance/
+	- Btree- https://www.youtube.com/watch?v=K1a2Bk8NrYQ
 
 
 4. SQL Interview Questions 
@@ -264,6 +266,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> (DataEng Uncomplicated) https://www.youtube.com/@DataEngUncomplicated/playlists
 
 9. Data Analytics
+	=> https://www.youtube.com/watch?v=cu8WiwMwZfI
 	=> https://www.youtube.com/watch?v=GsjCixoyOnE
 	=> https://www.youtube.com/watch?v=fRVXW_oCTj0 (EDA on Real Life Banking Data using Python)
 	=> https://www.youtube.com/playlist?list=PLkWRCY_kK0GhypGoj3Tj42M-B7VQa_G5e
@@ -276,6 +279,9 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/watch?v=XSfvT7zvluo (Pandas)
 	=> https://www.youtube.com/watch?v=V4XE-G1sODU
 	=> https://www.youtube.com/watch?v=VptWh28Jmx4 (100 times fast Pandas)
+	=> https://www.youtube.com/watch?v=PxwTV2Aiar4
+	=> https://www.youtube.com/watch?v=7W95pylDH8MB (EXCEL)
+	=> https://www.youtube.com/watch?v=GYajmVot1f8
 
 
 
