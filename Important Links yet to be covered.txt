@@ -273,6 +273,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/watch?v=0tw-oAc5GDg
 	=> Chandoo channel on YouTube for Excel and DAGs
 	=> https://www.youtube.com/watch?v=GPVsHOlRBBI&list=PLyMom0n-MBrpr1Q3OQC5Od1o1zczHEO0u (Data Analysis with Python Course - Numpy, Pandas, Data Visualization)
+	=> https://www.youtube.com/watch?v=2uvysYbKdjM (Pandas complete tutorial)
 	=> https://www.youtube.com/watch?v=kLDTbavcmd0&list=PLyMom0n-MBrpr1Q3OQC5Od1o1zczHEO0u&index=5
 	=> https://www.youtube.com/watch?v=m2J7s-r_4Rs (PowerBI)
 	=> https://www.youtube.com/watch?v=0ICD9zMMzZ4
@@ -340,7 +341,9 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 
-
+12. REST API with Python
+	=> https://www.youtube.com/watch?v=EUVcbpudSGo
+	=> https://www.youtube.com/watch?v=cm1iZwZvQYo&list=PLJNKKS4iwualE6WMbXSPik5B2slG3OZqv
 
 
 
