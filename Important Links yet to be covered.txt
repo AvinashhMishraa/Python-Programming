@@ -36,6 +36,7 @@ https://github.com/antoniosarosi/mkdb
 2. MySQL Backup and Recovery - https://dev.mysql.com/doc/refman/8.0/en/backup-and-recovery.html
 3. Udemy - https://www.udemy.com/home/my-courses/learning/
 3. SQL PERFORMANCE 
+	=> https://www.youtube.com/watch?v=_1IKwnbscQU  ( 7 Must-know Strategies to Scale Your Database )
 	- https://www.youtube.com/watch?v=F9XmmS8rL4c ( When RAM isn't Enough: Sorting Tables on Disk )
 	- https://www.youtube.com/watch?v=sOEVAXskgno
 	- PlanetScale (https://www.youtube.com/playlist?list=PLQiYtJSQdSEDH7TCBxm6tgdTc8rbKoX6K)   VERY IMPORTANT
@@ -104,9 +105,14 @@ https://github.com/antoniosarosi/mkdb
 
 
 4. SQL Interview Questions 
+	=>https://www.youtube.com/watch?v=osGSIQMJM_w (Data Lemur Solutions   -                                                                         https://www.youtube.com/@EverydayDataScience/playlists)  BEST
+	=> https://www.youtube.com/watch?v=0ucKl-BkEtc
+	=> https://www.youtube.com/watch?v=CV9mtojmBfA
 	=> https://www.youtube.com/watch?v=EZrWqAghZuo
 	=> https://www.youtube.com/watch?v=DRXYOfbksGE&list=PLKnIA16_RmvYiCaWzsT242jVdp_aAdDjb
 	=> https://www.youtube.com/playlist?list=PLKnIA16_RmvbENTxx8TqPQtLxWj7B9Ins
+	=> https://www.youtube.com/watch?v=elJV6hXJKBs
+	=> https://www.youtube.com/watch?v=EIFEbyLCQGg
 	=> https://www.youtube.com/watch?v=GH35oP9KsQk
 	=> https://www.youtube.com/watch?v=HTLd5EwA2fs
 	=> https://www.youtube.com/playlist?list=PLv6MQO1Zzdmq5w4YkdkWyW8AaWatSQ0kX
@@ -177,6 +183,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.stratascratch.com/blog/the-ultimate-guide-to-sorting-in-sql/
 	=> (Rishabh Mishra) https://www.youtube.com/watch?v=AZzTHWF7tEc
 	=> https://www.youtube.com/watch?v=VAOpMH_iXMA
+	=> https://www.youtube.com/watch?v=A3hP3NYeGKA
+
 
 5. Data Modeling 
 	=> https://www.youtube.com/playlist?list=PLZDOU071E4v6epq3GS0IqZicZc3xwwBN_ (Database Design  -- Database Star youtube)
@@ -266,6 +274,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> (DataEng Uncomplicated) https://www.youtube.com/@DataEngUncomplicated/playlists
 
 9. Data Analytics
+	=> https://www.youtube.com/watch?v=y-oa6njFRhI (IPL Scorecard using Spark)
 	=> https://www.youtube.com/watch?v=cu8WiwMwZfI
 	=> https://www.youtube.com/watch?v=GsjCixoyOnE
 	=> https://www.youtube.com/watch?v=fRVXW_oCTj0 (EDA on Real Life Banking Data using Python)
