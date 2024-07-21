@@ -24,9 +24,35 @@ https://github.com/antoniosarosi/mkdb
 
 
 
+Database - cockroach,clickhouse,postgres, mysql
+
+---------------------------------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=nQiwg7siXG0   (zeodha postgresql)
+=> over-indexing,
+=> under-indexing,
+=> log files overflowing and causing the database to crash,
+=> running out of integers for ids,
+=> Joining 2 big tables causing too much exceution time --- not everything has to be normalized. DENORMLIZATION is equaly important.
+=> file limit exceed (since postgres keeps everything ine one directory)
+=> app fetching all the queries by itself instead databse doing it for you,
+=> caching,
+=> columnAR DATABASE,
+=> Adding parallel workers - 16 cores, 32 GB ram,
+=> over-provisioning,
+=> Load Balancing, 
+=> Database Crash,
+=> Sharding, ,ulti-layer sharding,
+=> Query Execution Plan and direction of queries
+=> Lesson - Not one database will do all your work. But you must try all the resources available before adding a new resource.
+=> Lesson - Keep deleting data from your database if you want to scale. If you think you don't need 1 year old data, just put in a file in S3 bucket, but don't keep it in your databse.
 
 
+Learning - Not everything should be concurrent. So everytime we consciously write API endpoints, the first thing to do is to keep a chaching layer on top of our database and make most of the things (except a real one) ASYNC. Not everything has to be sync.
+Only then we will be able to scale. It cannot be concurrent queries waiting for parallel response to the api endpints. 
+---------------------------------------------------------------------------------------------------------------
 
+sorting, pagination, caching layer on Database,
+sharding
 
 
 
@@ -36,6 +62,7 @@ https://github.com/antoniosarosi/mkdb
 2. MySQL Backup and Recovery - https://dev.mysql.com/doc/refman/8.0/en/backup-and-recovery.html
 3. Udemy - https://www.udemy.com/home/my-courses/learning/
 3. SQL PERFORMANCE 
+	=> https://www.youtube.com/watch?v=nQiwg7siXG0 (zerodha postgresql)
 	=> https://www.youtube.com/watch?v=_1IKwnbscQU  ( 7 Must-know Strategies to Scale Your Database )
 	- https://www.youtube.com/watch?v=F9XmmS8rL4c ( When RAM isn't Enough: Sorting Tables on Disk )
 	- https://www.youtube.com/watch?v=sOEVAXskgno
@@ -238,6 +265,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 6. Projects Must to do
+	=> https://www.youtube.com/watch?v=40AyDJaL_a8
 	=> https://www.youtube.com/playlist?list=PLba2xJ7yxHB6W0XT7gxeY1HbJ39FMWoUF (End To End DE Project Using Snowflake | Real Cricket Analytics Use Case)
 	=> => (Satadru Mukherjee) 
 		--> https://doc.clickup.com/37466271/d/h/13qc4z-104/d4346819bd8d510
@@ -274,7 +302,12 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> (DataEng Uncomplicated) https://www.youtube.com/@DataEngUncomplicated/playlists
 
 9. Data Analytics
+	=> https://www.youtube.com/playlist?list=PL6Omre3duO-OGTAMuFuDOS8wMuuxmyaiX (POWER BI TUTORIAL)
 	=> https://www.youtube.com/watch?v=y-oa6njFRhI (IPL Scorecard using Spark)
+	=> https://www.youtube.com/watch?v=SZwIogv8EPI (EXCEL)
+	=> https://www.youtube.com/watch?v=hK-qUy3UfT8
+	=> https://www.youtube.com/watch?v=QFDslca5AX8 (Power BI Churn Prediction End to End
+)
 	=> https://www.youtube.com/watch?v=cu8WiwMwZfI
 	=> https://www.youtube.com/watch?v=GsjCixoyOnE
 	=> https://www.youtube.com/watch?v=fRVXW_oCTj0 (EDA on Real Life Banking Data using Python)
@@ -343,6 +376,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 10. Maths and Statistics in Machine Learning
 	=> https://www.youtube.com/watch?v=IYVEI1EYfPg
 	=> https://www.youtube.com/watch?v=2GV_ouHBw30&list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST
+	=> https://www.youtube.com/watch?v=Ym1iH8-GQOE
 
 
 11. MLOps
@@ -504,6 +538,35 @@ Optimizing SQL query performance is crucial for ensuring efficient data retrieva
 
 /********************************************************************************************************************/
 
+
+Optimizing SQL queries is crucial for enhancing query performance. Here are 10 strategies to boost efficiency:
+
+1. **Indexing:** Create indexes on columns frequently used in WHERE clauses or join conditions. Example: CREATE INDEX idx_customer_id ON orders(customer_id).
+
+2. **Avoiding SELECT *:** Select only necessary columns instead of using SELECT *. Example: SELECT order_id, customer_id, order_date FROM orders WHERE order_date = '2024-07-15'.
+
+3. **Proper Joins and Filtering Early:** Use appropriate join types and filter records early in the query for better performance. Example: Filters before joining to streamline the process.
+
+4. **Using EXISTS Instead of IN:** Opt for EXISTS over IN for improved subquery performance. Example: Use EXISTS for subqueries involving multiple tables.
+
+5. **Avoiding Correlated Subqueries:** Prefer joins over correlated subqueries when possible. Example: Joining tables to avoid correlated subqueries.
+
+6. **Using Window Functions:** Utilize window functions for enhanced readability and performance. Example: Employing ROW_NUMBER() to simplify complex subqueries.
+
+7. **Optimizing JOIN Order:** Join smaller tables first to minimize data processing. Example: Prioritize joining small tables for efficiency.
+
+8. **Using Proper Data Types:** Ensure columns used in joins and filters have appropriate data types to avoid implicit conversions. Example: Verifying the data type of columns for accuracy.
+
+9. **Avoiding Functions in WHERE Clauses:** Refrain from using functions on columns in WHERE clauses to enable index usage. Example: Using direct comparisons in WHERE clauses for optimal performance.
+
+10. **Using CTEs for Complex Queries:** Employ Common Table Expressions (CTEs) to simplify complex queries for better performance. Example: Breaking down intricate queries using CTEs for clarity.
+
+By implementing these optimization techniques, you can significantly enhance the performance and efficiency of your SQL queries.
+
+
+
+*********************************************************************************************************************
+
 dynamodb, hbase, 
 
 real-time data analysis
@@ -531,5 +594,35 @@ DE - Company :
 
 
 
+/*********************************
 
+1. Write a query to delete duplicate rows from a table.
+
+2. Write a query to retrieve the names of employees who work in the same department as ‘John’.
+
+3. Write a query to display the second highest salary from the Employee table.
+
+4. Write a query to find all customers who have made more than Two orders.
+
+5. Write a query to count the number of orders placed by each customer.
+
+6. Write a query to retrieve the list of employees who joined in the last 3 months.
+
+7. Write a query to find duplicate records in a table and count the number of duplicates for each unique record.
+
+8. Write a query to list all products that have never been sold.
+
+9. Write a query to update the salary of employees based on their performance rating.
+
+10. Write a query to find all employees who earn more than the average salary.
+
+11. Write a query to retrieve the list of employees who joined in the last 3 months.
+
+12. Write a query to identify the top 10 customers who have not placed an order in the last year.
+
+13. Create a query to compute the year-over-year growth rate of revenue for each product category.
+
+14. Write a query to join three tables and filter the results to show only records that exist in exactly two of the tables.
+
+15. Write a query to calculate the retention rate of customers over a given time period.
 
