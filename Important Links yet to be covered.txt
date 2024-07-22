@@ -62,10 +62,12 @@ sharding
 2. MySQL Backup and Recovery - https://dev.mysql.com/doc/refman/8.0/en/backup-and-recovery.html
 3. Udemy - https://www.udemy.com/home/my-courses/learning/
 3. SQL PERFORMANCE 
+	=> https://medium.com/@sounder.rahul/overcoming-oracle-indexes-and-other-featuresin-aws-redshift-dd16006aedc6
 	=> https://www.youtube.com/watch?v=nQiwg7siXG0 (zerodha postgresql)
 	=> https://www.youtube.com/watch?v=_1IKwnbscQU  ( 7 Must-know Strategies to Scale Your Database )
 	- https://www.youtube.com/watch?v=F9XmmS8rL4c ( When RAM isn't Enough: Sorting Tables on Disk )
 	- https://www.youtube.com/watch?v=sOEVAXskgno
+        - https://vengateswaran.medium.com/enhancing-database-efficiency-with-virtual-columns-in-snowflake-f0a1a9832ac6
 	- PlanetScale (https://www.youtube.com/playlist?list=PLQiYtJSQdSEDH7TCBxm6tgdTc8rbKoX6K)   VERY IMPORTANT
 	- PlanetScale (https://www.youtube.com/@PlanetScale/videos)   VERY IMPORTANT
 	- https://go.oracle.com/LP=113883
@@ -132,8 +134,12 @@ sharding
 
 
 4. SQL Interview Questions 
+	=> https://vengateswaran.medium.com/architecture-diagram-flow-for-sql-select-operation-f7e6fce33bdc  
 	=>https://www.youtube.com/watch?v=osGSIQMJM_w (Data Lemur Solutions   -                                                                         https://www.youtube.com/@EverydayDataScience/playlists)  BEST
 	=> https://www.youtube.com/watch?v=0ucKl-BkEtc
+	=> https://www.youtube.com/watch?v=SEdAF8mSKS4   (DATABASE NORMALIZATION CONVEPTS + SQL QUESTIONS)
+	=> https://www.youtube.com/watch?v=mrNNFdFY38Y (procedure)
+	=> https://medium.com/@sounder.rahul/data-engineer-interview-questions-different-types-of-data-structured-semi-structured-e883fba71c40
 	=> https://www.youtube.com/watch?v=CV9mtojmBfA
 	=> https://www.youtube.com/watch?v=EZrWqAghZuo
 	=> https://www.youtube.com/watch?v=DRXYOfbksGE&list=PLKnIA16_RmvYiCaWzsT242jVdp_aAdDjb
@@ -214,6 +220,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 5. Data Modeling 
+	=> https://medium.com/@sounder.rahul/top-50-data-modelling-interview-questions-for-data-engineers-16452fb874b7
 	=> https://www.youtube.com/playlist?list=PLZDOU071E4v6epq3GS0IqZicZc3xwwBN_ (Database Design  -- Database Star youtube)
 	=> https://www.thoughtspot.com/data-trends/data-modeling/dimensional-data-modeling
 	=> https://www.thoughtspot.com/data-trends/data-modeling/data-modeling-best-practices-for-analytics-and-data-engineers
@@ -265,16 +272,53 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 6. Projects Must to do
+
+	=> https://medium.com/@simardeep.oberoi/building-a-data-streaming-pipeline-leveraging-kafka-spark-airflow-and-docker-16527f9e9142    (Building a Data Streaming Pipeline: Leveraging Kafka, Spark, Airflow, and Docker)
+
+	=> https://medium.com/@simardeep.oberoi/building-a-robust-real-time-e-commerce-analytics-pipeline-a-data-engineering-project-b57db9e9bfc4 (Real Time Ecommerce Analytics)
+
 	=> https://www.youtube.com/watch?v=40AyDJaL_a8
+
 	=> https://www.youtube.com/playlist?list=PLba2xJ7yxHB6W0XT7gxeY1HbJ39FMWoUF (End To End DE Project Using Snowflake | Real Cricket Analytics Use Case)
-	=> => (Satadru Mukherjee) 
+
+	=> (Satadru Mukherjee) 
 		--> https://doc.clickup.com/37466271/d/h/13qc4z-104/d4346819bd8d510
+
 	=> https://www.youtube.com/watch?v=Qs-F3p08TGs (Big Data Analytics with Large Language Models - OpenAI ChatGPT)
+
 	=> https://www.youtube.com/watch?v=52CWagk3-jw&list=PLBTZqjSKn0Ie0FvR3_ass_iTIqYV_CAth (Ankit Bansal - Superstore Data Analysis | End to End AWS Data Engineering Project for Beginners)
+
 	=> https://www.youtube.com/watch?v=YQjuWiyeu-A
 
 
 7. PySpark
+
+	=> https://freedium.cfd/https://medium.feruzurazaliev.com/mastering-data-engineering-5-best-practices-for-using-pyspark-814136656655
+
+	=> https://medium.com/@vishalbarvaliya/20-real-time-spark-scenario-based-questions-for-data-engineers-2dc893151169
+
+	=> https://medium.com/@sounder.rahul/pyspark-interview-questions-for-data-engineers-ef90528004c3
+
+	=> https://medium.com/@vishalbarvaliya/20-real-time-spark-scenario-based-questions-for-data-engineers-2dc893151169
+
+        => https://vengateswaran.medium.com/optimize-your-data-platform-pipelines-0d074fe1e850
+
+	=> https://vengateswaran.medium.com/pyspark-dataframe-operations-cheatsheet-1edd7de29c77
+
+	=> https://medium.com/@sounder.rahul/how-you-can-master-a-new-data-engineering-framework-e3a7c31458e5
+
+	=> https://freedium.cfd/https://medium.com/@vishalbarvaliya/pyspark-interview-questions-for-data-engineers-part-i-cfa52ec6102d
+           
+           https://medium.com/@vishalbarvaliya/pyspark-interview-questions-for-data-engineers-part-i-cfa52ec6102d          
+
+	=> https://medium.com/@vishalbarvaliya/pyspark-interview-questions-for-data-engineers-part-2-1c45079a5fa7
+
+           https://freedium.cfd/https://medium.com/@vishalbarvaliya/pyspark-interview-questions-for-data-engineers-part-2-1c45079a5fa7
+
+        => https://freedium.cfd/https://vengateswaran.medium.com/spark-interesting-question-by-some-data-engineer-cd57764b9c93
+
+        => https://freedium.cfd/https://python.plainenglish.io/day-13-spark-shuffling-behind-the-scenes-a5cdbf52ced3 
+
 	=> https://www.youtube.com/playlist?list=PLWAuYt0wgRcLCtWzUxNg4BjnYlCZNEVth  ( Apache Spark Performance Tuning )
 	=> https://www.youtube.com/watch?v=mA96gUESVZc  ( Apache Spark Executor Tuning | Executor Cores & Memory )
 	=> https://www.youtube.com/watch?v=SwV7ljrzJ4g
@@ -285,6 +329,53 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/@DEwithDhairy/playlists (DEwithDhairy - DSA, SQL, Pandas, PySPARK for Data Engineers)
 	=> https://www.youtube.com/watch?v=uZeWBxaGBT8   (How I Optimized Spark Jobs| Sharing My 6 Years Learning)
 	=> https://www.youtube.com/watch?v=U4aWQKW6ImI
+
+        => https://vengateswaran.medium.com/
+	     |=> https://python.plainenglish.io/day-13-spark-shuffling-behind-the-scenes-a5cdbf52ced3
+             |=> https://vengateswaran.medium.com/day-4-mastering-pyspark-a-100-day-challenge-35905001f23a
+             |=> https://vengateswaran.medium.com/local-pyspark-to-gcp-bigquery-in-single-shot-30e98e5fd4a3
+             |=> https://vengateswaran.medium.com/optimizing-apache-spark-key-configuration-properties-39869af66c4f
+             |=> https://vengateswaran.medium.com/optimize-your-data-platform-pipelines-0d074fe1e850
+             |=> https://freedium.cfd/https://vengateswaran.medium.com/build-your-own-chrome-extension-a-saas-idea-simple-job-tracker-management-2456ce866301
+             |=> https://freedium.cfd/https://vengateswaran.medium.com/resilient-in-spark-my-understanding-e136c6dafe9c
+             |=> https://vengateswaran.medium.com/quickreport-streamlit-for-small-scale-business-43cfd22f2e64
+             |=> https://vengateswaran.medium.com/pyspark-dataframe-operations-cheatsheet-1edd7de29c77
+	     |=> https://freedium.cfd/https://vengateswaran.medium.com/snowflake-beyond-olap-building-real-time-web-applications-61a6a790e473
+             |=> https://freedium.cfd/https://vengateswaran.medium.com/streamlit-create-your-own-blog-for-free-earn-09eebe2447be
+	     |=> https://vengateswaran.medium.com/pyspark-optimize-parquet-files-read-write-video-2ed67fcf6125
+	     |=> https://vengateswaran.medium.com/different-approaches-to-convert-python-list-to-column-in-pyspark-dataframe-42b17403a1fe
+             |=> https://freedium.cfd/https://vengateswaran.medium.com/dynamic-schema-creation-snowflakes-copy-into-to-define-tables-on-the-fly-6322fad42d5b
+	     |=> https://freedium.cfd/https://vengateswaran.medium.com/terraform-snowflake-setup-beginners-guide-3c3c6e3dcd01
+             |=> https://freedium.cfd/https://vengateswaran.medium.com/how-to-execute-the-spark-script-from-local-to-google-cloud-52c398c02e07
+             |=> https://vengateswaran.medium.com/2024-data-engineering-tool-selection-7d5f4fad49b3
+             |=> https://vengateswaran.medium.com/key-points-for-mastering-data-engineering-bb9c30fc3554
+             |=> https://vengateswaran.medium.com/day-14-spark-executor-flow-a-100-day-challenge-9faafb8d6d83
+             |=> https://vengateswaran.medium.com/day-10-pandas-api-mastering-pyspark-a-100-day-challenge-5b5a8fa62878
+             |=> https://vengateswaran.medium.com/enhancing-data-engineering-skills-mastering-the-transition-from-sql-to-dataframe-f45076fd49b3
+	     |=> https://vengateswaran.medium.com/enhancing-data-engineering-skills-mastering-the-transition-from-sql-to-dataframe-f45076fd49b3
+             |=> https://vengateswaran.medium.com/different-approaches-to-convert-python-list-to-column-in-pyspark-dataframe-42b17403a1fe
+             |=> https://vengateswaran.medium.com/mastering-dataframe-operations-in-pyspark-with-expr-e8aae3ec8da1
+	     |=> https://vengateswaran.medium.com/resilient-in-spark-my-understanding-e136c6dafe9c
+	     |=> https://vengateswaran.medium.com/mastering-spark-memory-allocation-for-1-billion-rows-097ebf90a6a6
+	     |=> https://vengateswaran.medium.com/one-big-table-data-engineering-e7174b7d1c61
+	     |=> https://vengateswaran.medium.com/optimizing-data-storage-with-snowflakes-micro-partitioning-09f2345c5ef7
+	     |=> https://vengateswaran.medium.com/efficient-data-extraction-from-large-postgresql-databases-using-python-b16d6d9f4032
+             |=> https://vengateswaran.medium.com/exploring-python-memory-limits-on-an-8gb-ram-machine-6b553441678b
+	     |=> https://vengateswaran.medium.com/enhancing-database-efficiency-with-virtual-columns-in-snowflake-f0a1a9832ac6
+	     |=> https://vengateswaran.medium.com/essential-tips-for-optimizing-apache-spark-queries-part-1-data-partitioning-unleashed-e4c3f1eae8b
+	     |=> https://vengateswaran.medium.com/essential-tips-for-optimizing-apache-spark-queries-part-2-parquet-data-formats-and-compression-56dd1ad15e78
+	     |=> https://vengateswaran.medium.com/pyspark-optimize-parquet-files-read-write-video-2ed67fcf6125
+             |=> https://vengateswaran.medium.com/optimizing-apache-spark-key-configuration-properties-39869af66c4f
+             |=> snowflake ===> https://freedium.cfd/https://vengateswaran.medium.com/snowflake-time-travel-is-not-working-as-expected-after-alter-table-stack-overflow-question-049a04239ece
+             |=> SNOWFLAKE => https://vengateswaran.medium.com/how-to-reduce-snowflake-costs-a1e77c5a0058
+             |=> SNOWFLAKE => https://vengateswaran.medium.com/dynamic-schema-creation-snowflakes-copy-into-to-define-tables-on-the-fly-6322fad42d5b
+	     |=> snowflake => https://vengateswaran.medium.com/terraform-snowflake-setup-beginners-guide-3c3c6e3dcd01
+	     |=> SNOWFLAKE => https://medium.com/@sounder.rahul/02-snowflake-architecture-explained-for-data-engineers-fe7ec2f98a0a
+
+          => https://medium.com/@sounder.rahul/how-to-handle-real-time-missing-data-during-ingestion-in-apache-flink-2bc562986d44      
+
+
+
 
 
 
@@ -300,6 +391,15 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 9. AWS 
 	=> (DataEng Uncomplicated) https://www.youtube.com/@DataEngUncomplicated/playlists
+	=> https://www.youtube.com/watch?v=Xl40yelD4PU (AWS Certified Data Engineer Complete Course)
+	=> https://medium.com/@sounder.rahul/overcoming-oracle-indexes-and-other-featuresin-aws-redshift-dd16006aedc6
+	=> https://medium.com/@sounder.rahul/important-redshift-interview-questions-for-data-engineer-50c652260a10
+	=> https://medium.com/@sounder.rahul/aws-glue-pyspark-hands-on-coding-for-data-engineers-interview-questions-f177c93f7250
+
+9. Devops 
+	=> The Ultimate CICD Corporate DevOps Pipeline Project (https://www.youtube.com/watch?v=NnkUGzaqqOc)
+	=> https://www.youtube.com/watch?v=CX7vN4TH89A (Production Level CICD Pipeline | CICD Pipeline Project Masterclass)
+
 
 9. Data Analytics
 	=> https://www.youtube.com/playlist?list=PL6Omre3duO-OGTAMuFuDOS8wMuuxmyaiX (POWER BI TUTORIAL)
@@ -353,6 +453,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 8. Python Interview Questions 
+	=> https://medium.com/@sounder.rahul/top-100-python-interview-questions-for-data-engineers-2c87b9646db5
 	=> https://www.youtube.com/watch?v=YeupGcOW-3k
 	=> https://datalemur.com/questions?category=Python
 	=> https://www.interviewquery.com/p/data-engineer-python-questions
@@ -362,6 +463,17 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://360digitmg.com/blog/data-engineer-python-interview-questions
 	=> https://www.stratascratch.com/blog/python-data-engineer-interview-questions/
 	=> https://medium.com/@sounder.rahul/python-data-engineers-coding-interview-questions-part-1-4e2f6b22c22d
+
+
+9. Databricks Interview Questions
+	=> https://medium.com/@sounder.rahul/top-25-databricks-interview-questions-and-answers-for-a-data-engineer-1998367837f5
+	=> https://medium.com/@sounder.rahul/azure-interview-questions-data-factory-databricks-for-data-engineer-afdb44942334
+
+
+9. Real Time Interview Questions
+	=> https://medium.com/@sounder.rahul/real-time-interview-questions-of-data-engineer-part-1-3c979a71b0eb
+
+
 
 
 9. System Design
@@ -392,14 +504,17 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 
+13. bEST PRACTICES FOR dATA eNGINEER
+         => https://vengateswaran.medium.com/best-practices-for-data-engineers-a1f2a548d3da
 
 
 
 
 
-
-
-
+14. Streamlit
+	=> https://vengateswaran.medium.com/quickreport-streamlit-for-small-scale-business-43cfd22f2e64
+	=> https://quickreport.streamlit.app/
+	=> https://freedium.cfd/https://vengateswaran.medium.com/streamlit-create-your-own-blog-for-free-earn-09eebe2447be
 
 
 
@@ -596,6 +711,8 @@ DE - Company :
 
 /*********************************
 
+https://www.youtube.com/watch?v=mrNNFdFY38Y
+
 1. Write a query to delete duplicate rows from a table.
 
 2. Write a query to retrieve the names of employees who work in the same department as ‘John’.
@@ -625,4 +742,75 @@ DE - Company :
 14. Write a query to join three tables and filter the results to show only records that exist in exactly two of the tables.
 
 15. Write a query to calculate the retention rate of customers over a given time period.
+
+
+
+
+/****************************************************************************************************************************/
+
+Resume - 
+
+	https://freedium.cfd/https://vengateswaran.medium.com/how-i-built-and-hosted-my-resume-on-streamlit-cloud-for-free-dae509fd70ee
+
+        https://vengat.streamlit.app/
+
+/*****************************************************************************************************************************/
+
+Simple Job Tracker Management
+
+	=> https://freedium.cfd/https://vengateswaran.medium.com/build-your-own-chrome-extension-a-saas-idea-simple-job-tracker-management-2456ce866301
+
+/*****************************************************************************************************************************/
+
+Project Name - Real Time Ecommerce Analytics
+
+=> https://medium.com/@simardeep.oberoi/building-a-robust-real-time-e-commerce-analytics-pipeline-a-data-engineering-project-b57db9e9bfc4
+=> https://inseaddataanalytics.github.io/INSEADAnalytics/groupprojects/January2017/eCommerce_Analysis.html 
+=> https://shweta-yadav15.github.io/Ecommerce-Data-Analysis/
+=> https://freedium.cfd/https://vengateswaran.medium.com/step-by-step-guide-to-building-a-cumulative-sales-funnel-table-in-snowflake-etl-pipeline-9a7a3d65ff3a
+=> https://vengateswaran.medium.com/essential-tips-for-optimizing-apache-spark-queries-part-2-parquet-data-formats-and-compression-56dd1ad15e78
+=> https://freedium.cfd/https://vengateswaran.medium.com/snowflake-beyond-olap-building-real-time-web-applications-61a6a790e473
+=> https://www.youtube.com/watch?v=_CQCOusfGrs (Building an Automated Data Pipeline for Sales Data in Google Cloud | GCP Data Engineering Project)
+=> https://freedium.cfd/https://vengateswaran.medium.com/building-a-real-time-feedback-system-with-django-kafka-spark-and-s3-74c1e3c6c2bf
+=> https://freedium.cfd/https://vengateswaran.medium.com/dynamic-table-for-financial-order-booking-and-debooking-logic-in-snowflake-5dc7ee9fa264
+=> https://github.com/ydataai/ydata-profiling
+=> https://github.com/Praveendinesha/Sales-Insights-Analysis_E-Commerce
+=> https://freedium.cfd/https://aws.plainenglish.io/building-a-real-time-analytics-dashboard-with-flask-and-kafka-on-aws-ec2-bdd051a8b591
+=> https://freedium.cfd/https://vengateswaran.medium.com/integrating-snowflake-with-openais-chatgpt-for-customer-analysis-524d48fbe49b
+=> https://github.com/DharshanKumarCoder/ecommerce_analysis
+=> https://github.com/RiadBensalem/E-commerce-Sales-Analysis-Pipeline
+=> https://github.com/simardeep1792/Real-Time-E-Commerce-Analytics-Pipeline
+=> https://github.com/DayoSamuel/Ecommerce-Data-Analysis-and-Purchase-pattern-discovery-using-Apriori-Algorithm-
+=> https://github.com/sumidhakp123/ECommerce-Data-Analysis
+=> https://public.tableau.com/app/profile/vengateswaran.arunachalam3006/viz/SalesSummary_17102234773930/SalesSummary
+
+
+
+/******************************************************************************************************/
+
+PROJECT - Google Cloud
+
+	=> https://www.youtube.com/watch?v=lMaZnZldxcE&list=PLLrA_pU9-Gz1TbaEIlUVfAqZ853LmDPib&index=55
+	=> https://www.youtube.com/watch?v=kxV4_xDchCc&list=PLLrA_pU9-Gz1TbaEIlUVfAqZ853LmDPib&index=56 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
