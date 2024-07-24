@@ -1009,6 +1009,8 @@ Podcast Summarizer
 
 Project Name - Real Time Ecommerce Analytics
 
+=> https://medium.com/@simardeep.oberoi/building-a-robust-real-time-e-commerce-analytics-pipeline-a-data-engineering-project-b57db9e9bfc4     (BEST)
+
 => https://blog.det.life/create-first-data-engineering-project-incremental-roadmap-6f0e66e7a5bf
 
 => https://www.youtube.com/watch?v=wCK0TTEA-EQ
@@ -1023,6 +1025,7 @@ Project Name - Real Time Ecommerce Analytics
 => https://www.youtube.com/watch?v=29a62hZsLc4
 
 => https://www.youtube.com/watch?v=9xl8cxjm0Ow&t=545s (Darshil Parmar - ProjectPro Link)
+   https://www.projectpro.io/project-use-case/analytical-platform-for-ecommerce-using-aws?utm_source=Youtube&utm_medium=youtube+video-+yt&utm_campaign=Darshil+Parmar+AWS+8th+Sept
 
 => https://www.youtube.com/watch?v=_CQCOusfGrs   (Building an Automated Data Pipeline for Sales Data in Google Cloud | GCP Data Engineering Project)
 
