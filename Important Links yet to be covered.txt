@@ -90,7 +90,10 @@ sharding
 2. MySQL Backup and Recovery - https://dev.mysql.com/doc/refman/8.0/en/backup-and-recovery.html
 3. Udemy - https://www.udemy.com/home/my-courses/learning/
 3. SQL PERFORMANCE 
-
+        => https://docs.snowflake.com/en/user-guide/ui-query-profile
+	=> https://sudssm.medium.com/you-wont-believe-how-we-efficiently-exported-a-billion-rows-a7286f6dda11
+	=> https://levelup.gitconnected.com/bigdata-dba-querying-a-database-table-with-over-a-billion-rows-2278f17d3e69
+        => https://freedium.cfd/https://medium.com/learning-sql/how-i-reduced-my-querys-run-time-from-30-min-to-30-sec-in-1-hour-01c19efa7ed0
 	=> https://www.youtube.com/watch?v=Bq_BM_hOVsU   (Query Optimisation for Data Engineers | End to End Walkthrough)
 	=> https://www.youtube.com/watch?v=hhyqtLh6Oag
 	=> https://medium.com/@seancoyne/acing-the-data-engineering-sql-interview-6c0eec62ade6
@@ -185,6 +188,8 @@ sharding
 
 
 4. SQL Interview Questions 
+
+	=> https://www.youtube.com/channel/UCTcOXx-NtZswf_yoRZCw7NA/community?lb=Ugkxt7ZPYKvsCacd4X1V6NoJz9q4-iRo6byE
 
 	=> https://medium.com/@seancoyne/leetcode-and-hackerrank-problems-you-need-to-practice-for-the-data-engineering-sql-interview-dddef57e7549
 
@@ -859,6 +864,11 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 	=> https://github.com/confluentinc/demo-change-data-capture?tab=readme-ov-file
 
+	=> https://www.youtube.com/watch?v=dRlxM5OXKpU
+           https://www.youtube.com/watch?v=EC-wj9w4XvM&t=3839s
+
+	=> https://medium.com/snowflake/why-high-frequent-data-loading-becomes-expensive-in-snowflake-9c6d43ac14ab
+
 
 
  
@@ -1151,6 +1161,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.simplilearn.com/tutorials/python-tutorial/python-object-oriented-programming
 	=> https://www.programiz.com/python-programming/object-oriented-programming
 
+	=> https://medi
+
 
 
 
@@ -1427,6 +1439,9 @@ https://github.com/10Kang/DE_Zoomcamp2024_ZY/tree/main/module_4_analytic_enginee
 
 
 
+
+
+
 /****************************************************************************************************************************/
 
 Resume - 
@@ -1434,6 +1449,8 @@ Resume -
 	https://freedium.cfd/https://vengateswaran.medium.com/how-i-built-and-hosted-my-resume-on-streamlit-cloud-for-free-dae509fd70ee
 
         https://vengat.streamlit.app/
+
+        https://levelup.gitconnected.com/the-resume-that-got-a-software-engineer-a-300-000-job-at-google-8c5a1ecff40f
 
 /*****************************************************************************************************************************/
 
@@ -1456,12 +1473,27 @@ Podcast Summarizer
 
 Automated Mock Interview System
 	=> https://blog.devgenius.io/query-sql-database-using-natural-language-with-llama-3-and-langchain-a310e6d7dc14    (Very Important)
+	=> https://blog.streamlit.io/ai-interviewer-customized-interview-preparation-with-generative-ai/
+        => https://www.youtube.com/watch?v=4y1a4syMJHM   (Let's Build a ChatGPT Interview Bot | Hands On Project)
+	=> https://www.youtube.com/watch?v=zvoAMx0WKkw   (ChatGPT made my interview questions for me (Streamlit + LangChain))
 
           
           
 /*****************************************************************************************************************************/
 
 Project Name - Real Time Ecommerce Analytics
+
+
+=>  https://learn.microsoft.com/en-us/power-bi/connect-data/service-real-time-streaming
+    https://medium.com/@contact_88419/next-level-dashboard-real-time-data-streaming-with-power-bi-1abdf00ca8f5
+    https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-build-power-bi-dashboard
+
+
+=> https://www.klipfolio.com/resources/dashboard-examples/sales/sales-performance
+
+=> https://medium.com/@kmshilpamurali/how-sql-delivers-real-time-impact-in-web-analytics-e473884a5494    
+
+=> https://www.salesforce.com/in/blog/sales-data-analysis/
 
 => https://medium.com/@simardeep.oberoi/building-a-robust-real-time-e-commerce-analytics-pipeline-a-data-engineering-project-b57db9e9bfc4
 
@@ -1471,17 +1503,62 @@ Project Name - Real Time Ecommerce Analytics
    https://medium.com/@methaddeusndubuisiamadi/adidas-sales-dashboard-analysis-da64f369c688
    https://medium.com/@methaddeusndubuisiamadi/global-superstore-dashboard-832b4c606eab
 
+
 => https://www.youtube.com/watch?v=X-JnC9daQxE&t=6025s  (Realtime Voting System | End-to-End Data Engineering Project | Streamlit)
    https://www.youtube.com/watch?v=M6BWTnMH77M  (End to End Realtime Streaming with Unstructured Data)
    https://www.youtube.com/watch?v=Vv_fvwF41_0&t=2904s    (Smart City End to End Realtime Data Engineering Project)
 
 
+=> https://www.klipfolio.com/resources/dashboard-examples/marketing/web-analytics
+
+=> https://www.databricks.com/glossary/real-time-retail
+
+=> https://www.pipedrive.com/en/blog/sales-data
+
+=> https://www.salesforce.com/in/blog/sales-data-analysis/
+
+=> https://freedium.cfd/https://medium.com/event-driven-utopia/many-faces-of-real-time-analytics-167d71ce0015
 
 
+=> Dataset
+	  https://support.bigcommerce.com/s/article/Orders-Report?language=en_US
+          https://app.snowflake.com/marketplace/listing/GZT1Z18TQIU/getourdata-e-commerce-platform-connector-demo-data?search=E%20commerece
+   	  https://www.snowflake.com/trending/ecommerce-analytics/
+          https://app.snowflake.com/marketplace/listing/GZSTZCJ9S28/oxylabs-e-commerce-product-data-set
+          https://app.snowflake.com/marketplace/listing/GZ1M7Z4UYJB/datahawk-ecommerce-analytics-demo-sample?search=e-commerce%20sales%20dataset
+          https://app.snowflake.com/marketplace/listing/GZSTZCJ9S28/oxylabs-e-commerce-product-data-set?search=e-commerce%20sales%20dataset
+          https://app.snowflake.com/marketplace/listing/GZSYZKWOPH/grips-domain-performance?search=E%20commerece
+          https://app.snowflake.com/marketplace/listing/GZT0ZKSJ2DQ/bright-data-amazon-listings
+
+
+=> ECOMMERCE APP = https://www.youtube.com/watch?v=4mOkFXyxfsU&t=12121s                            ( react              )
+                   https://www.youtube.com/watch?v=BakSpjjdjVA                                     ( django             )
+                   https://www.youtube.com/watch?v=L_5IUq0SgM8                                     ( streamlit          )
+                   https://www.youtube.com/watch?v=pWxDxhWXJos                                     ( streamlit          )
+                   https://www.youtube.com/watch?v=7yAw1nPareM                                     ( streamlit          )
+                   https://www.youtube.com/watch?v=sIqBA0PhzGQ                                     ( streamlit          )
+                   https://www.youtube.com/watch?v=mDJ-sKB7DvE                                     ( streamlit          )
+                   https://www.youtube.com/watch?v=3egaMfE9388&t=1500s                             ( streamlit          )
+                   https://www.youtube.com/watch?v=eXg9m2TM0dE                                     ( streamlit + kafka  )
+                   https://www.youtube.com/playlist?list=PLe1T0uBrDrfOu2vOKGCHmf9qavNDFOSFF        ( ecommerce real time)
+                   https://www.youtube.com/watch?v=OkodDZxsN1I&list=PLHgX2IExbFovFg4DI0_b3EWyIGk-oGRzq&index=10
+                   https://www.youtube.com/watch?v=6Eu2b34alsE&list=PLWuFHho1zKhWN-Qp5hrR0e9RZIo7QO7z6
+                   https://www.youtube.com/watch?v=asFqpMDSPdM&t=1741s
+		   https://blog.streamlit.io/how-to-build-a-real-time-live-dashboard-with-streamlit/
+                   https://www.youtube.com/watch?v=rJzBNm0rb0g     (Python Analytics Dashboard with MySQL and Streamlit)
+                   https://www.youtube.com/watch?v=uDuPM4xfPlw
+
+
+
+=> https://freedium.cfd/https://medium.com/swlh/creating-my-own-web-analytics-tool-dca5a1c720e3
+
+=> https://agilie.com/blog/what-real-time-features-should-be-added-to-your-e-commerce-store
 
 => https://www.geeksforgeeks.org/how-do-you-handle-streaming-data-in-a-data-engineering-pipeline/
 
 => https://medium.com/@mprakash7193/sales-analytics-case-study-unveiling-the-power-of-sales-analysis-dashboards-cb08f9cecd1b
+
+=> https://medium.com/@shreyam2/leveraging-real-time-data-streams-for-enhanced-movie-recommendations-an-integration-of-apache-2a7740991689
 
 
 => https://medium.com/@support_78326/sales-dashboard-track-performance-motivate-your-sales-team-56f97841b97d
@@ -1749,6 +1826,10 @@ PROJECT - Google Cloud
 Real Time Streaming Data Analytics :
 
 
+=> https://www.salesforce.com/in/blog/sales-data-analysis/
+
+=> https://medium.com/@shreyam2/leveraging-real-time-data-streams-for-enhanced-movie-recommendations-an-integration-of-apache-2a7740991689
+
 
 => https://www.youtube.com/watch?v=X-JnC9daQxE&t=6025s    (Realtime Voting System | End-to-End Data Engineering Project | Streamlit)
    https://www.youtube.com/watch?v=M6BWTnMH77M            (End to End Realtime Streaming with Unstructured Data)
@@ -1770,11 +1851,15 @@ Real Time Streaming Data Analytics :
 	   https://medium.com/@fatikir15/end-to-end-real-time-data-engineering-a-project-template-guide-with-kafka-spark-postgresql-and-55b99bcc2c5c
 	   https://medium.com/@fatikir15/end-to-end-real-time-data-engineering-a-project-template-guide-with-kafka-spark-postgresql-and-d4f9ffd94738
 
+	=> https://medium.com/towardsdev/what-is-a-streaming-database-667b4501550e
+
 	=> https://blog.devgenius.io/how-to-build-a-real-time-data-streaming-pipelines-4223598a311a
 
 	=> https://freedium.cfd/https://aws.plainenglish.io/building-a-real-time-analytics-dashboard-with-flask-and-kafka-on-aws-ec2-bdd051a8b591
 
 	=> https://freedium.cfd/https://vengateswaran.medium.com/building-a-real-time-feedback-system-with-django-kafka-spark-and-s3-74c1e3c6c2bf
+
+	=> https://medium.com/data-engineer-things/apache-kafka-important-designs-2a0e6aa6c5bf
 
 	=> https://medium.com/streamthoughts/how-to-build-a-real-time-analytical-platform-using-kafka-ksqldb-and-clickhouse-bfabd65d05e4
 
@@ -1859,7 +1944,7 @@ Real Time Streaming Data Analytics :
 
 	=> https://freedium.cfd/https://blog.det.life/building-a-real-time-end-to-end-streaming-pipeline-project-9dcbd4a07ff1
 
-
+        => https://medium.com/data-engineer-things/how-twitter-processes-4-billion-events-in-real-time-daily-942db8f7d7b5
 
 	
 
@@ -1903,7 +1988,9 @@ Data Pipelines
 	=> https://tech.instacart.com/real-time-fraud-detection-with-yoda-and-clickhouse-bd08e9dbe3f4
 
 
+	=> https://medium.com/data-engineer-things/no-data-engineers-dont-need-dbt-30573eafa15e
 
+	=> https://medium.com/data-engineer-things/how-does-uber-handle-petabytes-of-spark-shuffle-data-every-day-223d8317cfb1
 
 
 
@@ -1929,6 +2016,28 @@ Corporate Level DEVOPS project:
 ########################################################################################################################
 
 Database Migration
+
+	=> https://medium.com/@kedarpatil141/migrating-massive-on-premise-data-volumes-to-the-aws-s3-79548283cdbc
+
+	=> https://leonardisaac.medium.com/database-migration-from-microsoft-azure-to-aws-3ab5bff880de
+
+	=> https://freedium.cfd/https://rakeshsinghania02.medium.com/import-data-from-on-prem-to-aws-rds-322a85dadabf
+
+	=> https://saumiks.medium.com/mysql-database-migration-from-on-promise-to-aws-rds-e520008cd01f
+
+	=> https://blog.devgenius.io/how-to-build-a-s3-data-lake-with-python-from-on-premise-database-23d5d2cdd1da
+
+	=> https://medium.com/@birukgetaneh/scalable-data-migration-from-postgresql-to-mysql-database-bcc25a1b9218
+
+	=> https://medium.com/@ShivIyer/runbook-for-migration-from-databricks-to-chistadata-cloud-for-clickhouse-part-1-2031b1a9a59e
+
+	=> https://medium.com/datadenys/how-to-load-data-directly-from-mysql-to-clickhouse-744c02218b49
+           https://medium.com/@ShivIyer/streaming-data-from-mysql-to-clickhouse-using-redpanda-and-ksqldb-1b01449ae13f
+           https://medium.com/@ShivIyer/runbook-for-migration-from-hadoop-to-chistadatas-clickhouse-776120d86e12
+
+	=> https://medium.com/@shashikhanal/database-live-migration-with-zero-downtime-using-aws-dms-b1c595ccb4fd
+
+	=> https://medium.com/@ShivIyer/runbook-for-migration-from-snowflake-to-chistadata-cloud-for-clickhouse-part-1-e261a80bf460
 
 	=> https://madhuramiah.medium.com/the-shift-from-mysql-to-snowflake-b01c88058ba8
 
@@ -1972,6 +2081,18 @@ Database Migration
 
 
 	=> https://medium.com/@JaquelineCaamal/mysql-ongoing-replication-using-data-migration-service-from-aws-d3b6540db93a
+
+	=> https://medium.com/@ShivIyer/runbook-for-migration-from-hadoop-to-chistadatas-clickhouse-776120d86e12
+
+	=> https://medium.com/huawei-developers/data-migration-from-rds-for-mysql-to-ddm-distributed-database-mildware-373b7f2c8391
+
+	=> https://medium.com/@birukgetaneh/scalable-data-migration-from-postgresql-to-mysql-database-bcc25a1b9218
+
+	=> https://medium.com/towards-aws/3-easy-steps-for-backing-up-an-on-premises-mysql-database-and-restoring-it-to-an-aws-rds-for-mysql-552a46df2a15
+
+	=> https://workmarket.tech/how-to-migrate-to-mysql-rds-without-downtime-e771c26a548b
+
+	=> https://mohtasham9.medium.com/aws-migration-migrating-on-premise-application-to-cloud-97bd41f68a90
 
 
 ##########################################################################################################################
