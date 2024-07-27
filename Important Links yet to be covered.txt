@@ -1476,7 +1476,7 @@ Automated Mock Interview System
 	=> https://blog.streamlit.io/ai-interviewer-customized-interview-preparation-with-generative-ai/
         => https://www.youtube.com/watch?v=4y1a4syMJHM   (Let's Build a ChatGPT Interview Bot | Hands On Project)
 	=> https://www.youtube.com/watch?v=zvoAMx0WKkw   (ChatGPT made my interview questions for me (Streamlit + LangChain))
-
+        => https://www.youtube.com/watch?v=_Um12_OlGgw   (webcam)
           
           
 /*****************************************************************************************************************************/
@@ -1488,6 +1488,10 @@ Project Name - Real Time Ecommerce Analytics
     https://medium.com/@contact_88419/next-level-dashboard-real-time-data-streaming-with-power-bi-1abdf00ca8f5
     https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-build-power-bi-dashboard
 
+
+
+=> https://www.youtube.com/watch?v=HBei8Pt9Ds8
+   https://www.youtube.com/watch?v=30_0j0XYOas
 
 => https://www.klipfolio.com/resources/dashboard-examples/sales/sales-performance
 
@@ -1531,7 +1535,9 @@ Project Name - Real Time Ecommerce Analytics
           https://app.snowflake.com/marketplace/listing/GZT0ZKSJ2DQ/bright-data-amazon-listings
 
 
-=> ECOMMERCE APP = https://www.youtube.com/watch?v=4mOkFXyxfsU&t=12121s                            ( react              )
+=> ECOMMERCE APP = https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit         (exactly same        )
+                   https://blog.streamlit.io/crafting-a-dashboard-app-in-python-using-streamlit/
+		   https://www.youtube.com/watch?v=4mOkFXyxfsU&t=12121s                            ( react              )
                    https://www.youtube.com/watch?v=BakSpjjdjVA                                     ( django             )
                    https://www.youtube.com/watch?v=L_5IUq0SgM8                                     ( streamlit          )
                    https://www.youtube.com/watch?v=pWxDxhWXJos                                     ( streamlit          )
@@ -1547,6 +1553,12 @@ Project Name - Real Time Ecommerce Analytics
 		   https://blog.streamlit.io/how-to-build-a-real-time-live-dashboard-with-streamlit/
                    https://www.youtube.com/watch?v=rJzBNm0rb0g     (Python Analytics Dashboard with MySQL and Streamlit)
                    https://www.youtube.com/watch?v=uDuPM4xfPlw
+                   https://github.com/Sven-Bo/streamlit-sales-dashboard
+                   https://blog.streamlit.io/crafting-a-dashboard-app-in-python-using-streamlit/     (exactly like this)
+                   https://medium.com/@ishan.atri.133/building-a-dynamic-sales-dashboard-with-python-and-streamlit-a6e335c0efc5
+                   https://freedium.cfd/https://towardsdatascience.com/simple-yet-powerful-sales-dashboard-using-streamlit-64bc46381ba4
+
+
 
 
 
