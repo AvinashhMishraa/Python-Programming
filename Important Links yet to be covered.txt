@@ -1,11 +1,12 @@
 https://course.growdataskills.com/cohort/ZlAmetuqbG?module-id=65309ab38c78aec631a0b04a&lesson-id=65309ae43f42783f3bf3c420
 
+https://course.growdataskills.com/cohort/ZlAmetuqbG
 
 
 
 
 
-
+https://www.youtube.com/watch?v=73xrwXL_DMA   (postman rest api)
 
 
 https://medium.com/codex/how-to-become-a-data-engineer-905686dee7ce
@@ -188,6 +189,10 @@ sharding
 
 
 4. SQL Interview Questions 
+
+	=> https://www.namastesql.com/coding-problems
+
+	=> https://towardsdev.com/mastering-the-basics-top-10-sql-queries-every-data-engineer-should-know-8b47146d361f
 
 	=> https://www.youtube.com/channel/UCTcOXx-NtZswf_yoRZCw7NA/community?lb=Ugkxt7ZPYKvsCacd4X1V6NoJz9q4-iRo6byE
            https://www.youtube.com/watch?v=gCKyJI2wQIQ&list=PLjygX4IEt2XfX34e5IZK0P3B_lhSJGIEy
@@ -698,6 +703,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 	=> https://freedium.cfd/https://python.plainenglish.io/medallion-architecture-in-pyspark-from-basic-scripts-to-advanced-oop-methods-9a8613aea3da
 
+	=> https://towardsdatascience.com/5-examples-to-master-pyspark-window-operations-26583066e227
+
 	=> https://freedium.cfd/https://blog.stackademic.com/apache-spark-101-shuffle-join-vs-broadcast-joins-198ac2bdd541
 	
 	=> https://www.youtube.com/playlist?list=PLOJDyiGwjY-R70B77GBtSLvVP7nCSXimV
@@ -974,6 +981,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 8. Python Interview Questions 
+
+	=> https://zlliu.medium.com/youre-decent-at-python-if-you-can-answer-these-7-questions-correctly-7de5e8279e7f
 
 	=> https://freedium.cfd/https://medium.com/pythoneers/17-mindblowing-python-automation-scripts-i-use-everyday-523fb1eb9284
 
@@ -1505,6 +1514,14 @@ Automated Mock Interview System
 Project Name - Real Time Ecommerce Analytics   
 
 
+======> https://github.com/RiadBensalem/E-commerce-Sales-Analysis-Pipeline   <======
+
+======> https://github.com/shinde-chandrakant/retail-data-analysis  (using spark-streaming and kafka)  <=====
+
+
+=> https://medium.com/@dogukannulu/data-engineering-end-to-end-project-1-7a7be2a3671     (Spark, Kafka, Airflow, Docker, Cassandra, Python)
+
+
 https://freedium.cfd/https://medium.com/microsoft-power-bi/how-to-design-attractive-power-bi-reports-a3a4ad1cd14d
 https://freedium.cfd/https://medium.com/microsoft-power-bi/figma-meets-power-bi-revolutionizing-report-design-420cce760aa7
 https://medium.com/microsoft-power-bi/next-level-dashboard-design-with-power-bis-new-card-visual-with-reference-labels-b84d75078c4b
@@ -1567,7 +1584,12 @@ https://medium.com/microsoft-power-bi/next-level-dashboard-design-with-power-bis
 => https://www.itransition.com/blog/building-a-data-warehouse
 
 
-=> Dataset
+
+
+
+===> Dataset <=====
+
+          https://github.com/practical-data-science/ecommercetools   (most important)
 	  https://support.bigcommerce.com/s/article/Orders-Report?language=en_US
           https://app.snowflake.com/marketplace/listing/GZT1Z18TQIU/getourdata-e-commerce-platform-connector-demo-data?search=E%20commerece
    	  https://www.snowflake.com/trending/ecommerce-analytics/
@@ -1576,6 +1598,12 @@ https://medium.com/microsoft-power-bi/next-level-dashboard-design-with-power-bis
           https://app.snowflake.com/marketplace/listing/GZSTZCJ9S28/oxylabs-e-commerce-product-data-set?search=e-commerce%20sales%20dataset
           https://app.snowflake.com/marketplace/listing/GZSYZKWOPH/grips-domain-performance?search=E%20commerece
           https://app.snowflake.com/marketplace/listing/GZT0ZKSJ2DQ/bright-data-amazon-listings
+          https://github.com/loreIT/e-commerce-analysis-university-project
+
+
+
+
+
 
 
 https://akhilanandkspa.medium.com/data-warehouse-design-for-an-e-commerce-company-82f265050b25      (data model)
@@ -1600,12 +1628,18 @@ https://supermetrics.com/blog/ecommerce-data-warehouse
 =====>  https://www.youtube.com/watch?v=Yx4O4tVByZ0                                                         <======
 
 
+https://www.youtube.com/watch?v=hXHym9wDnNo&t=82s
 
 
 => ECOMMERCE APP = 
 https://freedium.cfd/https://medium.com/@vengateswaran/snowflake-beyond-olap-building-real-time-web-applications-61a6a790e473
 (STREAMLIT WEBAPP TO SIMULATE ECOMMERCE APP FOR MAKING ORDERS)...........
 
+                   https://github.com/simardeep1792/Real-Time-E-Commerce-Analytics-Pipeline/tree/main
+                   https://inseaddataanalytics.github.io/INSEADAnalytics/groupprojects/January2017/eCommerce_Analysis.html
+                   https://shweta-yadav15.github.io/Ecommerce-Data-Analysis/          
+           ======> https://github.com/RiadBensalem/E-commerce-Sales-Analysis-Pipeline   <========================================
+           ======> https://github.com/shinde-chandrakant/retail-data-analysis           (using spark-streaming and kafka)  <=====
                    https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit         (exactly same        )
                    https://blog.streamlit.io/crafting-a-dashboard-app-in-python-using-streamlit/
 		   https://www.youtube.com/watch?v=4mOkFXyxfsU&t=12121s                            ( react              )
@@ -1630,8 +1664,13 @@ https://freedium.cfd/https://medium.com/@vengateswaran/snowflake-beyond-olap-bui
                    https://freedium.cfd/https://towardsdatascience.com/simple-yet-powerful-sales-dashboard-using-streamlit-64bc46381ba4
                    https://www.turing.com/kb/how-to-build-an-interactive-dashboard-in-python-using-streamlit
                    https://www.youtube.com/watch?v=weAmHoAKjCc&t=7665s                         (powerbi)
+                   https://github.com/Praveendinesha/Sales-Insights-Analysis_E-Commerce        (powerbi)
 
 
+
+
+
+=> https://medium.com/google-cloud/how-to-build-a-recommendation-system-on-e-commerce-data-using-bigquery-ml-df9af2b8c110
 
 https://medium.com/@muhammadahmedsuhail007/guide-to-building-a-near-real-time-data-warehouse-analysis-project-bdd078257ea9
 
@@ -1728,6 +1767,10 @@ https://github.com/nissim-panchpor/Sales-Data-Warehouse
 
 => https://medium.com/@simardeep.oberoi/building-a-robust-real-time-e-commerce-analytics-pipeline-a-data-engineering-project-b57db9e9bfc4     (BEST)
 
+=> https://sarasanalytics.com/blog/real-time-analytics/
+
+=> https://cotinga.io/blog/real-time-analytics-in-e-commerce-decision-making/
+
 => https://github.com/confluentinc/demo-change-data-capture?tab=readme-ov-file
 
 => https://improvado.io/blog/ecommerce-analytics
@@ -1818,6 +1861,13 @@ https://github.com/nissim-panchpor/Sales-Data-Warehouse
    https://www.thoughtspot.com/data-trends/dashboard/ceo-dashboard
    https://www.thoughtspot.com/data-trends/dashboard/it-dashboard    (incident caprure dashboard)
    https://www.thoughtspot.com/data-trends/dashboard/business-dashboard
+
+
+=> => https://www.salesforce.com/in/blog/sales-data-analysis/
+
+=> https://github.com/DharshanKumarCoder/ecommerce_analysis
+
+=> https://github.com/DayoSamuel/Ecommerce-Data-Analysis-and-Purchase-pattern-discovery-using-Apriori-Algorithm-/blob/main/Association_Rule_Mining_Task_Code.ipynb
 
 
 => System Design of Ecommerce Analytics (https://medium.com/@seancoyne/cracking-the-data-engineering-interview-the-system-design-interview-fcda02d95c65)
@@ -1925,10 +1975,23 @@ PROJECT - Google Cloud
 Real Time Streaming Data Analytics :
 
 
-=> https://www.salesforce.com/in/blog/sales-data-analysis/
+
+=> https://towardsdatascience.com/end-to-end-data-engineering-system-on-real-data-with-kafka-spark-airflow-postgres-and-docker-a70e18df4090
+
+
+======> https://github.com/shinde-chandrakant/retail-data-analysis  (using spark-streaming and kafka)  <=====
+
+=> https://medium.com/@dogukannulu/data-engineering-end-to-end-project-1-7a7be2a3671     (Spark, Kafka, Airflow, Docker, Cassandra, Python)
+
+=> https://medium.com/@simardeep.oberoi/building-a-data-streaming-pipeline-leveraging-kafka-spark-airflow-and-docker-16527f9e9142
+
+=> https://github.com/ChristineWeitw/RealTime-Data-Engineering-Kafka-Spark
+
+=> https://towardsdev.com/practical-guide-on-kafka-and-spark-data-pipeline-creation-63fc21ec7454
+
+=> https://divithraju.medium.com/building-a-real-time-streaming-pipeline-with-spark-kafka-and-cassandra-a-comprehensive-guide-7123817a0b2e
 
 => https://medium.com/@shreyam2/leveraging-real-time-data-streams-for-enhanced-movie-recommendations-an-integration-of-apache-2a7740991689
-
 
 => https://www.youtube.com/watch?v=X-JnC9daQxE&t=6025s    (Realtime Voting System | End-to-End Data Engineering Project | Streamlit)
    https://www.youtube.com/watch?v=M6BWTnMH77M            (End to End Realtime Streaming with Unstructured Data)
@@ -1967,6 +2030,8 @@ Real Time Streaming Data Analytics :
 	=> https://sigmoidanalytics.medium.com/near-real-time-finance-data-warehousing-using-apache-spark-and-delta-lake-79df4cedab14
 
 	=> https://blog.det.life/build-a-real-time-threat-detection-system-using-risingwave-and-kafka-32a0901c8d5c
+
+	=> https://towardsdatascience.com/end-to-end-data-engineering-system-on-real-data-with-kafka-spark-airflow-postgres-and-docker-a70e18df4090
 
 	=> https://sharmashorya1996.medium.com/beyond-batch-real-time-etl-with-spark-structured-streaming-on-databricks-using-best-practices-50f36403d291
 
@@ -2047,6 +2112,8 @@ Real Time Streaming Data Analytics :
 
 	
 
+
+
 ##############################################################################################################################
 
 Data Pipelines
@@ -2060,6 +2127,10 @@ Data Pipelines
    https://www.youtube.com/watch?v=0aqSjJ3-4NI            (Google Cloud Realtime Streaming | Youtube Analytics)
 
 
+
+	=> https://medium.com/@dogukannulu/data-engineering-end-to-end-project-1-7a7be2a3671
+
+	=> https://medium.com/@simardeep.oberoi/building-a-data-streaming-pipeline-leveraging-kafka-spark-airflow-and-docker-16527f9e9142
 
 	=> https://vengateswaran.medium.com/optimize-your-data-platform-pipelines-0d074fe1e850
 
