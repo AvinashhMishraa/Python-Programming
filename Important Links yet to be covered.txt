@@ -190,8 +190,11 @@ sharding
 4. SQL Interview Questions 
 
 	=> https://www.youtube.com/channel/UCTcOXx-NtZswf_yoRZCw7NA/community?lb=Ugkxt7ZPYKvsCacd4X1V6NoJz9q4-iRo6byE
+           https://www.youtube.com/watch?v=gCKyJI2wQIQ&list=PLjygX4IEt2XfX34e5IZK0P3B_lhSJGIEy
 
 	=> https://medium.com/@seancoyne/leetcode-and-hackerrank-problems-you-need-to-practice-for-the-data-engineering-sql-interview-dddef57e7549
+
+	=> https://www.youtube.com/watch?v=UazHRwIiE28&list=PLjygX4IEt2XeELhrt4qpvK_khSk9fTDB0
 
 	=> https://medium.com/@mail2asimmanna/continuous-growing-products-0443580ca8d9
 
@@ -352,6 +355,11 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 5. Data Modelling 
 
+	=> https://www.youtube.com/watch?v=eNxbMwUGl1g
+
+	=> https://www.youtube.com/watch?v=oTqnHc-XUH4    (Food Delivery App Database Design Tutorial)
+           https://www.youtube.com/watch?v=b4RKHZMey3s
+
 	=> https://lewisdgavin.medium.com/how-to-architect-the-perfect-data-warehouse-b3af2e01342e
 
 	=> https://medium.com/@inchukwuemeka/building-a-data-model-and-database-using-python-and-sql-dcff9f557675
@@ -412,6 +420,9 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 5. Data Engineering Mock Interview (The Big Data Show)
+
+	=> https://www.youtube.com/playlist?list=PLjygX4IEt2XcgdQpahWIC6vtMnUBbCPlw
+           https://www.youtube.com/watch?v=gCKyJI2wQIQ&list=PLjygX4IEt2XfX34e5IZK0P3B_lhSJGIEy
 
 	=> https://medium.com/agoda-engineering/how-to-design-maintain-a-high-performing-data-pipeline-63b1603b8e4a
 
@@ -579,6 +590,9 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 7. PySpark
+
+	=> https://www.youtube.com/watch?v=GnFRGJfBz_Q
+
 	=> https://medium.com/@kangzhiyong1999/understand-the-spark-cluster-spark-dataframe-and-spark-sql-with-pyspark-efab224fd1e6
 
 	=> https://subhamkharwal.medium.com/apache-spark-interview-series-test-your-knowledge-08ccdb64761a
@@ -896,6 +910,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 9. Data Analytics
+	=> https://www.youtube.com/watch?v=yTOSOgUGKe4   (POER BI DAX)
 	=> https://www.youtube.com/watch?v=N3P_rY97DsE
 	=> https://www.youtube.com/watch?v=2SIjS-IH8Hw
 	=> https://www.youtube.com/playlist?list=PL6Omre3duO-OGTAMuFuDOS8wMuuxmyaiX (POWER BI TUTORIAL)
@@ -929,6 +944,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://medium.com/@fatikir15/upgrading-your-visualization-toolkit-advanced-plotly-charts-for-large-datasets-cf7645626f32
 	=> https://yudong-94.github.io/personal-website/data%20viz/WeeklyViz2024/
 	=> https://freedium.cfd/https://towardsdatascience.com/330-weeks-of-data-visualizations-my-journey-and-key-takeaways-93f824714dd1
+        => https://freedium.cfd/https://medium.com/microsoft-power-bi/how-to-design-attractive-power-bi-reports-a3a4ad1cd14d
+        => https://freedium.cfd/https://medium.com/microsoft-power-bi/figma-meets-power-bi-revolutionizing-report-design-420cce760aa7
 
 
 
@@ -1436,7 +1453,11 @@ https://github.com/10Kang/DE_Zoomcamp2024_ZY/tree/main/module_4_analytic_enginee
 
 
 
+/****************************************************************************************************************************/
 
+Data Warehousing Project
+
+	https://www.youtube.com/watch?v=eNxbMwUGl1g    (SQL + SSIS + SSAS + Power BI)
 
 
 
@@ -1481,7 +1502,27 @@ Automated Mock Interview System
           
 /*****************************************************************************************************************************/
 
-Project Name - Real Time Ecommerce Analytics
+Project Name - Real Time Ecommerce Analytics   
+
+
+https://freedium.cfd/https://medium.com/microsoft-power-bi/how-to-design-attractive-power-bi-reports-a3a4ad1cd14d
+https://freedium.cfd/https://medium.com/microsoft-power-bi/figma-meets-power-bi-revolutionizing-report-design-420cce760aa7
+https://medium.com/microsoft-power-bi/next-level-dashboard-design-with-power-bis-new-card-visual-with-reference-labels-b84d75078c4b
+
+
+=====>  https://www.youtube.com/watch?v=1HamqOuv2Cw&t=755s                                                  <======
+=====>  https://cci.drexel.edu/faculty/song/publications/p_DWinEcommerce4.pdf                               <======
+=====>  https://medium.com/@Jeyakeerthanan/dataware-house-design-ca7dc3589134                               <======
+=====>  https://medium.com/analytics-vidhya/part-i-i-data-warehouse-modelling-concept-962f286d1566          <======
+=====>  https://medium.com/@williamong1400/part-i-ii-data-warehouse-modelling-implementation-fb80f0cb7127   <======
+=====>  https://medium.com/@williamong1400/part-iii-i-shipping-duration-prediction-16551c93851              <======
+=====>  https://fabric.inc/blog/commerce/ecommerce-data-model                                               <======
+=====>  https://docs.clover.com/docs/ecommerce-data-model                                                   <======
+=====>  https://vertabelo.com/blog/er-diagram-for-online-shop/                                              <======
+=====>  https://medium.com/@chaudharyharsh575/modeling-e-commerce-data-python-postgres-fd51ef413124         <======
+=====>  https://www.youtube.com/watch?v=8bkGKwb29L4&t=1071s                                                 <======
+=====>  https://www.youtube.com/watch?v=Yx4O4tVByZ0                                                         <======
+
 
 
 =>  https://learn.microsoft.com/en-us/power-bi/connect-data/service-real-time-streaming
@@ -1523,6 +1564,8 @@ Project Name - Real Time Ecommerce Analytics
 
 => https://freedium.cfd/https://medium.com/event-driven-utopia/many-faces-of-real-time-analytics-167d71ce0015
 
+=> https://www.itransition.com/blog/building-a-data-warehouse
+
 
 => Dataset
 	  https://support.bigcommerce.com/s/article/Orders-Report?language=en_US
@@ -1535,7 +1578,35 @@ Project Name - Real Time Ecommerce Analytics
           https://app.snowflake.com/marketplace/listing/GZT0ZKSJ2DQ/bright-data-amazon-listings
 
 
-=> ECOMMERCE APP = https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit         (exactly same        )
+https://akhilanandkspa.medium.com/data-warehouse-design-for-an-e-commerce-company-82f265050b25      (data model)
+https://debutify.com/blog/why-your-e-commerce-needs-a-data-warehous/
+https://supermetrics.com/blog/ecommerce-data-warehouse
+
+
+
+
+(*******************BEST OF THE BEST****************)
+=====>  https://www.youtube.com/watch?v=1HamqOuv2Cw&t=755s                                                  <======
+=====>  https://cci.drexel.edu/faculty/song/publications/p_DWinEcommerce4.pdf                               <======
+=====>  https://medium.com/@Jeyakeerthanan/dataware-house-design-ca7dc3589134                               <======
+=====>  https://medium.com/analytics-vidhya/part-i-i-data-warehouse-modelling-concept-962f286d1566          <======
+=====>  https://medium.com/@williamong1400/part-i-ii-data-warehouse-modelling-implementation-fb80f0cb7127   <======
+=====>  https://medium.com/@williamong1400/part-iii-i-shipping-duration-prediction-16551c93851              <======
+=====>  https://fabric.inc/blog/commerce/ecommerce-data-model                                               <======
+=====>  https://docs.clover.com/docs/ecommerce-data-model                                                   <======
+=====>  https://vertabelo.com/blog/er-diagram-for-online-shop/                                              <======
+=====>  https://medium.com/@chaudharyharsh575/modeling-e-commerce-data-python-postgres-fd51ef413124         <======
+=====>  https://www.youtube.com/watch?v=8bkGKwb29L4&t=1071s                                                 <======
+=====>  https://www.youtube.com/watch?v=Yx4O4tVByZ0                                                         <======
+
+
+
+
+=> ECOMMERCE APP = 
+https://freedium.cfd/https://medium.com/@vengateswaran/snowflake-beyond-olap-building-real-time-web-applications-61a6a790e473
+(STREAMLIT WEBAPP TO SIMULATE ECOMMERCE APP FOR MAKING ORDERS)...........
+
+                   https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit         (exactly same        )
                    https://blog.streamlit.io/crafting-a-dashboard-app-in-python-using-streamlit/
 		   https://www.youtube.com/watch?v=4mOkFXyxfsU&t=12121s                            ( react              )
                    https://www.youtube.com/watch?v=BakSpjjdjVA                                     ( django             )
@@ -1557,6 +1628,22 @@ Project Name - Real Time Ecommerce Analytics
                    https://blog.streamlit.io/crafting-a-dashboard-app-in-python-using-streamlit/     (exactly like this)
                    https://medium.com/@ishan.atri.133/building-a-dynamic-sales-dashboard-with-python-and-streamlit-a6e335c0efc5
                    https://freedium.cfd/https://towardsdatascience.com/simple-yet-powerful-sales-dashboard-using-streamlit-64bc46381ba4
+                   https://www.turing.com/kb/how-to-build-an-interactive-dashboard-in-python-using-streamlit
+                   https://www.youtube.com/watch?v=weAmHoAKjCc&t=7665s                         (powerbi)
+
+
+
+https://medium.com/@muhammadahmedsuhail007/guide-to-building-a-near-real-time-data-warehouse-analysis-project-bdd078257ea9
+
+
+https://algoscale.com/blog/how-to-create-the-right-data-warehouse-solution-for-your-e-commerce-business/
+
+Global Sales Data Warehouse Project   
+The primary goal of this Global Sales Data Warehouse project is to minimize raw material manufacturing costs and enhance sales forecasting by identifying critical criteria such as total sales revenue on a monthly and quarterly basis by region and sale amount. The Data Warehousing Project focuses on assessing the entire business process. The data warehouse provides essential information such as daily income, weekly revenue, monthly revenue, total sales, goals, staff information, and vision.
+
+https://github.com/nissim-panchpor/Sales-Data-Warehouse
+
+
 
 
 
