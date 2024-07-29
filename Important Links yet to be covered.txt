@@ -614,6 +614,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 	=> https://vengateswaran.medium.com/mastering-dataframe-operations-in-pyspark-with-expr-e8aae3ec8da1
 
+	=> https://www.youtube.com/watch?v=0DGNxVL14ac  (Reading and Writing Parquet Files | Compression | Predicate Pushdown)
+
 	=> https://hardiks.medium.com/data-pipeline-performance-optimization-tips-and-tricks-c3037ffe95c9
 
 	=> https://freedium.cfd/https://medium.com/@kevinchwong/my-intensive-spark-optimization-study-checklist-308dc8ae55e9
@@ -625,6 +627,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://freedium.cfd/https://python.plainenglish.io/the-truth-about-pysparks-repartition-prepare-to-be-surprised-4dede792f3f4
 
 	=> https://freedium.cfd/https://medium.feruzurazaliev.com/mastering-data-engineering-5-best-practices-for-using-pyspark-814136656655
+
+	=> https://blog.det.life/a-practitioners-guide-to-developing-data-engineering-solutions-with-databricks-1db5134ad831
 
 	=> https://vengateswaran.medium.com/different-approaches-to-convert-python-list-to-column-in-pyspark-dataframe-42b17403a1fe
            https://vengateswaran.medium.com/difference-between-dataframes-datasets-and-rdds-6748e03fb8c5
@@ -1626,6 +1630,7 @@ https://supermetrics.com/blog/ecommerce-data-warehouse
 =====>  https://medium.com/@chaudharyharsh575/modeling-e-commerce-data-python-postgres-fd51ef413124         <======
 =====>  https://www.youtube.com/watch?v=8bkGKwb29L4&t=1071s                                                 <======
 =====>  https://www.youtube.com/watch?v=Yx4O4tVByZ0                                                         <======
+=====>  https://www.youtube.com/watch?v=M-l7gVm69KI                                                         <======
 
 
 https://www.youtube.com/watch?v=hXHym9wDnNo&t=82s
@@ -1635,6 +1640,7 @@ https://www.youtube.com/watch?v=hXHym9wDnNo&t=82s
 https://freedium.cfd/https://medium.com/@vengateswaran/snowflake-beyond-olap-building-real-time-web-applications-61a6a790e473
 (STREAMLIT WEBAPP TO SIMULATE ECOMMERCE APP FOR MAKING ORDERS)...........
 
+                   https://www.youtube.com/watch?v=M-l7gVm69KI
                    https://github.com/simardeep1792/Real-Time-E-Commerce-Analytics-Pipeline/tree/main
                    https://inseaddataanalytics.github.io/INSEADAnalytics/groupprojects/January2017/eCommerce_Analysis.html
                    https://shweta-yadav15.github.io/Ecommerce-Data-Analysis/          
