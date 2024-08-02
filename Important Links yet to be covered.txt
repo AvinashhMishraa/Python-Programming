@@ -1,8 +1,58 @@
+
+
+
+
+
+
+
+
+
+https://docs.google.com/document/d/15S-GMl99veQg922hopUImlpF-CSGI2xrXgobCn-BwNA/edit
+
+
+
+
+
+
+
+Amazon, ANZ, Apisero, Aviyel, Amagi, Busigence, BCG, BitClass, couture.ai, Fractal, Flipkart, Indeed, Healthplix, Lead School, Lumiq, Moveworks, Nagarro, Novo Nordisk, PayPal, Pharmeasy, Recko, Tredence, Uber, Vahan, Vimana, Xpressbees
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://medium.com/@yaduvanshineelam09/a-full-tutorial-on-how-to-use-github-92e753b7b31b
+
+
+
 https://course.growdataskills.com/cohort/ZlAmetuqbG?module-id=65309ab38c78aec631a0b04a&lesson-id=65309ae43f42783f3bf3c420
 
 https://course.growdataskills.com/cohort/ZlAmetuqbG
 
 
+https://docs.google.com/document/d/1Gowj-JWoIYM7hGBy5wfIV5oFLRlPpAlgce_9agJ3Jjw/edit
 
 
 
@@ -91,6 +141,52 @@ sharding
 2. MySQL Backup and Recovery - https://dev.mysql.com/doc/refman/8.0/en/backup-and-recovery.html
 3. Udemy - https://www.udemy.com/home/my-courses/learning/
 3. SQL PERFORMANCE 
+  
+	=> https://medium.com/@arpitamishra11596/all-in-one-sql-guide-from-fundamentals-to-performance-tuning-f4da09e6f961
+
+	=> https://freedium.cfd/https://towardsdatascience.com/python-one-billion-row-challenge-from-10-minutes-to-4-seconds-0718662b303e
+	=> https://freedium.cfd/https://blog.stackademic.com/optimizing-mysql-queries-from-190-seconds-to-1-second-for-tens-of-millions-of-records-c9d61b7e75b9     (VVVVVVVV IMPORTANT)
+
+	=> https://medium.com/@priyankgondaliya/mastering-mysql-query-optimization-15-proven-tricks-for-lightning-fast-database-performance-and-b863a8a00524
+
+	=> https://medium.com/towards-data-engineering/design-a-database-to-store-large-amounts-of-historical-data-that-needs-to-be-regularly-analyzed-dd6558e1bd02
+
+	=> https://www.globallogic.com/il/wp-content/uploads/2016/02/SQL-Performance-Tuning.pdf    (VVVVVV IMPORTANT)
+	=> https://github.com/quynhethereal/books-2/blob/master/databases/SQL%20Performance%20Explained.pdf
+	=> https://web-algarve.com/books/MySQL%20&%20PHP/high%20performance%20mysql%203rd%20edition.pdf
+	=> https://docs.oracle.com/en/database/oracle/oracle-database/21/tgsql/sql-tuning-guide.pdf
+	=> https://freedium.cfd/https://medium.feruzurazaliev.com/sql-performance-tuning-tips-and-tricks-for-faster-queries-e739a3de7921
+	=> https://www.youtube.com/watch?v=UFiZx5NlzL4
+	=> https://www.youtube.com/watch?v=0MgV8TxMNIw
+	=> https://www.youtube.com/watch?v=IcIkjfXoHV4
+	=> https://planetscale.com/blog/how-planetscale-boost-serves-your-sql-queries-instantly
+	=> https://www.youtube.com/watch?v=d6HaTHkXqcQ
+	=> https://www.youtube.com/watch?v=rP0lZ_T5P28
+	=> https://www.youtube.com/watch?v=ZdLd5Ijlv1o
+	=> https://www.youtube.com/watch?v=QgnCB8X_sN4
+	=> https://www.youtube.com/watch?v=csLHXmVLGbs
+	=> https://www.youtube.com/watch?v=cDzrY-QW4Ck
+	=> https://www.youtube.com/watch?v=KZoS1fEPx5Q
+	=> https://www.youtube.com/watch?v=zwDIN04lIpc
+	=> https://www.youtube.com/watch?v=INtejSjK5w0
+	=> https://www.youtube.com/watch?v=JDLgw8Po9QY
+	=> https://www.youtube.com/watch?v=fhwEFZ34c7g
+	=> https://www.youtube.com/watch?v=goC5BdyCvms
+	=> https://www.youtube.com/watch?v=5aezDBaNfcc
+	=> https://www.youtube.com/watch?v=ML24GRzXF9w
+	=> https://www.youtube.com/watch?v=kv3jC0P4gOc
+	=> https://www.youtube.com/watch?v=H6juZ8c_Nu8
+	=> https://www.youtube.com/watch?v=QZBxgX2OWbI
+	=> https://www.youtube.com/watch?v=s8m_R9_NtTI
+	=> https://www.youtube.com/watch?v=BIlFTFrEFOI
+	=> https://www.youtube.com/watch?v=YiBCspv4WjI
+	=> https://mode.com/sql-tutorial/sql-performance-tuning
+	=> https://builtin.com/data-science/b-tree-index
+	=> https://www.digitalocean.com/community/tutorials/how-to-use-indexes-in-mysql
+	=> https://www.percona.com/blog/mysql-101-parameters-to-tune-for-mysql-performance/
+	=> https://coderpad.io/blog/development/optimize-query-performance-mysql/#:~:text=The%20query%20is%20parsed%2C%20preprocessed,in%20your%20query%20before%20execution.
+	=> https://blog.devart.com/how-to-optimize-sql-query.html
+	=> https://www.youtube.com/watch?v=pJWCwfv983Q
         => https://docs.snowflake.com/en/user-guide/ui-query-profile
 	=> https://sudssm.medium.com/you-wont-believe-how-we-efficiently-exported-a-billion-rows-a7286f6dda11
 	=> https://levelup.gitconnected.com/bigdata-dba-querying-a-database-table-with-over-a-billion-rows-2278f17d3e69
@@ -188,7 +284,39 @@ sharding
 
 
 
+
+
 4. SQL Interview Questions 
+
+	=> https://freedium.cfd/https://medium.com/illumination/data-engineering-interview-experience-e6be9d20a9fe
+
+	=> sURROGATE kEY
+
+	=> https://freedium.cfd/https://medium.com/learning-data/what-expert-analysts-dont-tell-you-about-common-table-expressions-ctes-276e9dfdc8c8
+
+	=> https://blog.stackademic.com/concept-of-pivoting-unpivoting-967ee12a5969
+
+	=> https://medium.com/@bvsarathc06/sql-interview-series-sno-1-1ed2bd0ea63f
+
+	=> https://medium.com/@bvsarathc06/sql-interview-question-by-faang-company-4e494d44e079
+
+	=> https://www.mycompiler.io/view/BGcjiIfLTOI
+
+	=> https://www.youtube.com/watch?v=51ryMCf-fvU&list=PLBTZqjSKn0IeKBQDjLmzisazhqQy4iGkb&index=30
+
+	=> https://www.youtube.com/watch?v=w67I_aPKygE
+
+	=> https://mode.com/
+
+	=> https://www.tutorialspoint.com/what-is-the-mysql-error-data-too-long-for-column
+
+	=> https://www.linkedin.com/pulse/mastering-e-commerce-sql-top-10-interview-questions-business-soni-6wcnf/
+
+	=> https://medium.com/@mayuribudake999/sql-interview-questions-2cdba11e20f
+
+        => https://www.itdeveloperzone.com/2012/03/calculate-working-hours-sql-server.html
+
+	=> https://datalemur.com/questions
 
 	=> https://www.namastesql.com/coding-problems
 
@@ -356,9 +484,37 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> (Rishabh Mishra) https://www.youtube.com/watch?v=AZzTHWF7tEc
 	=> https://www.youtube.com/watch?v=VAOpMH_iXMA
 	=> https://www.youtube.com/watch?v=A3hP3NYeGKA
+	=> https://imran-niaz.medium.com/the-ultimate-sqlmap-tutorial-master-sql-injection-and-vulnerability-assessment-3914334c351b
 
 
-5. Data Modelling 
+
+
+
+5. Data Modelling & Data Warehousing
+
+	=> https://medium.com/towards-data-engineering/design-a-database-to-store-large-amounts-of-historical-data-that-needs-to-be-regularly-analyzed-dd6558e1bd02
+
+	=> https://freedium.cfd/https://ganeshchandrasekaran.com/spark-sql-how-to-create-hierarchical-dimension-tables-a-k-a-the-starflake-model-f2aba4ce50fb
+
+	=> https://medium.com/towards-data-engineering/data-modelling-design-a-data-model-for-a-hotel-booking-system-like-airbnb-2110a6d079c6
+
+	=> https://towardsdev.com/understanding-slowly-changing-dimensions-scd-in-data-warehousing-d8a5d6115f00
+
+	=> https://freedium.cfd/https://medium.com/@rkddyal/data-warehouse-design-one-big-table-obt-vs-dim-fact-star-schema-tables-76bf61570a00
+
+	=> https://medium.com/towards-data-engineering/data-modelling-design-the-data-model-for-a-taxi-service-like-uber-eaedfa0e25f4
+
+	=> https://freedium.cfd/https://medium.com/towards-data-engineering/top-data-modelling-scenario-based-interview-question-with-detailed-explanation-77fd1d4ffe41
+
+	=> https://blog.det.life/no-data-engineers-dont-need-dbt-30573eafa15e
+
+	=> https://medium.com/towards-data-engineering/design-the-database-for-a-system-like-spotify-95ffd1fb5927
+
+	=> https://medium.com/towards-data-engineering/database-design-for-a-system-like-linkedin-3c52a5ab28c0
+
+	=> https://medium.com/towards-data-engineering/database-design-for-a-food-delivery-app-like-zomato-swiggy-86c16319b5c5
+
+           https://medium.com/@swarnavo.pramanik1701/design-lld-a-system-for-online-food-ordering-and-delivery-like-zomato-93b70cc79a3f
 
 	=> https://www.youtube.com/watch?v=eNxbMwUGl1g
 
@@ -424,7 +580,63 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 
+
+
 5. Data Engineering Mock Interview (The Big Data Show)
+
+
+     => Aman Ranjan Verma
+	
+	https://freedium.cfd/https://medium.com/towards-data-engineering/data-engineer-interview-questions-part-i-823ca2447bd0
+	https://freedium.cfd/https://medium.com/towards-data-engineering/data-engineer-interview-questions-part-ii-27d437dd8b19
+	https://freedium.cfd/https://medium.com/towards-data-engineering/data-engineer-interview-questions-part-iii-83a5a55d98b8
+	https://freedium.cfd/https://medium.com/towards-data-engineering/data-engineer-interview-questions-part-iv-b90c986e1551
+        https://medium.com/towards-data-engineering/data-modeling-interview-for-a-data-engineer-part-v-a54fb4e1ec93
+        https://medium.com/towards-data-engineering/how-to-unit-test-your-pyspark-application-5f48481556d4
+        https://medium.com/towards-data-engineering/data-processing-architectures-lambda-vs-kappa-for-big-data-8cc9a7edeffd
+
+	=> https://freedium.cfd/https://medium.com/illumination/data-engineering-interview-experience-e6be9d20a9fe
+
+
+	=> https://www.interviewquery.com/p/data-engineer-python-questions
+
+	=> https://freedium.cfd/https://blog.devgenius.io/book-notes-fundamentals-of-data-engineering-chapter-1-2-what-is-data-engineering-data-3709e4a40308
+
+	=> https://medium.com/muthoni-wanyoike/data-engineering-interview-questions-and-how-to-answer-them-529396fbc1a5
+	   https://medium.com/muthoni-wanyoike/common-data-engineering-interview-questions-and-how-to-prepare-for-them-7ae5f18774f5
+           
+
+	=> Arpita Mishra
+
+		https://medium.com/@arpitamishra11596/advanced-data-engineering-interview-questions-part-1-e6a0dc0ebbdd
+		https://medium.com/@arpitamishra11596/all-in-one-sql-guide-from-fundamentals-to-performance-tuning-f4da09e6f961
+
+
+
+
+	=> https://sharmashorya1996.medium.com/data-engineering-interview-questions-afc73fc158f0
+
+	=> https://www.youtube.com/watch?v=seV7F_xs__I
+
+	=> https://medium.com/towards-data-engineering/airflow-3-ways-to-call-a-rest-api-78181fca6fe8
+       
+	=> https://medium.com/towards-data-engineering/4-ways-to-execute-databricks-api-916cc23796f8
+
+	=> https://www.youtube.com/watch?v=t3_ZzPoJx_Y&t=1974s
+
+	=> https://7733588.fs1.hubspotusercontent-na1.net/hubfs/7733588/PDFs/fundamentals-of-data-engineering.pdf?utm_campaign=Autoresponders&utm_medium=email&_hsenc=p2ANqtz-9HOTzQ2zyWboicGvauTAiSy0w32Ni2UM9HSPWbz8N3BiALxgAI1CM5VsKNkpw-OlPi71u3i5QgHX3-Ok4kuu1FYkxe65xe6i0sLw7MqtmCfzHitkc&_hsmi=282421764&utm_content=282421764&utm_source=hs_automation
+
+	=> https://www.youtube.com/watch?v=FV9immu-Dvk
+
+	=> https://blog.det.life/no-one-cares-about-your-data-engineering-project-def99d43c390
+
+	=> https://www.interviewquery.com/p/data-engineer-python-questions
+
+	=> https://www.remoterocketship.com/advice/guide/data-engineer/data-pipeline-engineer-interview-questions-and-answers
+
+	=> https://360digitmg.com/blog/data-pipeline-engineer-interview-questions
+
+	=> https://freedium.cfd/https://medium.com/@patrickkoss/dont-build-a-distributed-system-if-you-don-t-understand-these-issues-2ae5d60bdad7
 
 	=> https://www.youtube.com/playlist?list=PLjygX4IEt2XcgdQpahWIC6vtMnUBbCPlw
            https://www.youtube.com/watch?v=gCKyJI2wQIQ&list=PLjygX4IEt2XfX34e5IZK0P3B_lhSJGIEy
@@ -441,6 +653,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 	=> https://medium.com/data-engineering-on-cloud/part-1-roadmap-to-become-a-data-engineer-for-etl-data-warehouse-developers-340013b88815
 	   https://medium.com/data-engineering-on-cloud/part-2-roadmap-to-become-a-data-engineer-for-etl-data-warehouse-developers-93d0c1faac11
+
+	=> https://blog.det.life/a-brief-history-of-data-management-from-relational-databases-to-data-lakehouses-b76edcafe866
 
 	=> https://alirezasadeghi1.medium.com/open-source-data-engineering-landscape-2024-8a56d23b7fdb
 	
@@ -541,6 +755,11 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 	=> https://sigmoidanalytics.medium.com/near-real-time-finance-data-warehousing-using-apache-spark-and-delta-lake-79df4cedab14
 
+        => Naveen Sorout
+	      https://medium.com/towards-data-engineering/efficient-data-processing-with-pysparks-pivot-and-stack-functions-in-databricks-fa97261ec430
+	      https://medium.com/@nksnaveen13/using-maptype-dict-in-pyspark-to-manipulate-complex-data-structures-46099340e1d7
+              https://medium.com/@nksnaveen13/understanding-change-data-capture-cdc-in-databricks-delta-tables-227c7a759876
+
 	
 
 
@@ -565,6 +784,9 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.stratascratch.com/blog/postgres-vs-mysql-which-is-better-for-analytics/
 
 
+
+
+
 6. Data Structures and Algorithms in Python
 	=> https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/?no-filter=true
 	=> https://www.youtube.com/watch?v=hRacqGUEYd0
@@ -572,6 +794,9 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/playlist?list=PLyMom0n-MBrpVcMqVV9kbA-hq2ygir0uW  (Star Patterns in Python)
 	=> https://www.youtube.com/playlist?list=PLyMom0n-MBrqFwguQhbCu0Anlxoel08dr (DSA in Python)
 	=> https://www.youtube.com/playlist?list=PLyMom0n-MBrodIRp839OaY2eLKddUJMzf (Leetcode in Python)
+
+
+
 
 
 6. Projects Must to do
@@ -594,7 +819,81 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/watch?v=YQjuWiyeu-A
 
 
-7. PySpark
+
+
+
+
+
+
+7. PySpark 
+
+	=> https://freedium.cfd/https://medium.com/illumination/data-engineering-interview-experience-e6be9d20a9fe
+
+	=> https://medium.com/@montypoddar08/pyspark-interview-question-04-1de2b5274ae0
+
+	=> https://medium.com/sync-computing/databricks-vs-snowflake-a-complete-2024-comparison-462eac35b639
+
+	=> https://gaurav98095.medium.com/interview-questions-on-spark-optimizations-917e8c81256b
+
+	=> https://freedium.cfd/https://medium.com/@jh.baek.sd/aws-emr-vs-databricks-choosing-the-right-data-platform-b53619394919
+
+	=> https://freedium.cfd/https://medium.com/codex/feature-platform-6-databricks-feature-store-c3ad99b3aef8
+
+	=> https://medium.com/@tglawless/apache-iceberg-spark-sql-vs-spark-dataframes-4f51c2fec48d
+
+	=> https://freedium.cfd/https://medium.com/data-engineer-things/production-ready-project-file-structure-for-databricks-delta-live-tables-788cbe8a0290
+
+	=> https://medium.com/@deepa.account/spark-concepts-and-questions-aaea515d25ef
+
+	=> https://towardsdev.com/scenario-based-interview-question-pyspark-4a213178a101
+
+	=> https://medium.com/@hiteshtiwari21990/common-errors-of-pyspark-c390e35e3e7f
+
+	=> https://blog.det.life/i-spent-5-hours-understanding-more-about-the-delta-lake-table-format-b8516c5091eb
+
+	=> https://medium.com/towards-data-engineering/easy-guide-to-configure-and-use-databricks-command-line-interface-cli-079721a7bab8
+
+	=> https://medium.com/@ragavi.indra/departmental-salary-insights-with-sql-and-pyspark-bc0a0dbefcf9
+
+	=> https://medium.com/@ragavi.indra/troubleshooting-pysparktypeerror-not-iterable-58481ba80b4b
+
+	=> https://medium.com/@ragavi.indra/difference-between-distinct-and-dropduplicates-885e316abdc1
+
+	=> https://medium.com/@ragavi.indra/handling-a-pyspark-typeerror-unsupported-operand-type-s-for-int-and-str-bdc003b2c6a6
+
+	=> https://medium.com/@serene_mulberry_tiger_125/mastering-upsert-techniques-in-apache-spark-fc14d91dc517
+
+	=> https://levelup.gitconnected.com/stop-using-palin-pyspark-udfs-no-one-likes-slow-cars-b5b33ccc80f4
+
+	=> https://medium.com/@learn-it-all/dynamic-row-level-filtering-and-column-level-masking-in-azure-databricks-24c0c886e428
+
+	=> https://blog.det.life/4-proven-methods-to-download-files-from-databricks-locally-88d0352b4f85
+
+	=> https://medium.com/towards-data-engineering/uber-data-analysis-project-in-pyspark-e105a445fc3e
+
+	=> https://medium.com/towards-data-engineering/mastering-timestamp-to-date-conversion-in-pyspark-unlocking-time-based-insights-with-databricks-eeddb1532782
+
+	=> https://medium.com/towards-data-engineering/how-to-unit-test-your-pyspark-application-5f48481556d4
+
+	=> https://medium.com/@rakeshchanda/spark-out-of-memory-issue-memory-tuning-and-management-in-pyspark-802b757b562f
+
+	=> https://medium.com/data-engineering-lab/selecting-top-n-records-by-group-pyspark-tutorial-groupby-5702d37a3d68
+
+	=> https://medium.com/towards-data-engineering/how-to-pass-external-jars-in-spark-527e616c5f7c
+
+	=> https://freedium.cfd/https://chungcy.medium.com/pyspark-tutorial-pyspark-explode-vs-explode-outer-exploding-array-columns-7e0039caec37
+
+	=> https://medium.com/@rakeshchanda/pyspark-performance-optimization-97e4a4fc85cc
+
+	=> https://medium.com/@data.dev.backyard/spark-tutorial-master-the-essential-skills-for-data-engineering-and-data-science-a0b5744a067e
+
+	=> https://medium.com/@deepa.account/understanding-coalesce-function-in-sql-and-spark-f9bf31100503
+
+	=> https://freedium.cfd/https://medium.com/@urazaliev_f/mastering-pyspark-advanced-techniques-for-data-engineering-cb946800dedf
+           https://spark.apache.org/docs/latest/api/python/
+           https://spark.apache.org/docs/latest/tuning.html
+
+	=> https://www.youtube.com/watch?v=x612pFMdvTc
 
 	=> https://www.youtube.com/watch?v=GnFRGJfBz_Q
 
@@ -603,6 +902,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://subhamkharwal.medium.com/apache-spark-interview-series-test-your-knowledge-08ccdb64761a
 
 	=> https://medium.com/agoda-engineering/how-to-design-maintain-a-high-performing-data-pipeline-63b1603b8e4a
+
+	=> https://medium.com/@cuncis/the-ultimate-sqlmap-tutorial-master-sql-injection-and-vulnerability-assessment-4babdc978e7d
 
 	=> https://medium.com/@sounder.rahul/top-25-databricks-interview-questions-and-answers-for-a-data-engineer-1998367837f5
 
@@ -629,6 +930,13 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://freedium.cfd/https://medium.feruzurazaliev.com/mastering-data-engineering-5-best-practices-for-using-pyspark-814136656655
 
 	=> https://blog.det.life/a-practitioners-guide-to-developing-data-engineering-solutions-with-databricks-1db5134ad831
+
+
+	=> Hitesh Tiwari
+		https://medium.com/@hiteshtiwari21990/flatten-multi-nested-json-column-using-spark-1d440e43b615
+	   	https://medium.com/@hiteshtiwari21990/sparkexception-job-aborted-due-to-stage-failure-exceeds-max-allowed-spark-rpc-message-maxsize-a4239b16eab9
+	        
+
 
 	=> https://vengateswaran.medium.com/different-approaches-to-convert-python-list-to-column-in-pyspark-dataframe-42b17403a1fe
            https://vengateswaran.medium.com/difference-between-dataframes-datasets-and-rdds-6748e03fb8c5
@@ -704,6 +1012,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 		=> https://medium.com/@goyalarchana17/spark-plans-unveiled-how-to-turn-your-cluster-into-a-fire-breathing-beast-dc8a40236edd
 	    
 
+	=> https://freedium.cfd/https://medium.feruzurazaliev.com/unlocking-potential-top-7-benefits-of-using-databricks-for-data-engineers-0651eb4aeecd
 
 	=> https://freedium.cfd/https://python.plainenglish.io/medallion-architecture-in-pyspark-from-basic-scripts-to-advanced-oop-methods-9a8613aea3da
 
@@ -863,6 +1172,49 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://medium.com/@sounder.rahul/pyspark-interview-questions-for-data-engineers-ef90528004c3
 
 	=> https://hardiks.medium.com/data-pipeline-performance-optimization-tips-and-tricks-c3037ffe95c9
+
+	=> https://towardsdatascience.com/feature-engineering-for-time-series-using-pyspark-on-databricks-02b97d62a287
+           https://blog.devgenius.io/mastering-pyspark-file-formats-6bf80758464d
+
+	=> https://freedium.cfd/https://vengateswaran.medium.com/simulating-slowly-changing-dimension-type-2-scd2-in-pyspark-c51495c3c3e5
+
+	=> https://freedium.cfd/https://medium.com/data-engineering-lab/pyspark-tutorial-mastering-pyspark-groupby-unleashing-the-power-of-data-aggregation-882559460de7
+
+	=> https://medium.com/@siladityaghosh/mastering-big-data-with-pyspark-on-google-colab-d3c924264ceb
+
+	=> https://medium.com/towards-data-engineering/mastering-big-data-pipelines-harnessing-pyspark-in-google-cloud-platform-c42d6b02ff18
+
+	=> https://singhaldhruv.medium.com/mastering-data-engineering-in-databricks-from-column-formatting-to-error-prevention-c408e6edd118
+
+	=> https://freedium.cfd/https://singhaldhruv.medium.com/mastering-data-engineering-in-databricks-from-column-formatting-to-error-prevention-c408e6edd118
+
+	=> https://freedium.cfd/https://towardsdev.com/apache-pyspark-tutorial-1dad21ec8b1a
+
+	=> https://freedium.cfd/https://ganeshchandrasekaran.com/multi-column-pivots-in-pyspark-2237eaab8392
+
+	=> https://medium.com/@gunjansahu/oracle-data-engineer-interview-experience-5155fdece480
+
+	=> https://medium.com/@sathamn.n/hello-and-welcome-back-to-our-pyspark-tutorial-series-f13beb8ea393
+
+	=> https://medium.com/@sathamn.n/spark-exception-cannot-broadcast-the-table-larger-than-8-gb-10-gb-be696823ab6c
+
+	=> https://medium.com/@nethaji.bhuma/spark-data-caching-repartition-coalesce-data-frame-hints-270f09c4f990
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	   
 
 
@@ -870,6 +1222,14 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 8. Snowflake 
+
+	=> https://medium.com/predict/end-to-end-case-study-using-snowflake-python-and-power-bi-5990cabd43fe
+
+
+	=> https://medium.com/sync-computing/databricks-vs-snowflake-a-complete-2024-comparison-462eac35b639
+
+	=> https://medium.com/@komal1491/airflow-as-data-engineering-loading-data-from-aws-s3-to-snowflake-1b8975d50ff8
+
 	=> (Satadru Mukherjee) 
 		--> https://doc.clickup.com/37466271/d/h/13qc4z-104/d4346819bd8d510
 
@@ -894,11 +1254,16 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 	=> https://medium.com/snowflake/why-high-frequent-data-loading-becomes-expensive-in-snowflake-9c6d43ac14ab
 
+	=> https://medium.com/@komal1491/airflow-as-data-engineering-loading-data-from-aws-s3-to-snowflake-1b8975d50ff8
+
 
 
  
 
 9. AWS 
+
+	=> https://medium.com/@ashwin_kumar_/aws-glue-analytics-interview-series-1b98807a97a1
+	=> https://medium.com/@komal1491/airflow-as-data-engineering-loading-data-from-aws-s3-to-snowflake-1b8975d50ff8
 	=> https://medium.com/data-engineering-on-cloud/part-2-roadmap-to-become-a-data-engineer-for-etl-data-warehouse-developers-93d0c1faac11
 	=> https://medium.com/@sujathamudadla1213/aws-data-engineering-interview-questions-cfedd68998d3
 	=> https://medium.com/@SaiParvathaneni/essential-aws-services-for-data-engineers-explained-like-youre-15-888f7625657a
@@ -914,14 +1279,31 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://medium.com/@sounder.rahul/important-redshift-interview-questions-for-data-engineer-50c652260a10
 
 
+
+
+
+
+
 9. Devops 
 	=> The Ultimate CICD Corporate DevOps Pipeline Project (https://www.youtube.com/watch?v=NnkUGzaqqOc)
 	=> https://www.youtube.com/watch?v=CX7vN4TH89A (Production Level CICD Pipeline | CICD Pipeline Project Masterclass)
 	=> https://freedium.cfd/https://medium.com/@vishalbarvaliya/ci-cd-for-data-engineers-a-detailed-and-simple-guide-ac5af740728f
 
 
+
+
+
+
 9. Data Analytics
-	=> https://www.youtube.com/watch?v=yTOSOgUGKe4   (POER BI DAX)
+	=> https://www.youtube.com/watch?v=Bi2WAX2Xt9Y
+	=> https://www.youtube.com/watch?v=yTOSOgUGKe4   (POWER BI DAX)
+	=> https://medium.com/predict/interview-questions-dax-in-power-bi-part-5-adbfc4a0fca1
+
+	=> https://freedium.cfd/https://medium.com/analytics-vidhya/interview-questions-dax-in-power-bi-part-1-e97b5b6e3bd9
+
+	=> https://medium.com/geekculture/interview-questions-dax-in-power-bi-part-3-d6576daa1a5b
+
+
 	=> https://www.youtube.com/watch?v=N3P_rY97DsE
 	=> https://www.youtube.com/watch?v=2SIjS-IH8Hw
 	=> https://www.youtube.com/playlist?list=PL6Omre3duO-OGTAMuFuDOS8wMuuxmyaiX (POWER BI TUTORIAL)
@@ -984,7 +1366,77 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
     	N. https://www.mysql.com/why-mysql/migration/
 
 
+
+
+
+
 8. Python Interview Questions 
+
+	=> https://freedium.cfd/https://medium.com/towards-data-engineering/must-do-python-topics-for-data-engineers-bffcae366cea
+
+	=> https://freedium.cfd/https://towardsdatascience.com/python-one-billion-row-challenge-from-10-minutes-to-4-seconds-0718662b303e
+           https://towardsdatascience.com/duckdb-and-aws-how-to-aggregate-100-million-rows-in-1-minute-3634eef06b79
+
+	=> https://blog.det.life/how-rust-and-python-manage-memory-f514adb6456a
+
+	=> https://medium.com/azure-tutorials/a-deep-dive-into-python-logging-practical-examples-for-developers-ca45a072e709
+
+	=> https://medium.com/@yaduvanshineelam09/53-python-interview-questions-and-answers-47bfd8974e07
+
+	=> https://medium.com/@yaduvanshineelam09/shallow-copy-and-deep-copy-in-python-2da5033246d2
+
+	=> https://medium.com/@yaduvanshineelam09/array-vs-list-in-python-5a23cefa406d
+
+	=> https://medium.com/@yaduvanshineelam09/building-crud-api-with-fastapi-a-step-by-step-guide-1e5513546ce5 
+
+	=> https://medium.com/@yaduvanshineelam09/ultimate-python-cheat-sheet-practical-python-for-everyday-tasks-8a33abc0892f
+
+	=> https://medium.com/@yaduvanshineelam09/one-time-revision-python-cheat-sheets-388019640a81
+
+	=> https://medium.com/@yaduvanshineelam09/python-coding-tips-lessons-i-wish-i-knew-when-i-started-coding-4e9d9cd0aefb
+
+	=> https://medium.com/@yaduvanshineelam09/most-important-deloitte-interview-coding-question-af882a584ebb
+
+	=> https://realpython.com/python-lambda/
+
+	=> https://www.learnbyexample.org/python-lambda-function/
+
+	=> https://www.analyticsvidhya.com/blog/2024/02/mcqs-on-python-lambda-function/
+        => https://iq.opengenus.org/lambda-interview-qna-in-python/
+	=> https://medium.com/@yaduvanshineelam09/file-handling-in-python-4f7a4cfc7d22
+
+	=> https://realpython.com/data-engineer-interview-questions-python/
+
+	=> https://www.youtube.com/watch?v=F6QZutbRt2Y&t=15s
+
+	=> https://www.youtube.com/watch?v=4b7ObdK8YPI
+
+	=> https://www.youtube.com/watch?v=ESMGPRJjFUY
+
+	=> https://www.youtube.com/watch?v=BQa0j-pxXCU&list=PLVcEZG2JPVhe4vFUzxW69mJb8ghecDA62
+
+	=> https://www.youtube.com/watch?v=M9RUhRVTEOw
+
+	=> https://www.youtube.com/watch?v=kwvhH_v5Evg&list=PL6p9VwbuOT2Myl7C4p4q6A8hRHccHXqd1&index=1
+
+	=> https://medium.com/@shwetaka1988/python-coding-interview-questions-part-2-with-solutions-6b2e0baa3695
+
+           https://medium.com/@shwetaka1988/python-coding-interview-questions-part-1-with-solutions-ce3156b17c50
+
+           https://medium.com/@shwetaka1988/python-coding-interview-questions-part-3-with-solutions-b8b994eaa195
+
+
+	=> https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-collections&filters%5Bsubdomains%5D%5B%5D=py-built-ins
+
+	=> https://www.geeksforgeeks.org/ordereddict-in-python/
+
+	=> https://www.geeksforgeeks.org/itertools-groupby-in-python/
+
+	=> https://note.nkmk.me/en/python-dict-list-sort/
+
+	=> https://iq.opengenus.org/lambda-interview-qna-in-python/
+
+	=> https://www.analyticsvidhya.com/blog/2024/02/mcqs-on-python-lambda-function/
 
 	=> https://zlliu.medium.com/youre-decent-at-python-if-you-can-answer-these-7-questions-correctly-7de5e8279e7f
 
@@ -1048,9 +1500,15 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://medium.com/@sounder.rahul/python-data-engineers-coding-interview-questions-part-1-4e2f6b22c22d
 
 	=> https://ubuntushell.com/install-uv-python-package-manager/
+
+	=> https://data-flair.training/blogs/python-interview-questions/
 	
         
 
+
+
+9. Kafka
+	=> https://freedium.cfd/https://blog.devgenius.io/apache-kafka-interview-questions-cbeacefd37ec
 
 
 
@@ -1081,7 +1539,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 
-9. System Design
+9. System Design  (DATA ENGINEER)
 	=> https://freedium.cfd/https://medium.com/@vishalbarvaliya/golden-rules-for-system-design-interview-48d0fdbc444f
         => https://medium.com/@seancoyne/data-engineering-practice-system-design-question-and-solution-batch-b971eae7637b
         => https://medium.com/@seancoyne/cracking-the-data-engineering-interview-the-system-design-interview-fcda02d95c65
@@ -1097,6 +1555,12 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/watch?v=zFXUxjlOCoo
 	=> https://www.youtube.com/watch?v=SQDFE-Bc8E0
 	=> https://www.youtube.com/watch?v=hqa2sfoGRlI
+
+
+
+10. System Design (Software Development)
+	=> https://freedium.cfd/https://medium.com/@pellinore.x/hotel-booking-system-deisgn-a8ff8a4b54aa
+	=> https://medium.com/@in10se/tag-management-system-design-b91a83812af4
 	
 
 
@@ -1165,6 +1629,12 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 21. OOPS
+
+	=> https://freedium.cfd/https://medium.com/towards-data-engineering/data-engineer-interview-questions-part-iii-83a5a55d98b8
+	=> https://medium.com/@yaduvanshineelam09/decorators-in-python-12d4d197b056
+	=> https://medium.com/@yaduvanshineelam09/object-oriented-programming-oop-in-python-a-guide-for-beginners-a2f410eafa4e
+	=> https://medium.com/@yaduvanshineelam09/oops-concept-in-python-5c278306baf8
+	=> https://www.youtube.com/watch?v=AxCapb2hYhY&list=PLVcEZG2JPVhfpkAzOQ1ygRNu23A2wcPm7
 	=> https://medium.com/@alexobidiegwu/50-laws-of-best-practices-in-python-6942c7cafd56
 	=> https://medium.com/@aserdargun/advanced-oop-in-python-a5f6130da291
 	=> https://medium.com/@taylorberukoff/object-oriented-principles-in-python-ffb44453270c
@@ -1239,6 +1709,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 28. Resume
+	=> https://docs.google.com/document/d/15S-GMl99veQg922hopUImlpF-CSGI2xrXgobCn-BwNA/edit
 	=> https://medium.com/@seancoyne/cracking-the-data-engineering-resume-8afa9ec101b8
 	=> https://medium.com/@seancoyne/cracking-the-data-engineering-resume-part-2-9f76a22e8b7b
 	=> https://medium.com/@seancoyne/linkedin-profile-tips-for-data-engineers-d828cd85c82e
@@ -1261,6 +1732,16 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 
+
+
+31. Case Study  (Engineering & Technologies)
+
+	=> https://blog.det.life/how-does-uber-build-real-time-infrastructure-to-handle-petabytes-of-data-every-day-ddf5fe9b5d2c
+	=> https://medium.com/thedeephub/how-does-linkedin-process-4-trillion-events-every-day-d4500df3527c
+	=> https://medium.com/thedeephub/procella-the-query-engine-at-youtube-e83b0c322e5e
+
+
+32. Case Study (Business & Analytics)
 
 
 
@@ -1480,6 +1961,8 @@ Data Warehousing Project
 
 Resume - 
 
+	https://medium.com/kudoswall/7-data-engineer-resume-headlines-that-speak-volumes-c5db0becf860
+
 	https://freedium.cfd/https://vengateswaran.medium.com/how-i-built-and-hosted-my-resume-on-streamlit-cloud-for-free-dae509fd70ee
 
         https://vengat.streamlit.app/
@@ -1507,20 +1990,72 @@ Podcast Summarizer
 
 Automated Mock Interview System
 	=> https://blog.devgenius.io/query-sql-database-using-natural-language-with-llama-3-and-langchain-a310e6d7dc14    (Very Important)
+
+	=> https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG
 	=> https://blog.streamlit.io/ai-interviewer-customized-interview-preparation-with-generative-ai/
         => https://www.youtube.com/watch?v=4y1a4syMJHM   (Let's Build a ChatGPT Interview Bot | Hands On Project)
 	=> https://www.youtube.com/watch?v=zvoAMx0WKkw   (ChatGPT made my interview questions for me (Streamlit + LangChain))
         => https://www.youtube.com/watch?v=_Um12_OlGgw   (webcam)
-          
+        => https://www.youtube.com/watch?v=qaPMdcCqtWk
+        => https://www.youtube.com/watch?v=miBG-a3FuhU
+        => https://freedium.cfd/https://kai-waehner.medium.com/apache-kafka-vector-database-llm-real-time-genai-4b5b6e687d85
+        => https://resources.workable.com/tutorial/llms-in-hr-analytics
+	=> https://medium.com/@mikkimous555/efficient-evaluation-of-question-answering-model-with-semantic-search-and-llm-23b7992658da
+        => https://teemukanstren.com/2023/12/25/llmrag-based-question-answering/
+	=> https://www.johnsnowlabs.com/testing-the-question-answering-capabilities-of-large-language-models/
+	=> https://pub.aimind.so/llm-embeddings-explained-simply-f7536d3d0e4b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###############----------------------------------------############################--------------------------------------------
+
+Bulk Hierarchy Uploader
+
+	=> https://freedium.cfd/https://towardsdatascience.com/handling-hierarchies-in-dimensional-modeling-176156f20f61
+
+
+
+
+
+
           
 /*****************************************************************************************************************************/
 
 Project Name - Real Time Ecommerce Analytics   
 
 
+=====> https://medium.com/@yaduvanshineelam09/recommendation-system-using-pyspark-kafka-and-spark-streaming-ba43201ff4bd
+
+
+=====> https://medium.com/@kishorchukka/introduction-f345491b1eb4  (RealTime E-Commerce Platform with Python, FastAPI, Kafka, Docker)
+
 ======> https://github.com/RiadBensalem/E-commerce-Sales-Analysis-Pipeline   <======
 
 ======> https://github.com/shinde-chandrakant/retail-data-analysis  (using spark-streaming and kafka)  <=====
+
+======> https://freedium.cfd/https://kai-waehner.medium.com/customer-loyalty-and-rewards-platform-with-apache-kafka-a5dd2b3e1cb4
+
+======> https://freedium.cfd/https://ahmed-nafies.medium.com/fastapi-event-driven-development-with-kafka-zookeeper-and-docker-compose-a-step-by-step-guide-3e07151c3e4d
+	https://freedium.cfd/https://ahmed-nafies.medium.com/fastapi-event-driven-development-with-kafka-zookeeper-and-docker-compose-a-step-by-step-guide-53fd739b1310
+        https://freedium.cfd/https://ahmed-nafies.medium.com/fastapi-event-driven-development-with-kafka-zookeeper-and-docker-compose-a-step-by-step-guide-417f88a0fb23
+
+
+
+=> https://medium.com/@yaduvanshineelam09/building-crud-api-with-fastapi-a-step-by-step-guide-1e5513546ce5
+   https://medium.com/@yaduvanshineelam09/introduction-to-fastapi-123c0b2778a5
 
 
 => https://medium.com/@dogukannulu/data-engineering-end-to-end-project-1-7a7be2a3671     (Spark, Kafka, Airflow, Docker, Cassandra, Python)
@@ -1531,6 +2066,11 @@ https://freedium.cfd/https://medium.com/microsoft-power-bi/figma-meets-power-bi-
 https://medium.com/microsoft-power-bi/next-level-dashboard-design-with-power-bis-new-card-visual-with-reference-labels-b84d75078c4b
 
 
+
+=====>  https://github.com/aliseyedi01/FastAPI-Ecommerce-API                                                <======
+=====>  https://www.udemy.com/course/django-drf-project-ecommerce/?referralCode=59A869F117A84EA81612&couponCode=NVDIN35
+=====>  https://www.youtube.com/watch?v=EbLEyM9SyZQ                                                         <======
+=====>  https://www.youtube.com/watch?v=s3HuIRD5sUY                                                         <======
 =====>  https://www.youtube.com/watch?v=1HamqOuv2Cw&t=755s                                                  <======
 =====>  https://cci.drexel.edu/faculty/song/publications/p_DWinEcommerce4.pdf                               <======
 =====>  https://medium.com/@Jeyakeerthanan/dataware-house-design-ca7dc3589134                               <======
@@ -1618,6 +2158,8 @@ https://supermetrics.com/blog/ecommerce-data-warehouse
 
 
 (*******************BEST OF THE BEST****************)
+
+=====> https://medium.com/@kishorchukka/introduction-f345491b1eb4  (RealTime E-Commerce Platform with Python, FastAPI, Kafka, Docker)
 =====>  https://www.youtube.com/watch?v=1HamqOuv2Cw&t=755s                                                  <======
 =====>  https://cci.drexel.edu/faculty/song/publications/p_DWinEcommerce4.pdf                               <======
 =====>  https://medium.com/@Jeyakeerthanan/dataware-house-design-ca7dc3589134                               <======
@@ -1635,10 +2177,25 @@ https://supermetrics.com/blog/ecommerce-data-warehouse
 
 https://www.youtube.com/watch?v=hXHym9wDnNo&t=82s
 
+=> https://medium.com/towards-data-engineering/design-a-database-to-store-large-amounts-of-historical-data-that-needs-to-be-regularly-analyzed-dd6558e1bd02   
+
+
 
 => ECOMMERCE APP = 
+
+=====> https://medium.com/@kishorchukka/introduction-f345491b1eb4  (RealTime E-Commerce Platform with Python, FastAPI, Kafka, Docker)
+
 https://freedium.cfd/https://medium.com/@vengateswaran/snowflake-beyond-olap-building-real-time-web-applications-61a6a790e473
 (STREAMLIT WEBAPP TO SIMULATE ECOMMERCE APP FOR MAKING ORDERS)...........
+
+https://freedium.cfd/https://medium.com/@gavinklfong/kafka-streams-marvellous-real-time-multiple-data-streams-processing-cf30327aa515
+
+https://freedium.cfd/https://medium.com/@gavinklfong/kafka-streams-how-to-build-an-advanced-stateful-data-stream-processing-eb73e84892cd
+
+https://medium.com/@in10se/system-design-payment-service-for-an-e-commerce-platform-e0ac0f056255
+
+https://freedium.cfd/https://medium.com/@kevinchwong/e-commerce-platform-like-amazon-6adf3be577fd
+
 
                    https://www.youtube.com/watch?v=M-l7gVm69KI
                    https://github.com/simardeep1792/Real-Time-E-Commerce-Analytics-Pipeline/tree/main
@@ -1671,7 +2228,8 @@ https://freedium.cfd/https://medium.com/@vengateswaran/snowflake-beyond-olap-bui
                    https://www.turing.com/kb/how-to-build-an-interactive-dashboard-in-python-using-streamlit
                    https://www.youtube.com/watch?v=weAmHoAKjCc&t=7665s                         (powerbi)
                    https://github.com/Praveendinesha/Sales-Insights-Analysis_E-Commerce        (powerbi)
-
+                   https://www.youtube.com/watch?v=dWrj5i7Y1zo&list=LL&index=2&t=22s           (powerbi)
+                   https://www.youtube.com/watch?v=Voc0c9nrGw8&list=LL&index=1                 (powerbi)
 
 
 
@@ -1692,7 +2250,7 @@ https://github.com/nissim-panchpor/Sales-Data-Warehouse
 
 
 
-
+=> https://medium.com/@learn-it-all/working-with-change-data-feed-and-delta-live-tables-in-azure-databricks-8b2d259d328b
 
 => https://freedium.cfd/https://medium.com/swlh/creating-my-own-web-analytics-tool-dca5a1c720e3
 
@@ -1745,9 +2303,11 @@ https://github.com/nissim-panchpor/Sales-Data-Warehouse
    https://www.youtube.com/watch?v=K84MEdiC1tM            (Realtime Streaming with Data Lakehouse - End to End Data Engineering)
    https://www.youtube.com/watch?v=IocW3KnMFyI            (Realtime Change Data Capture Streaming | End to End Data Engineering)
    https://www.youtube.com/watch?v=0aqSjJ3-4NI            (Google Cloud Realtime Streaming | Youtube Analytics)
+   https://freedium.cfd/https://medium.com/towards-data-engineering/change-data-capture-cdc-realtime-streaming-with-postgres-debezium-kafka-apache-spark-and-slack-42f6ee74bc1c
 
 
 => https://www.youtube.com/watch?v=k3lIQZzsaWY       (Airflow Tutorial | Automate EMR ETL Jobs with Airflow | Airflow Project | Data Engineering Project)
+
 
 
 => https://blog.devgenius.io/simple-dashboard-for-performance-of-amazons-products-and-brands-during-covid19-d509c42f0146
@@ -1981,6 +2541,25 @@ PROJECT - Google Cloud
 Real Time Streaming Data Analytics :
 
 
+=> https://freedium.cfd/https://blog.devgenius.io/streaming-data-pipeline-project-with-kafka-and-python-simulating-metro-bb158549ed6f
+
+
+=> https://freedium.cfd/https://blog.devgenius.io/apache-kafka-interview-questions-cbeacefd37ec
+
+
+=> https://medium.com/@yaduvanshineelam09/recommendation-system-using-pyspark-kafka-and-spark-streaming-ba43201ff4bd
+
+
+=> https://freedium.cfd/https://kai-waehner.medium.com/customer-loyalty-and-rewards-platform-with-apache-kafka-a5dd2b3e1cb4
+
+
+=> https://freedium.cfd/https://medium.com/@gavinklfong/kafka-streams-how-to-build-an-advanced-stateful-data-stream-processing-eb73e84892cd
+
+
+=> https://freedium.cfd/https://medium.com/@gavinklfong/kafka-streams-marvellous-real-time-multiple-data-streams-processing-cf30327aa515
+
+
+=> https://medium.com/@kishorchukka/stream-processing-with-kafka-and-spark-b6fd7e2144bb
 
 => https://towardsdatascience.com/end-to-end-data-engineering-system-on-real-data-with-kafka-spark-airflow-postgres-and-docker-a70e18df4090
 
@@ -2024,6 +2603,8 @@ Real Time Streaming Data Analytics :
 	=> https://blog.devgenius.io/how-to-build-a-real-time-data-streaming-pipelines-4223598a311a
 
 	=> https://freedium.cfd/https://aws.plainenglish.io/building-a-real-time-analytics-dashboard-with-flask-and-kafka-on-aws-ec2-bdd051a8b591
+
+	=> https://ably.com/blog/realtime-ticket-booking-solution-kafka-fastapi-ably
 
 	=> https://freedium.cfd/https://vengateswaran.medium.com/building-a-real-time-feedback-system-with-django-kafka-spark-and-s3-74c1e3c6c2bf
 
@@ -2134,6 +2715,13 @@ Data Pipelines
 
 
 
+
+=> https://charotamine.medium.com/azure-databricks-end-to-end-project-part-2-delta-lake-autoloader-ingest-data-to-the-b407208a9c0c
+
+
+
+	=> https://medium.com/@kishorchukka/building-a-robust-data-engineering-pipeline-airflow-postgresql-pandas-matplotlib-docker-cbfa3d5b63ad
+
 	=> https://medium.com/@dogukannulu/data-engineering-end-to-end-project-1-7a7be2a3671
 
 	=> https://medium.com/@simardeep.oberoi/building-a-data-streaming-pipeline-leveraging-kafka-spark-airflow-and-docker-16527f9e9142
@@ -2192,6 +2780,8 @@ Corporate Level DEVOPS project:
 ########################################################################################################################
 
 Database Migration
+
+	=> https://freedium.cfd/https://medium.com/@thelaymanspeaks/the-definitive-data-migration-playbook-a-step-by-step-guide-to-seamless-cloud-transitions-8ab816e21487
 
 	=> https://medium.com/@kedarpatil141/migrating-massive-on-premise-data-volumes-to-the-aws-s3-79548283cdbc
 
@@ -2279,4 +2869,45 @@ AWS pipeline sample project:
 	=> https://www.youtube.com/watch?v=TvoiQ8Z1lGA
 	=> https://www.youtube.com/watch?v=Hfu3E0zLYDQ
 	=> https://freedium.cfd/https://blog.stackademic.com/aws-powered-banking-automating-reconciliation-with-cloud-efficiency-fbcf38d32279
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##########################################################
+
+Testing Data Pipelines
+
+	=> https://www.youtube.com/watch?v=fpu2TFY6c4s&t=617s
+	=> https://www.youtube.com/watch?v=7FPksG-LYOA           (pytest)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
