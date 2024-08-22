@@ -25,6 +25,9 @@ Amazon, ANZ, Apisero, Aviyel, Amagi, Busigence, BCG, BitClass, couture.ai, Fract
 
 
 
+power bi 
+	=> https://www.youtube.com/watch?v=crb0F-FTllU
+	=> https://www.youtube.com/watch?v=Dk25lwdTKow
 
 
 
@@ -2630,6 +2633,10 @@ Project Name - Real Time Ecommerce Analytics
 Build and Deploy a Full Stack E-Commerce App with an Admin Dashboard & CMS in 2024 | Next 14, Stripe
 	=> https://github.com/adrianhajdin/ecommerce
 	=> https://www.youtube.com/watch?v=3JUsg-WsU9o  
+
+
+
+====> https://www.youtube.com/watch?v=uwThWfrbMHI   (zomato sales dashboard powerbi)
 
 
 =====> https://medium.com/@yaduvanshineelam09/recommendation-system-using-pyspark-kafka-and-spark-streaming-ba43201ff4bd
