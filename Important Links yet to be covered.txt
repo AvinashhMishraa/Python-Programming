@@ -321,9 +321,13 @@ sharding
 
 4. SQL Interview Questions 
 
+	=> https://medium.com/@poojatripathi0697/sql-interview-question-asked-in-amazon-jp-morgan-and-many-more-08ad764d5e42
+
 	=> https://freedium.cfd/https://medium.com/illumination/data-engineering-interview-experience-e6be9d20a9fe
 
 	=> SURROGATE kEY
+
+	=> https://www.freedium.cfd/https://towardsaws.com/data-analyst-data-engineer-interview-preparation-series-sql-parti-41668212d19a
 
 	=> https://www.coursesidekick.com/computer-science/1681190
 
@@ -1132,6 +1136,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://medium.com/@sathamn.n/spark-on-heap-and-off-heap-memory-in-pyspark-7016b48f8512
 
 	=> https://medium.com/@vishalbarvaliya/200-pyspark-interview-questions-for-data-engineer-037091021760
+	   https://medium.com/@vishalbarvaliya/pwc-pyspark-interview-questions-for-data-engineer-2024-2e32cfd401f2
 
 	=> https://medium.com/sync-computing/databricks-vs-snowflake-a-complete-2024-comparison-462eac35b639
 
@@ -1393,6 +1398,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
            https://freedium.cfd/https://towardsdatascience.com/4-examples-to-take-your-pyspark-skills-to-next-level-2a04cbe6e630
 	   https://medium.com/@vishalbarvaliya/20-real-time-scenario-based-data-engineers-interview-questions-0c078e1b620a
            https://medium.com/@vishalbarvaliya/50-frequently-asked-data-modeling-interview-questions-for-data-engineers-in-2024-362c1f6415dd
+	   https://www.freedium.cfd/https://medium.com/@vishalbarvaliya/deloitte-pyspark-interview-questions-for-data-engineers-2024-29db756554d0
 
 
 
@@ -1405,6 +1411,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 		=> https://medium.com/@goyalarchana17/data-engineering-series-6-batch-processing-with-apache-spark-e4350b5bd7c9
 		=> https://medium.com/@goyalarchana17/how-compression-codecs-save-spark-from-suffocating-on-data-d7a8fb87d67a
 		=> https://medium.com/@goyalarchana17/spark-plans-unveiled-how-to-turn-your-cluster-into-a-fire-breathing-beast-dc8a40236edd
+		=> https://medium.com/@goyalarchana17/15-critical-questions-every-data-engineer-should-be-prepared-to-answer-3aa82791653e
 	    
 
 	=> https://freedium.cfd/https://medium.feruzurazaliev.com/unlocking-potential-top-7-benefits-of-using-databricks-for-data-engineers-0651eb4aeecd
@@ -1462,6 +1469,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
         => https://medium.com/@poojatripathi0697/pyspark-interview-question-asked-in-uber-f0547a4a9cd6
 
         => https://vengateswaran.medium.com/
+	     |=> https://vengateswaran.medium.com/day-5-mastering-pyspark-a-100-day-challenge-c5c32a94ed30
 	     |=> https://vengateswaran.medium.com/mastering-pyspark-a-100-day-challenge-day-1-d5a2e0e1bb76
 	     |=> https://python.plainenglish.io/day-9-mastering-pyspark-a-100-day-challenge-cf262c6e16d9
 	     |=> https://python.plainenglish.io/day-13-spark-shuffling-behind-the-scenes-a5cdbf52ced3
@@ -3413,6 +3421,8 @@ Corporate Level DEVOPS project:
 ########################################################################################################################
 
 Database Migration
+
+	=> https://www.freedium.cfd/https://medium.com/@jagadeshjamjalanarayanan/data-engineering-scenario-data-migration-weekly-issue-8-c3f7b049de26
 
 	=> https://www.youtube.com/watch?v=cAXPA5lqkV4   (Most Important)
 
