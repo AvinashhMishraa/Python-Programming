@@ -674,6 +674,13 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	
 	=> https://lewisdgavin.medium.com/the-state-of-data-engineering-interviews-in-2024-5f98f56a8433
 
+	=> https://www.youtube.com/watch?v=4lVItJbG5zg
+	   https://www.youtube.com/watch?v=8WKgeKJC_Hs
+	
+	=> https://www.youtube.com/watch?v=QRUAVvM6mlo
+
+	=> https://www.youtube.com/watch?v=ohzP8OTCKsQ
+
 
      => Aman Ranjan Verma
 	
@@ -1006,6 +1013,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 7. PySpark Interview Questions
 
 
+	=> https://www.youtube.com/@Techdataengineer/videos
 
 	=> https://pub.towardsai.net/simplify-your-data-engineering-journey-the-essential-pyspark-cheat-sheet-for-success-69db0c38b31e
 
