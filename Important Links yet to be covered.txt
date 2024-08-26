@@ -325,6 +325,8 @@ sharding
 
 	=> https://freedium.cfd/https://medium.com/illumination/data-engineering-interview-experience-e6be9d20a9fe
 
+	=> https://www.youtube.com/watch?v=kz9lV1L5ENI
+
 	=> SURROGATE kEY
 
 	=> https://www.freedium.cfd/https://towardsaws.com/data-analyst-data-engineer-interview-preparation-series-sql-parti-41668212d19a
