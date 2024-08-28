@@ -1,4 +1,35 @@
 
+Shree Vaibhav Villa
+
+Shree Niwas
+
+Shreenath niwas
+
+shree kunj
+
+shree vikas
+
+shree vilas
+
+shree jagdeesh bhawan
+
+shree jagannath
+
+shree dham
+
+Narayan Niwas
+
+samriddhi
+
+
+
+The more you will try to play smart in Kashmir, the more it will get out of your hands in Balochistan. All scores will be settled, count by count. Paganphobes were enjoying some days in Kashmir. 
+
+
+
+
+
+
 https://docs.google.com/document/d/1YZwKKeKwsWmfpuQVDg0H2TU7e7DlEn4h/edit#heading=h.30j0zll   (Shashank DSA)
 https://docs.google.com/document/d/1Pz3r0llKhO9TFyhKLY8n6mxxcLD8FeTJlqEEnkrV5Rc/edit          (POWER BI syllabus)
 
@@ -8,6 +39,9 @@ https://docs.google.com/document/d/12od5jXw1YzFNAvEk7C-xtMc8-cn9FtMJp-fS1Bj9g20/
 https://www.knowledgehut.com/blog/data-science/data-engineering-projects
 
 
+
+https://www.youtube.com/watch?v=S_BTu8mymRw
+https://www.youtube.com/watch?v=GE3-DJggRg8    (https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced/?couponCode=KRISHNAIK06)
 
 
 
@@ -673,6 +707,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 5. Data Engineering Mock Interview (The Big Data Show)
 
+	=> https://www.youtube.com/watch?v=FBPxh-_IZ3k
+
 	
 	=> https://lewisdgavin.medium.com/the-state-of-data-engineering-interviews-in-2024-5f98f56a8433
 
@@ -1014,6 +1050,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 7. PySpark Interview Questions
 
+	=> https://www.youtube.com/watch?v=iXVIPQEGZ9Y
 
 	=> https://www.youtube.com/@Techdataengineer/videos
 
