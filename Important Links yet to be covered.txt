@@ -23,7 +23,19 @@ samriddhi
 
 
 
-The more you will try to play smart in Kashmir, the more it will get out of your hands in Balochistan. All scores will be settled, count by count. Paganphobes were enjoying some days in Kashmir. 
+The more you will try to play smart in Kashmir, the more it will get out of your hands in Balochistan. All scores will be settled, count by count. Paganphobes always deny Hindu genocide in Kashmir and now blaming Hindus (RAAAA) 
+
+
+A less radical Muslim who still follws Islam, cannot hide himself in the guise of being left and play superior morality than a right wing Hindu because Islam itself is the farthest thing in the right. Creating False Equivalence is game of the past. In the age of data, how many Hindus in Pakistan and Kashmir have picked stones in resistance to daily humiliation and slow genocide, let alone fighting for equal rights. Muslims in India are trapping Hindu girls, doing Love Jihad, making crores in business and bolywwod, bossing Hindus in corporates, owning more land than Hindus, have their own perosnal civil laws, block roads for Friday Namaz, vandalise Public properties in protests, violate laws by cutting cows in states where it is restricted, take free rations and free homes more than it's proprotion in population targeted for direct benefit schemes.
+
+
+A hindu in Pakistan can never think of Bhgawa-e-Pakistan while Muslims here in india are not only openly talking about Ghazwa-e-Hind but also make cheap jokes on Hindu Gods and Goddesses from time to time, thus enjoying freedomt to do blasphemy in the name of right to express.
+
+
+It was a mricle and large heartednes sof Hindus in 1947 to not ask for an exclusive Hindu country after all the blooshed in the name of 2 Nation Theory. You can't create a False Equivalence. You may avoid debating Islamists in Pakistan citing danger to your life. But 
+what stops you to debate Hindutva guys from India. They can't certainly go to Pakistana nd harm you anyhow. All time what you do is hearing your own words in an eco-chamber.
+
+
 
 
 
@@ -361,7 +373,11 @@ sharding
 
 	=> https://www.youtube.com/watch?v=kz9lV1L5ENI
 
+	=> https://www.youtube.com/watch?v=Ejxam_CBY9U
+
 	=> SURROGATE kEY
+
+	=> https://www.youtube.com/watch?v=Dsj8qQ1m5fA
 
 	=> https://www.freedium.cfd/https://towardsaws.com/data-analyst-data-engineer-interview-preparation-series-sql-parti-41668212d19a
 
@@ -707,9 +723,18 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 5. Data Engineering Mock Interview (The Big Data Show)
 
+	=> https://www.youtube.com/watch?v=jQhc1NwdOOg  (azure interview beginner data engineer)
+
+	=> https://www.youtube.com/watch?v=XXyLmd_KNfE   (data engineering project related questions )   ---- VERY IMPORTANT
+
+	=> https://www.youtube.com/watch?v=zeuHy-jgC0Y
+
 	=> https://www.youtube.com/watch?v=FBPxh-_IZ3k
 
-	
+	=> https://www.youtube.com/watch?v=l8I9_o8ATqQ
+
+	=> https://www.youtube.com/watch?v=hf2go3E2m8g
+
 	=> https://lewisdgavin.medium.com/the-state-of-data-engineering-interviews-in-2024-5f98f56a8433
 
 	=> https://www.youtube.com/watch?v=4lVItJbG5zg
@@ -1717,6 +1742,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 9. AWS 
 
+	==========> https://www.youtube.com/watch?v=jQhc1NwdOOg  (azure interview beginner data engineer)
+
 	==========> https://www.youtube.com/playlist?list=PLOlK8ytA0MgjYGVrz0hS4w3UPQ1-VV2uX      (MOST IMPORTANT)
 
 	==========> https://www.youtube.com/watch?v=7wKn1ukbXds&list=PLPDIqy88IVY2x9cpW3eAi6bHZTdwW2mSl     (MOST IMPORTANT)
@@ -1801,6 +1828,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 	=> https://www.youtube.com/watch?v=YSdMju09QAM
 
+	=> https://www.youtube.com/watch?v=0Sjx_wibZS0  (very important) 
 
 	=> https://www.youtube.com/watch?v=ZnQwO6V7pec (Ankit Bansal ===> Netflix Data Cleaning and Analysis Project | End to End Data Engineering Project (SQL + Python))
 
