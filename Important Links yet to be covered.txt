@@ -189,6 +189,13 @@ sharding
 
 
 https://blog.dataengineer.io/p/the-2024-breaking-into-data-engineering
+https://www.youtube.com/watch?v=-Gws8WADB0g
+
+
+
+
+
+
 
 
 1. MySQL Optimization - https://dev.mysql.com/doc/refman/8.0/en/optimization.html 
@@ -1742,6 +1749,10 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 9. AWS 
 
+	=========> https://www.youtube.com/watch?v=TTcyhhH2FWE
+
+	==========> https://www.youtube.com/watch?v=1pTqJCCwQmw   (AWS Scenario based)
+
 	==========> https://www.youtube.com/watch?v=jQhc1NwdOOg  (azure interview beginner data engineer)
 
 	==========> https://www.youtube.com/playlist?list=PLOlK8ytA0MgjYGVrz0hS4w3UPQ1-VV2uX      (MOST IMPORTANT)
@@ -1827,6 +1838,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 9. Data Analytics
 
 	=> https://www.youtube.com/watch?v=YSdMju09QAM
+
+	=> https://www.youtube.com/watch?v=LYLG7fB0KlI   (POWER BI DAX)
 
 	=> https://www.youtube.com/watch?v=0Sjx_wibZS0  (very important) 
 
