@@ -2915,6 +2915,7 @@ https://medium.com/@in10se/system-design-payment-service-for-an-e-commerce-platf
 https://freedium.cfd/https://medium.com/@kevinchwong/e-commerce-platform-like-amazon-6adf3be577fd
 
 
+                   https://www.youtube.com/watch?v=BnDCyDwVZp8   (Automatic Customer Review Extraction Pipeline using Gnerative AI)
                    https://www.youtube.com/watch?v=M-l7gVm69KI
                    https://github.com/simardeep1792/Real-Time-E-Commerce-Analytics-Pipeline/tree/main
                    https://inseaddataanalytics.github.io/INSEADAnalytics/groupprojects/January2017/eCommerce_Analysis.html
