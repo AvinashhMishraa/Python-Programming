@@ -1,4 +1,16 @@
 
+DE1  ===>  https://com.rpy.club/cop/SEQQAuOmTb
+
+
+DA  ===>  https://course.growdataskills.com/cohort/ZlAmetuqbG
+
+
+DSA ===>  https://course.growdataskills.com/cohort/OtYo38TDsm?module-id=650151c565948f39c859433e&lesson-id=6501521965948f39c85943e9
+
+
+###################################################################################################################################
+
+
 Shree Vaibhav Villa
 
 Shree Niwas
@@ -196,7 +208,7 @@ https://www.youtube.com/watch?v=PkIpF2uQdVo   (A 6-Month Complete Guide to Becom
 
 
 
-
+https://www.youtube.com/watch?v=iwRneX7GIGI  (DataBase Engineering - DataWarehousing)
 1. MySQL Optimization - https://dev.mysql.com/doc/refman/8.0/en/optimization.html
 2. MySQL Backup and Recovery - https://dev.mysql.com/doc/refman/8.0/en/backup-and-recovery.html
 3. Udemy - https://www.udemy.com/home/my-courses/learning/
@@ -3268,6 +3280,7 @@ PROJECT - Google Cloud
 Real Time Streaming Data Analytics :
 
 
+=> https://medium.com/@yingjunwu/kafka-has-reached-a-turning-point-649bd18b967f
 
 => https://freedium.cfd/https://blog.devgenius.io/streaming-data-pipeline-project-with-kafka-and-python-simulating-metro-bb158549ed6f
 
