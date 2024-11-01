@@ -229,12 +229,17 @@ https://www.youtube.com/watch?v=PkIpF2uQdVo   (A 6-Month Complete Guide to Becom
 
 
 
+https://www.youtube.com/watch?v=oggHzC_L9uc    (16 Data Preprocessing situations and their solutions --- Data Analysis)
+
+
 https://www.youtube.com/watch?v=TxeDV9v0ukQ  (Databricks cost of services)
 https://www.youtube.com/watch?v=iwRneX7GIGI  (DataBase Engineering - DataWarehousing)
 1. MySQL Optimization - https://dev.mysql.com/doc/refman/8.0/en/optimization.html
 2. MySQL Backup and Recovery - https://dev.mysql.com/doc/refman/8.0/en/backup-and-recovery.html
 3. Udemy - https://www.udemy.com/home/my-courses/learning/
 3. SQL PERFORMANCE 
+
+	=> https://www.youtube.com/watch?v=MZrYXA-JU6M   (SPARK TUNING)
 
 	=> https://medium.com/analytics-vidhya/execute-mysql-queries-10x-faster-simple-pyspark-tutorial-with-databricks-a39164550749
 
@@ -659,6 +664,9 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 5. Data Modelling & Data Warehousing
 
+	=> https://medium.com/wwcode-python/data-engineer-interview-series-data-modeling-part-1-20b6a9cfc7a5
+	=> https://anju-mercian.medium.com/data-engineer-interview-series-data-modeling-part-2-8a794368b643
+
 
 	=> https://medium.com/@arpitamishra11596/mastering-dimensional-modeling-techniques-and-best-practices-61cb5fb27cac
            https://medium.com/@arpitamishra11596/101-on-data-warehousing-4c087079a2b8
@@ -765,6 +773,12 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 5. Data Engineering Mock Interview (The Big Data Show)
 
+	=> https://medium.com/@itsadityagupta/data-engineer-interview-experience-at-media-net-2023-6b7295493a3e
+
+	=> https://medium.com/@sujathamudadla1213/aws-data-engineering-interview-questions-cfedd68998d3
+
+	=> https://freedium.cfd/https://medium.com/@think-data/data-engineering-interview-questions-7f72650ae380
+
 	=> https://www.youtube.com/watch?v=WbypICzQiS0
 
 	=> https://www.youtube.com/watch?v=jQhc1NwdOOg  (azure interview beginner data engineer)
@@ -787,6 +801,10 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://www.youtube.com/watch?v=QRUAVvM6mlo
 
 	=> https://www.youtube.com/watch?v=ohzP8OTCKsQ
+
+     => https://medium.com/@nishasreedharan/data-engineer-interview-preparation-complete-guide-98a9d16f6889
+
+     => https://freedium.cfd/https://medium.com/wwcode-python/a-cheatsheet-to-data-engineering-interviews-5c9bc906b9df
 
 
      => Aman Ranjan Verma
@@ -1118,6 +1136,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 7. PySpark Interview Questions
+
+	=> https://www.youtube.com/watch?v=MZrYXA-JU6M    (SPARK TUNING FULL ROADMAP)
 
 	=> https://www.youtube.com/watch?v=iXVIPQEGZ9Y
 
@@ -1785,6 +1805,9 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
  
 
 9. AWS 
+
+	=> https://medium.com/@sujathamudadla1213/aws-data-engineering-interview-questions-cfedd68998d3
+
 
 	=========> https://www.youtube.com/watch?v=TTcyhhH2FWE
 
@@ -3301,6 +3324,21 @@ PROJECT - Google Cloud
 
 Real Time Streaming Data Analytics :
 
+=> https://blog.rittmananalytics.com/how-rittman-analytics-analyzes-its-historical-revenue-sales-pipeline-using-google-bigquery-39b06e915790
+
+=> https://medium.com/@murat_aydin/building-a-real-time-streaming-data-pipeline-a-journey-through-apache-kafka-airflow-blob-ece24390eb67
+
+=> https://blog.devgenius.io/how-to-build-a-real-time-data-streaming-pipelines-4223598a311a
+
+=> https://kavitmht.medium.com/building-a-real-time-data-streaming-pipeline-for-sentiment-analysis-using-kafka-postgres-and-4f1c11ba51c9
+
+=> https://kavitmht.medium.com/building-a-real-time-data-streaming-pipeline-for-sentiment-analysis-using-kafka-postgres-and-4f1c11ba51c9
+
+
+
+
+=> https://kavitmht.medium.com/building-a-real-time-data-streaming-pipeline-using-apache-kafka-flink-and-postgres-a22101c97895
+
 
 => https://medium.com/@yingjunwu/kafka-has-reached-a-turning-point-649bd18b967f
 
@@ -3550,6 +3588,8 @@ Corporate Level DEVOPS project:
 ########################################################################################################################
 
 Database Migration
+
+=> https://thelaymanspeaks.medium.com/the-definitive-data-migration-playbook-a-step-by-step-guide-to-seamless-cloud-transitions-8ab816e21487
 
 	=> https://www.freedium.cfd/https://medium.com/@jagadeshjamjalanarayanan/data-engineering-scenario-data-migration-weekly-issue-8-c3f7b049de26
 
