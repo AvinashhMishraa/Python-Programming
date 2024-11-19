@@ -1,4 +1,46 @@
 
+
+https://www.youtube.com/watch?v=Xv_aYCt-Vco     ( https://www.napkin.ai/ )
+
+
+
+
+
+American Express  nISCHAY- https://www.youtube.com/watch?v=FF8Zhr9OU_Q&t=638s
+                           LIST, SET TIPLE, DICTIONARY, STRING
+                           DECORATOR, mULTIPROCESSING, Filehandling (both using Pandas and without using pandas)
+                           spark, databricks, PYSPARK CODING    
+                           BEST ANSWER FOR SPARK OPTIMIZATION ---nISCHAY IN THIS VIDEO
+                           https://sparkbyexamples.com/
+                           DATABRICKS-SNOWFLAKE connector (challenges - infra or cluster level & data (spark) level)
+                           (optimiztion - infra or cluster level & data or spark level)
+
+
+Priority wise         
+1) SQL
+2) Python (Python, Numpy, Pandas)
+3) SPARK (pyspark coding, spark optimization, spark scenario based questions)
+4) ETL design level optimization
+5) Project
+6) Airflow, AWS
+7) Data Modeling, Data Warehouse, Data Base Management System
+8) Data bricks and Snowflake
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://deepnote.com/workspace/avi-chawla-695b-aee6f4ef-2d50-4fb6-9ef2-20ee1022995a/project/Pandas-Notebook-1-d693ac55-6455-40cf-ae34-867c6a02014e/notebook/notebook-6449493c84734151b11f4b6871f045d2
 
 
@@ -244,6 +286,15 @@ https://www.youtube.com/watch?v=iwRneX7GIGI  (DataBase Engineering - DataWarehou
 2. MySQL Backup and Recovery - https://dev.mysql.com/doc/refman/8.0/en/backup-and-recovery.html
 3. Udemy - https://www.udemy.com/home/my-courses/learning/
 3. SQL PERFORMANCE 
+
+	=> https://www.youtube.com/watch?v=641_goNZGog    (Arpit Bhayani talks about real engineering for 1 hour straight)
+
+	=> https://www.youtube.com/watch?v=55RieJwCRps
+           https://www.youtube.com/watch?v=Xv9ZxXM2LWM
+           https://www.youtube.com/watch?v=mhxwTh9ApzU&list=PLSBeS-txjpHtpU4H5b2M7jC9KwEeewC9y
+           https://www.youtube.com/watch?v=npO0szZ4S2Q&list=PLSBeS-txjpHtpU4H5b2M7jC9KwEeewC9y&index=2
+
+	=> https://www.youtube.com/watch?v=MK24y7AmKTc  
 
 	=> https://www.youtube.com/watch?v=MZrYXA-JU6M   (SPARK TUNING)
 
@@ -1902,6 +1953,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 9. Data Analytics
+
+	=> https://www.youtube.com/watch?v=1uPUyT9LoHQ   (vERY IMPORTANT FOR PROJECT AND PRACTICE)
 
 	=> https://www.youtube.com/watch?v=YSdMju09QAM
 
