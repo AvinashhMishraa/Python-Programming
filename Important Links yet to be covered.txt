@@ -477,6 +477,9 @@ https://www.youtube.com/watch?v=iwRneX7GIGI  (DataBase Engineering - DataWarehou
 
 	=> https://www.youtube.com/watch?v=kz9lV1L5ENI
 
+	=> https://www.youtube.com/watch?v=U-GVSgnbFlw
+           https://www.youtube.com/watch?v=_YYq82ov7Ic&list=PLtfxzVLWb-B-O3VAjxsoZYgG6d8WMnPjG
+
 	=> https://www.youtube.com/watch?v=Ejxam_CBY9U
 
 	=> SURROGATE kEY
@@ -1193,6 +1196,10 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 7. PySpark Interview Questions
+
+	=> https://www.youtube.com/watch?v=obkKGo7LHnk
+
+	=> https://www.youtube.com/watch?v=94w6hPk7nkM&t=9820s
 
 	=> https://www.youtube.com/watch?v=MZrYXA-JU6M    (SPARK TUNING FULL ROADMAP)
 
