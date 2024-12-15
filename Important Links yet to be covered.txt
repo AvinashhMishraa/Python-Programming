@@ -1,5 +1,10 @@
 
 
+https://www.youtube.com/watch?v=IGraly_Lvvg   (What to prepare in 2025 for Google Amazon level DE)
+
+
+
+
 
 https://chatgpt.com/c/673c7aeb-d7f0-8008-a66f-cf6478a285e3
 
@@ -477,6 +482,8 @@ https://www.youtube.com/watch?v=iwRneX7GIGI  (DataBase Engineering - DataWarehou
 
 
 4. SQL Interview Questions 
+
+	=> https://www.youtube.com/watch?v=dTiOlyL5WPQ   (live interview)
 
 	=> https://www.youtube.com/watch?v=9iJ4cHV-WsQ   (Ankit Bansal- SQL triggers)
 
@@ -1179,6 +1186,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 6. Projects Must to do
+
+	=>https://www.youtube.com/watch?v=VCE62a9Z5Vc  (power bi end to end dashboard ecommerce)
 
 	=> https://medium.com/@simardeep.oberoi/building-a-data-streaming-pipeline-leveraging-kafka-spark-airflow-and-docker-16527f9e9142    (Building a Data Streaming Pipeline: Leveraging Kafka, Spark, Airflow, and Docker)
 
@@ -1970,6 +1979,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 9. Data Analytics
 
+	=> https://www.youtube.com/watch?v=KmIdcQCcfzg  (POWER BI DAX interview questions 6 hours)
+
 	=> https://www.youtube.com/watch?v=1uPUyT9LoHQ   (vERY IMPORTANT FOR PROJECT AND PRACTICE)
 
 	=> https://www.youtube.com/watch?v=YSdMju09QAM
@@ -2063,6 +2074,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 8. Python Interview Questions 
+
+	=> https://www.youtube.com/watch?v=f9Aje_cN_CY  (whole DSA In Python)
 
 	=> Neelam Yadav
 		https://medium.com/@yaduvanshineelam09/advanced-python-functions-2089ef4330ba
