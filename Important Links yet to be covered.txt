@@ -1,7 +1,10 @@
 
+https://www.youtube.com/watch?v=sr3EXWdLToo    (sportify data pipeline api project)
+https://www.youtube.com/watch?v=QmUsG_3wHPg    (ecommerce analysis chatbot)
+
 
 https://www.youtube.com/watch?v=IGraly_Lvvg   (What to prepare in 2025 for Google Amazon level DE)
-
+DATA ENGINEER BOOTCAMP - https://github.com/DataTalksClub/data-engineering-zoomcamp
 
 
 
@@ -248,6 +251,7 @@ https://www.youtube.com/watch?v=5Pc18ge9ohI   (Writing My Own Database From Scra
 https://www.youtube.com/watch?v=vi-qMzxxtYs
 https://github.com/antoniosarosi/mkdb
 https://sairamdgr8.medium.com/instagram-data-analytics-project-using-pyspark-snowflake-powerbi-58c17842f339
+https://www.youtube.com/watch?v=dahrmqT5GD4    (Tableau ecommerce sales)
 
 
 
@@ -300,6 +304,9 @@ https://www.youtube.com/watch?v=iwRneX7GIGI  (DataBase Engineering - DataWarehou
 2. MySQL Backup and Recovery - https://dev.mysql.com/doc/refman/8.0/en/backup-and-recovery.html
 3. Udemy - https://www.udemy.com/home/my-courses/learning/
 3. SQL PERFORMANCE 
+
+
+	=> https://www.youtube.com/watch?v=zH48c8INo70
 
 	=> https://www.youtube.com/watch?v=641_goNZGog    (Arpit Bhayani talks about real engineering for 1 hour straight)
 
@@ -1187,6 +1194,9 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 6. Projects Must to do
 
+	=> https://www.youtube.com/watch?v=dahrmqT5GD4    (Tableau ecommerce sales)
+           https://www.youtube.com/watch?v=UcGF09Awm4Y    (Tableau HR project)
+
 	=>https://www.youtube.com/watch?v=VCE62a9Z5Vc  (power bi end to end dashboard ecommerce)
 
 	=> https://medium.com/@simardeep.oberoi/building-a-data-streaming-pipeline-leveraging-kafka-spark-airflow-and-docker-16527f9e9142    (Building a Data Streaming Pipeline: Leveraging Kafka, Spark, Airflow, and Docker)
@@ -1214,6 +1224,14 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 7. PySpark Interview Questions
+
+	=> https://www.youtube.com/watch?v=1J7qZ5SNGaQ
+
+	=> https://medium.com/tomtalkspython/pyspark-vs-pandas-when-to-use-each-dabf995cf850
+
+	=> https://medium.com/predmatic/pyspark-and-pandas-dataframes-side-by-side-syntax-comparisons-part-1-de18381fd708
+
+	=> https://www.youtube.com/watch?v=P5pEeR3xQpI   (databricks)
 
 	=> https://www.youtube.com/watch?v=obkKGo7LHnk
 
@@ -1883,6 +1901,11 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	   https://cristian-70480.medium.com/streamlit-hierarchical-data-viewer-in-snowflake-dbf62cbf5bcd
 
 
+9. AZURE 
+
+	=> => https://www.youtube.com/watch?v=DnsGmAJBuZM   (AZURE DATA FACTOPY FULL - DATA ENGINEERING FULL 6 HOUR VIDEO)
+
+
 
  
 
@@ -1978,6 +2001,16 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 9. Data Analytics
+
+	=> https://www.youtube.com/watch?v=WyBdr48EfXs  (power bi interview Ankit Bansal)
+
+	=> https://www.youtube.com/watch?v=DHp0TGvTmsg  (EXCEL + Power BI interview questions best)
+
+	=> https://www.youtube.com/watch?v=kiABuIawkzw (power bi interview questions)
+
+	=> https://www.youtube.com/watch?v=beLhaTMCR5A   (power bi interview questions)
+
+	=> https://www.youtube.com/watch?v=wQQR60KtnFY  (Ultimate Data Analyst 24 hours| SQL, Excel, Tableau, Power BI, Python, Azure)
 
 	=> https://www.youtube.com/watch?v=KmIdcQCcfzg  (POWER BI DAX interview questions 6 hours)
 
@@ -2250,11 +2283,13 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://medium.com/towardsdev/azure-databricks-for-beginners-build-your-first-notebook-242a329f9c48
 	=> https://medium.com/@sounder.rahul/top-25-databricks-interview-questions-and-answers-for-a-data-engineer-1998367837f5
 	=> https://medium.com/@sounder.rahul/azure-interview-questions-data-factory-databricks-for-data-engineer-afdb44942334
+	=> https://www.youtube.com/watch?v=DnsGmAJBuZM   (AZURE DATA FACTOPY FULL - DATA ENGINEERING FULL 6 HOUR VIDEO)
 
 
 
 9. Real Time Interview Questions
 	=> https://medium.com/@sounder.rahul/real-time-interview-questions-of-data-engineer-part-1-3c979a71b0eb
+
 
 
 
@@ -2880,6 +2915,7 @@ Build and Deploy a Full Stack E-Commerce App with an Admin Dashboard & CMS in 20
 	=> https://www.youtube.com/watch?v=3JUsg-WsU9o  
 
 
+====> https://www.youtube.com/watch?v=QmUsG_3wHPg    (ecommerce analysis chatbot)
 
 ====> https://www.youtube.com/watch?v=uwThWfrbMHI   (zomato sales dashboard powerbi)
 
