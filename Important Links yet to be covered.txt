@@ -1,11 +1,24 @@
 
+When interviewing a Python developer, key topics to cover include: core Python syntax and data structures, object-oriented programming (OOP) concepts, control flow, functions, string manipulation, exception handling, modules and packages, common libraries like NumPy, Pandas, and requests, web frameworks like Django or Flask (depending on the role), data analysis basics, problem-solving skills through coding exercises, and understanding of best practices like PEP 8; ensuring to tailor the depth of questions based on the desired seniority level
+
+
+https://www.youtube.com/watch?v=v6vUOOa6S_I     (Manish Data Engineer roadmap and topics for 3-4 years experience)
+https://github.com/manisnitt/myresume/blob/main/manish_resume_github.pdf
+https://www.youtube.com/watch?v=swfNxI-ZdqI
+https://www.youtube.com/watch?v=FV9immu-Dvk   (Topics to cover)
+https://www.youtube.com/watch?v=tqeYVVHygy8    (most important)
+
+
+
+
+
 https://www.youtube.com/watch?v=sr3EXWdLToo    (sportify data pipeline api project)
 https://www.youtube.com/watch?v=QmUsG_3wHPg    (ecommerce analysis chatbot)
+https://www.youtube.com/watch?v=6_hXeNg9TJ0    (job ready azure data pipeline 7 hour project)
 
 
 https://www.youtube.com/watch?v=IGraly_Lvvg   (What to prepare in 2025 for Google Amazon level DE)
 DATA ENGINEER BOOTCAMP - https://github.com/DataTalksClub/data-engineering-zoomcamp
-
 
 
 
@@ -303,12 +316,23 @@ https://www.youtube.com/watch?v=iwRneX7GIGI  (DataBase Engineering - DataWarehou
 1. MySQL Optimization - https://dev.mysql.com/doc/refman/8.0/en/optimization.html
 2. MySQL Backup and Recovery - https://dev.mysql.com/doc/refman/8.0/en/backup-and-recovery.html
 3. Udemy - https://www.udemy.com/home/my-courses/learning/
-3. SQL PERFORMANCE 
+3. SQL PERFORMANCE
 
+	=> https://www.youtube.com/watch?v=6ZquiVH8AGU   (Database Indexing: How DBMS Indexing done to improve search query performance?)
+
+	=> https://www.youtube.com/watch?v=BRccwYDDQTo   (SQL DATE FORMATS)
+
+	=> https://www.youtube.com/watch?v=mgG0ecyNrfU   (Simplest, Most Detailed Explanation of BTrees | Why do Databases use BTrees not BSTs or Arrays?)
 
 	=> https://www.youtube.com/watch?v=zH48c8INo70
 
 	=> https://www.youtube.com/watch?v=641_goNZGog    (Arpit Bhayani talks about real engineering for 1 hour straight)
+           https://www.youtube.com/watch?v=eQ3eNd5WbH8&list=PLsdq-3Z1EPT2C-Da7Jscr7NptGcIZgQ2l&index=6    (Arpit hyani playslist)
+	   https://www.youtube.com/watch?v=4yI9qx0NG9A
+           https://www.youtube.com/watch?v=IeG0l6VXxuY
+           https://www.youtube.com/watch?v=EtdQlqDyyvg
+
+
 
 	=> https://www.youtube.com/watch?v=55RieJwCRps
            https://www.youtube.com/watch?v=Xv9ZxXM2LWM
@@ -742,6 +766,13 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://imran-niaz.medium.com/the-ultimate-sqlmap-tutorial-master-sql-injection-and-vulnerability-assessment-3914334c351b
 
 
+
+
+
+
+5. Database Engineering internals
+
+	=> https://www.youtube.com/watch?v=8ogJlOIxKVE&list=PLliXPok7ZonnALnedG5doBOSCXlU14yJF    (How do Databases work?)
 
 
 
@@ -1225,6 +1256,22 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 7. PySpark Interview Questions
 
+
+	=> https://www.databricks.com/dataaisummit/session/pandas-spark-simplicity-pandas-efficiency-spark   (Pandas on Pyspark)
+	=> https://medium.com/tomtalkspython/pyspark-vs-pandas-when-to-use-each-dabf995cf850
+
+
+	=> 
+           SPARK 
+                  1. Out-of-memory questions on spark driver and executor both, 
+                  2. Data skewness question, 
+                  3. optimised joins in spark, 
+                  4. how to optimise a given spark application?
+                  5. salting techniques
+           KAFKA
+                  1. Offset management related things
+                  2. Consumer Groups
+
 	=> https://www.youtube.com/watch?v=1J7qZ5SNGaQ
 
 	=> https://medium.com/tomtalkspython/pyspark-vs-pandas-when-to-use-each-dabf995cf850
@@ -1232,6 +1279,9 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	=> https://medium.com/predmatic/pyspark-and-pandas-dataframes-side-by-side-syntax-comparisons-part-1-de18381fd708
 
 	=> https://www.youtube.com/watch?v=P5pEeR3xQpI   (databricks)
+
+
+	=> https://www.youtube.com/watch?v=4FEe_rBMWss&list=PL8shR35Hdv6NqQLhwtq-QpEtzKGK_4RD7
 
 	=> https://www.youtube.com/watch?v=obkKGo7LHnk
 
@@ -2002,6 +2052,23 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 9. Data Analytics
 
+
+	=> https://www.youtube.com/watch?v=5KYtAN2XAaw    (SQL in EXCEL using SQLLOOKUPS)
+
+	=> Design dynamic SQL queries and transport them to Google Sheets for dashboard creation.
+           Automate scripts using Jenkins.
+           Extract data from Google Analytics Dashboard with Python scripting for analysis.
+           Use Excel and Google Sheets (SUMIFS, VLOOKUPS, Pivots, PowerQuery) for major analysis and testing.
+           Work with Google APIs and key generation for automation.
+           Leverage Power BI for automating Google Sheets dashboards into BI dashboards.
+
+
+	=> https://www.youtube.com/watch?v=aufQGozByGc  (power bi complete roadmap from basic to advabnced)
+
+	=> https://www.youtube.com/@sujeetkumar-iptexcelschool/playlists
+
+	=> https://www.youtube.com/playlist?list=PL4RMtTtdBUufvIFQBIta393u3XlYwM4uc
+
 	=> https://www.youtube.com/watch?v=WyBdr48EfXs  (power bi interview Ankit Bansal)
 
 	=> https://www.youtube.com/watch?v=DHp0TGvTmsg  (EXCEL + Power BI interview questions best)
@@ -2295,6 +2362,10 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 9. System Design  (DATA ENGINEER)
+
+	=> https://www.youtube.com/watch?v=ceClqzlmXaM  (Data Engineering System Design Interview Framework)
+	=> https://www.youtube.com/watch?v=XI7zep97c-Y&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW&index=2  (LLD playlist)
+	=> https://www.youtube.com/playlist?list=PLsdq-3Z1EPT36NJXTutvKcreetuHCr9a-
 	=> https://freedium.cfd/https://medium.com/@vishalbarvaliya/golden-rules-for-system-design-interview-48d0fdbc444f
         => https://medium.com/@seancoyne/data-engineering-practice-system-design-question-and-solution-batch-b971eae7637b
         => https://medium.com/@seancoyne/cracking-the-data-engineering-interview-the-system-design-interview-fcda02d95c65
