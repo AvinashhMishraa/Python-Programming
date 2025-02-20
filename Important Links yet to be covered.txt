@@ -1,3 +1,50 @@
+'
+https://www.youtube.com/watch?v=jdrwZfeTd-o     (ultimate reference for DATA ENGINEER interview)
+https://www.youtube.com/watch?v=IUK0PmQDrqM    
+
+
+
+
+
+
+
+
+
+Tiger Analytics | Data Engineer Interview Experience | 4 YoE
+ (Save & Share to help others) 🙌🏻 
+
+Round 1: Technical (1 Hr)
+✅ Tell me about yourself and any recent projects you have been a part of.
+✅ Questions related to your projects.
+✅ How would you connect multiple tables from different AWS databases (e.g., RDS, Redshift) using a single connection in AWS Glue?
+✅ What are the different types of triggers in AWS Glue or AWS Step Functions?
+✅ How do you deploy code from DEV to QA and PROD environments using AWS services?
+✅ How do you create a CI/CD pipeline for deployment in AWS using CodePipeline, CodeCommit, and CodeBuild?
+✅ What types of transformations have you performed in your projects using AWS Glue or other services?
+✅ How can you replace spaces in column names with underscores in source files using AWS Glue and S3?
+✅ What is SCD Type 2, and how can you implement it in AWS using Glue or Redshift?
+✅ What are the differences between AWS S3 and AWS Redshift in terms of data storage and usage?
+✅ How do you read data from S3 using Amazon Redshift Spectrum or Athena?
+✅ Write a Python function to merge two sorted lists into one sorted list.
+✅ Write an SQL Query to fetch 2nd highest salary department wise and differe approaches to do it.
+
+Round 2: Technical (30 Mins)
+✅ How do you create a view in AWS Glue or Amazon Redshift?
+✅ Write a DDL command in Amazon Redshift to create a table.
+✅ What AWS Glue activities have you used in your project?
+✅ Are you familiar with AWS S3 and IAM security? How do you secure access to data in S3?
+✅ What are the different authentication methods available in AWS Glue for accessing S3 or RDS?
+✅ How many team members are there in your team and what's your role in the team?
+✅ What are your skillsets, roles, and responsibilities in your current data engineering project, especially around Spark and AWS?
+✅ How would you design a pipeline to ingest, transform, and load (ETL) large datasets from S3 into Amazon Redshift using Spark?
+✅ How would you implement data versioning in a Spark-based pipeline, ensuring that data can be tracked across versions?
+✅ Questions related to Spark Optimizations like what are they and when to use them
+
+Round 3: HR
+✅ Discussion around my experience and projects, some resume-based questions.
+✅ What are you expecting in your next job role?
+✅ Package discussion
+
 
 When interviewing a Python developer, key topics to cover include: core Python syntax and data structures, object-oriented programming (OOP) concepts, control flow, functions, string manipulation, exception handling, modules and packages, common libraries like NumPy, Pandas, and requests, web frameworks like Django or Flask (depending on the role), data analysis basics, problem-solving skills through coding exercises, and understanding of best practices like PEP 8; ensuring to tailor the depth of questions based on the desired seniority level
 
@@ -7,6 +54,8 @@ https://github.com/manisnitt/myresume/blob/main/manish_resume_github.pdf
 https://www.youtube.com/watch?v=swfNxI-ZdqI
 https://www.youtube.com/watch?v=FV9immu-Dvk   (Topics to cover)
 https://www.youtube.com/watch?v=tqeYVVHygy8    (most important)
+https://www.linkedin.com/pulse/integrating-ai-data-engineering-10-practical-use-cases-bergoglio-zdsvf/   (AI Agent in Data Engineering)
+https://medium.com/@siva_yetukuri/ai-powered-data-engineering-harnessing-large-language-models-and-multi-agent-frameworks-like-29c1a0d6e3dc
 
 
 
@@ -514,6 +563,12 @@ https://www.youtube.com/watch?v=iwRneX7GIGI  (DataBase Engineering - DataWarehou
 
 4. SQL Interview Questions 
 
+	=> https://www.youtube.com/watch?v=Nsz5c7X5M6I
+
+	=> https://www.youtube.com/playlist?list=PLrtCHHeadkHqFoyAJ8f-cYynn0MhYr7vO    (IMPORTANT PLAYLIST)
+
+	=> https://www.youtube.com/watch?v=GHgRnBn-l1U
+
 	=> https://www.youtube.com/watch?v=dTiOlyL5WPQ   (live interview)
 
 	=> https://www.youtube.com/watch?v=9iJ4cHV-WsQ   (Ankit Bansal- SQL triggers)
@@ -774,9 +829,15 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 	=> https://www.youtube.com/watch?v=8ogJlOIxKVE&list=PLliXPok7ZonnALnedG5doBOSCXlU14yJF    (How do Databases work?)
 
+	=> https://www.youtube.com/watch?v=9E_6_pBrjaw  (How to Deploy Database Changes With No Outage)
+
 
 
 5. Data Modelling & Data Warehousing
+
+	=> https://www.youtube.com/playlist?list=PLrtCHHeadkHqPha8-kekn4cCAQvlSAnNX   (SYSTEM DESIGN COMPLETE ARCHITECTURE EXPLAINATION  of Amazon, Uber, Airbnb, Netflix)   ***************
+           https://www.youtube.com/watch?v=IUK0PmQDrqM                                (DATA MODELLING)
+
 
 	=> https://medium.com/wwcode-python/data-engineer-interview-series-data-modeling-part-1-20b6a9cfc7a5
 	=> https://anju-mercian.medium.com/data-engineer-interview-series-data-modeling-part-2-8a794368b643
@@ -886,6 +947,10 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 5. Data Engineering Mock Interview (The Big Data Show)
+
+	=> https://www.youtube.com/watch?v=44sWlTR-yK0   (important)
+
+	=> https://www.youtube.com/watch?v=MvZxRwV65xA
 
 	=> https://medium.com/@itsadityagupta/data-engineer-interview-experience-at-media-net-2023-6b7295493a3e
 
@@ -1271,6 +1336,47 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
            KAFKA
                   1. Offset management related things
                   2. Consumer Groups
+
+	=> https://www.youtube.com/watch?v=O18afGTGoIU    (Delta Lake  - 4 HOUR  - Ansh Lamba)
+
+
+	=> https://www.youtube.com/playlist?list=PLWAuYt0wgRcLCtWzUxNg4BjnYlCZNEVth   (Apache Spark Performance Tuning)
+           https://www.youtube.com/playlist?list=PLWAuYt0wgRcKtqUhfVbtPjULMdYq5drs8   (Data Engineer Interview in FAANG)
+
+
+	=> https://www.youtube.com/watch?v=94w6hPk7nkM&t=16737s
+	   https://www.youtube.com/watch?v=fOCiis31Ng4&t=5038s
+	   https://www.youtube.com/watch?v=Rp5LWT4or-o&list=PLxy0DxWEupiODTF_xM5Lw1ghc0XtLCUhC
+           https://www.youtube.com/watch?v=uvrrN8aqZW0&list=PLxy0DxWEupiNjGSv1hzRFBXgSzV-bZu94
+	   https://www.youtube.com/watch?v=BlWS4foN9cY
+	   https://www.youtube.com/watch?v=6MaZoOgJa84&list=PLMWaZteqtEaJFiJ2FyIKK0YEuXwQ9YIS_
+	   https://www.youtube.com/playlist?list=PLiDUHlGx0KN8fBg645K15BIIP8jroHYpi
+           https://www.youtube.com/watch?v=1J7qZ5SNGaQ&t=16245s
+           https://www.youtube.com/watch?v=XhjIJGsAMsQ&list=PL6UwySlcwEYKiC-EjEmN4f33c5fVpbzha
+           https://www.youtube.com/watch?v=k1LaWFNOa68
+           https://drive.google.com/file/d/1oCdTzXarZEkado9dHm29uVNzsuweC5rg/view
+           https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/?srsltid=AfmBOor3hwt4yravYLc7vzyYFo7jUnIBZnLwkBrIQNmD0JnuM7ZK_6ne&couponCode=LEARNNOWPLANS
+           https://www.youtube.com/watch?v=5RosqOeJrrs
+           https://www.youtube.com/watch?v=_C8kWso4ne4
+           https://www.youtube.com/watch?v=wNRjR6Cds5s&list=PL2IsFZBGM_IHCl9zhRVC1EXTomkEp_1zm
+           https://www.youtube.com/watch?v=6MaZoOgJa84&list=PLMWaZteqtEaJFiJ2FyIKK0YEuXwQ9YIS_
+           https://www.youtube.com/watch?v=obkKGo7LHnk
+           https://www.youtube.com/watch?v=iXVIPQEGZ9Y
+           https://www.youtube.com/watch?v=CfhRrA7oO10&list=PL19TxVqoJEnQ9dINF2gqxo_0CYPnrSwdf
+           https://www.youtube.com/watch?v=4FEe_rBMWss&t=18s
+           https://www.youtube.com/watch?v=9S-9CL8R-wM&list=PLJr_t3X9vury2MvXjlsr7jieM7AMs5XZ1&index=11
+           https://www.youtube.com/watch?v=SwV7ljrzJ4g&list=PLZpGsO7CdJ8wvOg6UPckSYG0D8K02kc4H
+           https://www.youtube.com/watch?v=LhqFAtKPXGU&list=PLudtFFYa8QihFgwsG8UQpZ3tuzqJUx9lE&index=3
+           https://www.youtube.com/watch?v=QZ2a4vtFEOQ&list=PLqGLh1jt697yabH8-hRdV8Y5nzIEHDo29
+           https://www.youtube.com/@DEwithDhairy/playlists
+           https://www.youtube.com/watch?v=aYzaBggF5jI&list=PLqGLh1jt697xzk9LCLL_wFPDZi_xa0xR0
+           https://www.youtube.com/watch?v=pE_a5W70Hu8&list=PLqGLh1jt697zXpQy8WyyDr194qoCLNg_0
+           https://www.youtube.com/watch?v=eeMuVSQ9B7I&list=PLOlK8ytA0MgjvOpd-088NRU_vTYw_aryH
+	   https://www.youtube.com/@amanmaheshwari34/playlists
+           https://www.youtube.com/watch?v=T8WZGfwmD7s
+	   https://www.youtube.com/@rajasdataengineering7585/playlists
+
+
 
 	=> https://www.youtube.com/watch?v=1J7qZ5SNGaQ
 
@@ -2184,7 +2290,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
                 https://medium.com/@yaduvanshineelam09/shallow-copy-and-deep-copy-in-python-2da5033246d2
 		https://medium.com/@yaduvanshineelam09/restfull-api-dcf57cb2119f
 
-
+	=> https://www.youtube.com/watch?v=F6QZutbRt2Y&t=15s
 
 	=> https://medium.com/@shishir.ranjan.shishir/python-interview-preparation-cec4392cea7f
 
@@ -2604,7 +2710,9 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 
+34. Databricks Architecture
 
+	=> https://www.youtube.com/watch?v=9yKecTXW2pY
 
 
 
@@ -2978,6 +3086,7 @@ Bulk Hierarchy Uploader
 Project Name - Real Time Ecommerce Analytics   
 
 
+https://www.youtube.com/watch?v=jdrwZfeTd-o     (ultimate reference for DATA ENGINEER interview with ecommerece app pipeline)
 
 
 
@@ -3519,6 +3628,8 @@ PROJECT - Google Cloud
 
 Real Time Streaming Data Analytics :
 
+=> https://www.youtube.com/watch?v=53tcAZ6Qda8   (NETFLIX complete explaination) *****
+
 => https://blog.rittmananalytics.com/how-rittman-analytics-analyzes-its-historical-revenue-sales-pipeline-using-google-bigquery-39b06e915790
 
 => https://medium.com/@murat_aydin/building-a-real-time-streaming-data-pipeline-a-journey-through-apache-kafka-airflow-blob-ece24390eb67
@@ -4028,6 +4139,89 @@ Business
 
 
 
+
+################################################################################################################
+
+
+1. Scalable System Design
+
+	Design a URL shortening service (e.g., TinyURL, Bitly).
+	Design a distributed file storage system (e.g., Google Drive, Dropbox).
+	Design a global video streaming platform (e.g., Netflix, YouTube).
+	Design a social media platform (e.g., Twitter, Instagram).
+	Design a real-time chat application (e.g., WhatsApp, Slack).
+
+2. Distributed Systems
+
+	Design a distributed cache system (e.g., Redis, Memcached).
+	Design a distributed message queue (e.g., Kafka, RabbitMQ).
+	Design a distributed job scheduler (e.g., Apache Airflow, Cron).
+	Design a distributed search engine (e.g., Elasticsearch, Google Search).
+	Design a distributed logging system (e.g., ELK Stack).
+
+3. Database Design
+
+Design a relational database schema for an e-commerce platform.
+	Design a NoSQL database for a social media application.
+	Design a time-series database for IoT sensor data.
+	Design a distributed database with high availability and consistency (e.g., Cassandra, Spanner).
+	Design a database sharding strategy for a large-scale application.
+
+4. High Availability and Fault Tolerance
+
+	Design a highly available payment system (e.g., PayPal, Stripe).
+	Design a fault-tolerant distributed system (e.g., Quorum-based systems).
+	Design a leader election algorithm for a distributed system.
+	Design a distributed lock service (e.g., Zookeeper).
+	Design a system to handle failover and recovery in a distributed environment.
+
+5. Real-Time Systems
+
+	Design a real-time analytics dashboard (e.g., Google Analytics).
+	Design a real-time recommendation system (e.g., Netflix recommendations).
+	Design a real-time multiplayer game server (e.g., PUBG, Fortnite).
+	Design a real-time stock trading platform.
+	Design a real-time traffic monitoring system.
+
+6. Caching and Performance Optimization
+
+	Design a caching layer for a high-traffic web application.
+	Design a content delivery network (CDN).
+	Design a rate-limiting system for an API.
+	Design a load balancer for a distributed system.
+	Design a system to handle hot keys in a distributed cache.
+
+7. Event-Driven Systems
+
+	Design an event-driven architecture for an e-commerce platform.
+	Design a pub-sub system (e.g., Kafka, Google Pub/Sub).
+	Design a system to process real-time events (e.g., clickstream data).
+	Design a system to handle event ordering in a distributed environment.
+	Design a system to deduplicate events in a stream processing pipeline.
+
+8. Scalable Data Processing
+
+	Design a data pipeline for processing large-scale log data.
+	Design a system for batch processing (e.g., Hadoop MapReduce).
+	Design a system for stream processing (e.g., Apache Flink, Spark Streaming).
+	Design a system for real-time data aggregation.
+	Design a system for distributed data joins.
+
+9. Security and Authentication
+
+	Design a secure authentication and authorization system (e.g., OAuth, JWT).
+	Design a system to prevent DDoS attacks.
+	Design a secure API gateway.
+	Design a system for secure data encryption at rest and in transit.
+	Design a system for secure password storage.
+
+10. Miscellaneous
+
+	Design a ride-sharing service (e.g., Uber, Lyft).
+	Design a food delivery platform (e.g., DoorDash, Uber Eats).
+	Design a ticketing system for a large event (e.g., Ticketmaster).
+	Design a system for handling spikes in traffic (e.g., flash sales).
+	Design a system for versioning and rollback in a distributed environment.
 
 
 
