@@ -835,6 +835,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 5. Data Modelling & Data Warehousing
 
+	=> https://www.youtube.com/playlist?list=PLNcg_FV9n7qaUWeyUkPfiVtMbKlrfMqA8     (BEST  TUTORIAL)
+
 	=> https://www.youtube.com/watch?v=HKcEyHF1U00   (BEST)
 
 	=> https://www.youtube.com/playlist?list=PLrtCHHeadkHqPha8-kekn4cCAQvlSAnNX   (SYSTEM DESIGN COMPLETE ARCHITECTURE EXPLAINATION  of Amazon, Uber, Airbnb, Netflix)   ***************
