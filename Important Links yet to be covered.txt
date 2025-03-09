@@ -956,6 +956,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 5. Data Engineering Mock Interview (The Big Data Show)
 
+	=> https://www.youtube.com/watch?v=QMWXcyuYzD4   (AZURE ENGINEERING - 21 hours)
+
 	=> https://www.youtube.com/watch?v=44sWlTR-yK0   (important)
 
 	=> https://www.youtube.com/watch?v=MvZxRwV65xA
