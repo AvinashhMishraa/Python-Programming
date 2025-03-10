@@ -2070,7 +2070,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 9. AZURE 
 
 	=> => https://www.youtube.com/watch?v=DnsGmAJBuZM   (AZURE DATA FACTOPY FULL - DATA ENGINEERING FULL 6 HOUR VIDEO)
-        => https://medium.com/@alonso.md      (Complete project with full explaination and interview questions)
+        => => https://medium.com/@alonso.md      (Complete project with full explaination and interview questions)
+        => => https://medium.com/@alonso.md/deploy-azure-databricks-using-terraform-6e8a39aa7287
 
 
 
