@@ -1333,6 +1333,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 	=> https://varshacbendre.medium.com/how-i-processed-1-billion-rows-in-pyspark-without-crashing-and-you-can-too-d6725f29e039
 
+	=> https://medium.com/@samuilkonyarov/the-glorious-spark-ui-simulator-turning-theory-into-practice-for-debugging-spark-jobs-b56b345716c5
+
 
 	=> https://www.databricks.com/dataaisummit/session/pandas-spark-simplicity-pandas-efficiency-spark   (Pandas on Pyspark)
 	=> https://medium.com/tomtalkspython/pyspark-vs-pandas-when-to-use-each-dabf995cf850
