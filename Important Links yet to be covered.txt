@@ -1332,6 +1332,9 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 7. PySpark Interview Questions
 
 => Rocky Bhatia
+
+https://www.youtube.com/shorts/AdHT_qEVdts
+
 https://rockybhatia.substack.com/p/apache-spark-explained-architecture
 
 https://www.linkedin.com/posts/rocky-bhatia-a4801010_one-diagram-to-refer-for-spark-application-activity-7142841174196740097-pU7h/
