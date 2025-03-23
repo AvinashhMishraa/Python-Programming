@@ -563,6 +563,12 @@ https://www.youtube.com/watch?v=iwRneX7GIGI  (DataBase Engineering - DataWarehou
 
 4. SQL Interview Questions 
 
+	=> Arpita Mishra
+		https://freedium.cfd/https://medium.com/@shaloomathew/sql-window-functions-part-1-40aff4421077
+		https://freedium.cfd/https://medium.com/@shaloomathew/sql-window-functions-with-examples-part-2-3a5edb7f55c3
+		https://freedium.cfd/https://medium.com/@shaloomathew/sql-window-functions-with-examples-part-3-072cbbd58099
+		https://freedium.cfd/https://medium.com/@shaloomathew/sql-window-functions-part-4-sql-frame-clause-62d087f6f8cc
+
 	=> https://www.youtube.com/watch?v=WiI7bI2jkT8
 
 	=> https://www.youtube.com/watch?v=nYmoQ4r0DVw
@@ -1329,6 +1335,15 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 
 7. PySpark Interview Questions
+
+
+=> Arpita Mishra
+	=> https://freedium.cfd/https://medium.com/towards-data-engineering/pyspark-interview-questions-you-cant-miss-part-1-deeaf7288a67
+	=> https://freedium.cfd/https://medium.com/@arpitamishra11596/comprehensive-analysis-of-top-10-products-by-monthly-sales-revenue-using-pyspark-a-step-by-step-7a28800a6b11
+	=> https://freedium.cfd/https://medium.com/towards-data-engineering/beginners-guide-to-pyspark-interview-questions-rdds-dataframes-and-transformations-part-1-1e2f4580a21d
+	=> https://freedium.cfd/https://medium.com/towards-data-engineering/mastering-apache-spark-key-concepts-and-practical-tips-4c6eb6516a2e
+
+
 
 => Rocky Bhatia
 
