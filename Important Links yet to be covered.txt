@@ -1407,6 +1407,7 @@ https://www.linkedin.com/posts/rocky-bhatia-a4801010_%F0%9D%90%88%F0%9D%90%A7%F0
 	   https://www.youtube.com/@rajasdataengineering7585/playlists
 
 
+	=> => https://medium.com/@anupchakole/epam-data-engineering-interview-questions-17c966a9f697   (SQL + PySpark + AWS)
 
 	=> https://www.youtube.com/watch?v=1J7qZ5SNGaQ
 
