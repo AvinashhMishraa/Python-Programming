@@ -567,6 +567,8 @@ https://www.youtube.com/watch?v=iwRneX7GIGI  (DataBase Engineering - DataWarehou
 
 	=> https://www.youtube.com/watch?v=nYmoQ4r0DVw
 
+	=> https://medium.com/@anupchakole/data-engineering-interview-essentials-key-python-aws-and-sql-concepts-82bc333ea4d4
+
 	=> https://www.youtube.com/watch?v=Nsz5c7X5M6I
 
 	=> https://www.youtube.com/playlist?list=PLrtCHHeadkHqFoyAJ8f-cYynn0MhYr7vO    (IMPORTANT PLAYLIST)
@@ -956,6 +958,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 5. Data Engineering Mock Interview (The Big Data Show)
 
+	=> https://medium.com/@anupchakole/data-engineering-interview-essentials-key-python-aws-and-sql-concepts-82bc333ea4d4
+
 	=> https://www.youtube.com/watch?v=QMWXcyuYzD4   (AZURE ENGINEERING - 21 hours)
 
 	=> https://www.youtube.com/watch?v=44sWlTR-yK0   (important)
@@ -1024,8 +1028,6 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 	=> https://techleadcuriosity.com/50-most-common-questions-asked-in-a-data-engineering-job-interview-39ea400cde8b
 	   https://techleadcuriosity.com/25-most-common-questions-asked-in-a-data-engineering-job-interview-f1308de286db
-
-
 
 
 	=> https://www.interviewquery.com/p/data-engineer-python-questions
@@ -1222,9 +1224,6 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	   https://sharmashorya1996.medium.com/pyspark-interview-preparation-part-3-coding-practice-a9d66c421c4
 
 
-
-
-
 	=> https://medium.com/muthoni-wanyoike/data-engineering-interview-questions-and-how-to-answer-them-529396fbc1a5
 
 	=> Priya Chauhan
@@ -1342,6 +1341,7 @@ https://www.linkedin.com/posts/rocky-bhatia-a4801010_one-diagram-to-refer-for-sp
 https://www.linkedin.com/posts/rocky-bhatia-a4801010_%F0%9D%90%88%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%AE%F0%9D%90%9C%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%9A-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E-activity-7274022898007175169-3klX/
 
 
+	=> https://medium.com/@anupchakole/data-engineering-interview-essentials-key-python-aws-and-sql-concepts-82bc333ea4d4
 		
 
 	=> https://www.youtube.com/@DataArchitectStudio/playlists     (VERY IMPORTANT FOR INTERVIEWS)
@@ -2325,6 +2325,8 @@ https://www.linkedin.com/posts/rocky-bhatia-a4801010_%F0%9D%90%88%F0%9D%90%A7%F0
 		https://medium.com/@yaduvanshineelam09/restfull-api-dcf57cb2119f
 
 	=> https://www.youtube.com/watch?v=F6QZutbRt2Y&t=15s
+
+	=> https://medium.com/@anupchakole/data-engineering-interview-essentials-key-python-aws-and-sql-concepts-82bc333ea4d4
 
 	=> https://medium.com/@shishir.ranjan.shishir/python-interview-preparation-cec4392cea7f
 
