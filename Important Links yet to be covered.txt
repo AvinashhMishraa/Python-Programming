@@ -569,6 +569,8 @@ https://www.youtube.com/watch?v=iwRneX7GIGI  (DataBase Engineering - DataWarehou
 		https://freedium.cfd/https://medium.com/@shaloomathew/sql-window-functions-with-examples-part-3-072cbbd58099
 		https://freedium.cfd/https://medium.com/@shaloomathew/sql-window-functions-part-4-sql-frame-clause-62d087f6f8cc
 
+	=> https://freedium.cfd/https://towardsdev.com/windows-functions-in-pyspark-concepts-and-use-cases-82293a61621e
+
 	=> https://www.youtube.com/watch?v=WiI7bI2jkT8
 
 	=> https://www.youtube.com/watch?v=nYmoQ4r0DVw
