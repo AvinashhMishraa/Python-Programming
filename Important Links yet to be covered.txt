@@ -3949,6 +3949,8 @@ Database Migration
 
 => https://www.youtube.com/watch?v=BaW0TbhZoq0&list=PL1RS9FR9qIPHmP7uZNxlPw8NScw7jxG-U  (Data Migration in AWS)
 
+=> https://learn.microsoft.com/en-us/azure/dms/
+
 => https://thelaymanspeaks.medium.com/the-definitive-data-migration-playbook-a-step-by-step-guide-to-seamless-cloud-transitions-8ab816e21487
 
 	=> https://www.freedium.cfd/https://medium.com/@jagadeshjamjalanarayanan/data-engineering-scenario-data-migration-weekly-issue-8-c3f7b049de26
