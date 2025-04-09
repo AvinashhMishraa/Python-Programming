@@ -1340,6 +1340,8 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 	=> https://medium.com/@anupchakole/how-i-messed-up-my-data-engineering-interview-at-lti-mindtree-2ccc2d9d503b
 
+	=> https://www.youtube.com/@rajasdataengineering7585/playlists
+
 
 	=> Arpita Mishra
 		=> https://freedium.cfd/https://medium.com/towards-data-engineering/pyspark-interview-questions-you-cant-miss-part-1-deeaf7288a67
