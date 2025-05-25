@@ -849,6 +849,36 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 
 5. Data Modelling & Data Warehousing
 
+	Preparing these five a scenario-based Data Warehousing & Data Modelling questions before your next Data Engineer Interview 👇 
+
+	1️⃣ Global Retail Sales Reporting
+	
+	“Your company operates e-commerce sites in 20 countries. Design a data warehouse schema that supports both daily P&L reports per country and ad-hoc drill-downs by product category, channel, and promotion. How do you balance normalization vs. performance?”
+	
+	2️⃣ High-Volume Time-Series IoT Data
+	
+	“A fleet of 50,000 delivery drones emits telemetry every 10 seconds. Propose a warehouse model to ingest raw streams for real-time alerting, plus hourly/daily aggregates for analytics. Which tables, partitions, and schemas would you create?”
+	
+	3️⃣ Customer 360 with Slowly Changing Dimensions
+	
+	“You need a Customer 360 view: demographics, preferences, and account changes over 5 years. Show how you’d model this with Type-2 SCD, including surrogate keys, effective dates, and query patterns for “as-of” reporting.”
+	
+	4️⃣ Hybrid Batch + Streaming Clickstream
+	
+	“Your marketing team needs sub-second dashboards of site activity alongside weekly funnels. Architect a Lambda/Kappa hybrid in GCP: Pub/Sub → Dataflow → BigQuery streaming vs. nightly batch backfills. Sketch your tables and pipelines.”
+	
+	5️⃣ Geospatial & Time-Windowed Analytics
+	
+	“An urban-mobility app logs GPS pings for millions of rides. Design a schema that lets analysts query “average speed by neighborhood per hour” and also run fast cross-city heatmaps. How would you partition and cluster your tables?”
+	
+	
+	Tips to Ace Them
+	
+	➡️ Draw it out: quick whiteboard or diagram of your star/snowflake schema
+	➡️ Explain trade-offs: normalization vs. query speed; partitioning vs. maintenance
+	➡️ Surface GCP features: BigQuery partitioning, clustering, materialized views; Dataflow vs. Dataproc
+	➡️ Highlight SLAs: data freshness, cost control, scale strategies
+
 	=> https://www.youtube.com/playlist?list=PLNcg_FV9n7qaUWeyUkPfiVtMbKlrfMqA8     (BEST  TUTORIAL)
 
 	=> https://www.youtube.com/watch?v=HKcEyHF1U00   (BEST)
