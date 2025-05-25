@@ -871,7 +871,6 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 	
 	“An urban-mobility app logs GPS pings for millions of rides. Design a schema that lets analysts query “average speed by neighborhood per hour” and also run fast cross-city heatmaps. How would you partition and cluster your tables?”
 	
-	
 	Tips to Ace Them
 	
 	➡️ Draw it out: quick whiteboard or diagram of your star/snowflake schema
