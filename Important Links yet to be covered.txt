@@ -1381,6 +1381,7 @@ list=PLhko4ZbqlACPmmBa37Eq3aohjRqudSng6
 		=> https://freedium.cfd/https://medium.com/towards-data-engineering/mastering-apache-spark-key-concepts-and-practical-tips-4c6eb6516a2e
 
 
+	=> https://www.youtube.com/watch?v=7B47MT9ilgg   (Off Heap Memory in Spark: The Hidden Performance Booster || Spark Optimization techniques)
 
 	=> Rocky Bhatia
 
